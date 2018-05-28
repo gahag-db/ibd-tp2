@@ -7,3 +7,6 @@ jq '[ ._embedded.licitacoes[] | { "id": .identificador|tonumber, "modalidade": .
 
 jq '[ ._embedded.Orgaos[] | { "id": .codigo, "nome": .nome, "esfera": .codigo_tipo_esfera } ]' \
    data/original/orgaos.json > data/processed/orgaos.json
+
+jq '[ ._embedded.uasgs[] | { "id": .id, "nome": .nome, "municipio": .municipio, "licitacoes": .licitacoes, "orgao": .orgao } ]' \
+   data/original/uasgs.json > data/processed/uasgs.json

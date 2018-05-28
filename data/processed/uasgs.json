@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 10001,
+    "nome": "CAMARA DOS DEPUTADOS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10002,
+    "nome": "CAMARA DOS DEPUTADOS - UG P/CONSULTA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10003,
+    "nome": "CAMARA DOS DEPUTADOS - AUDITORIA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10004,
+    "nome": "MESA DA CAMARA DOS DEPUTADOS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10005,
+    "nome": "PLENARIO DA CAMARA DOS DEPUTADOS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10006,
+    "nome": "SECRETARIA-GERAL DA MESA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10007,
+    "nome": "SECRETARIA DE CONTROLE INTERNO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10008,
+    "nome": "SECRETARIA DE COMUNICACAO SOCIAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10009,
+    "nome": "LIDERANCAS PARTIDARIAS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10010,
+    "nome": "PARTIDOS POLITICOS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10011,
+    "nome": "DIRETORIA-GERAL(GABINETE,ATEC,AUDITORIA)",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10012,
+    "nome": "DEPARTAMENTO DE APOIO PARLAMENTAR",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10013,
+    "nome": "DEPARTAMENTO MEDICO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10014,
+    "nome": "CENTRO DE FORMACAO,TREIN.E APERFEICOAMENTO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10015,
+    "nome": "COORDENACAO DE HABITACAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10016,
+    "nome": "SECRETARIA EXECUTIVA DO PRO-SAUDE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10017,
+    "nome": "DIRETORIA ADM.- GABINETE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10018,
+    "nome": "CENTRO DE INFORMATICA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10019,
+    "nome": "DEP.DE FINANCAS,ORCAMENTO E CONTABILIDADE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10020,
+    "nome": "DEPARTAMENTO DE MATERIAL E PATRIMONIO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10021,
+    "nome": "DEPARTAMENTO DE PESSOAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10022,
+    "nome": "DEPARTAMENTO TECNICO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10023,
+    "nome": "DIRETORIA LEGISLATIVA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10024,
+    "nome": "CENTRO DE DOCUMENTACAO E INFORMATICA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10025,
+    "nome": "CONSULTORIAS LEGISLATIVA E DE ORCAMENTO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10026,
+    "nome": "DEPARTAMENTO DE COMISSOES",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10027,
+    "nome": "COMISSOES PERMANENTES",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10028,
+    "nome": "COMISSOES PARLAMENTARES DE INQUERITO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10029,
+    "nome": "DEPART. DE TAQUIGRAFIA, REVISAO E REDACAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10030,
+    "nome": "DEPARTAMENTO DE POLICIA LEGISLATIVA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10031,
+    "nome": "DIRETORIA DE RECURSOS HUMANOS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10032,
+    "nome": "PROCURADORIA PARLAMENTAR",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10033,
+    "nome": "OUVIDORIA PARLAMENTAR",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10034,
+    "nome": "COORDENACAO DE RELACOES PUBLICAS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10035,
+    "nome": "ASSESSORIA DE PROJETOS ESPECIAIS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10036,
+    "nome": "CONSELHO DE ALTOS ESTUDOS E AVAL. TECNOLOGICA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10037,
+    "nome": "COORDENACAO DE RELACOES PUBLICAS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 10090,
+    "nome": "FUNDO ROTATIVO DA CAMARA DOS DEPUTADOS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 15873,
+    "nome": "INST FED.DE EDUC. CIENC.E.TEC.DA PARAIBA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 18001,
+    "nome": "CAMARA DOS DEPUTADOS - DIF. DA INTEGRACAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20001,
+    "nome": "SENADO FEDERAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20002,
+    "nome": "CENTRO GRAFICO DO SENADO FEDERAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20003,
+    "nome": "CENTRO DE INFORMATICA E PROCES.DE DADOS DO DF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20004,
+    "nome": "SENADO FEDERAL - UG P/CONSULTA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20005,
+    "nome": "SENADO FEDERAL - AUDITORIA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20006,
+    "nome": "PRESIDENCIA DO SENADO FEDERAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20007,
+    "nome": "PRIMEIRA SECRETARIA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20008,
+    "nome": "DIRETORIA GERAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20009,
+    "nome": "SECRETARIA GERAL DA MESA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20010,
+    "nome": "SUBSECRETARIA DE COORD.LEG. DO SENADO FEDERAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20011,
+    "nome": "SUBSECRETARIA DE COORD. LEG. DO CONG.NACIONAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20012,
+    "nome": "SUBSECRETARIA DE EXPEDIENTE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20013,
+    "nome": "CONSULTORIA LEGISLATIVA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20014,
+    "nome": "CORREGEDORIA DO SENADO FEDERAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20015,
+    "nome": "CONSULTORIA DE ORCAMENTO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20016,
+    "nome": "ADVOCACIA DO SENADO FEDERAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20017,
+    "nome": "SECRETARIA DE CONTROLE INTERNO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20018,
+    "nome": "SECRETARIA ADMINISTRATIVA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20019,
+    "nome": "SUBSECRETARIA DE ADMINISTRACAO FINANCEIRA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20020,
+    "nome": "SUBSECRETARIA DE ADM.DE MATERIAL E PATRIMONIO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20021,
+    "nome": "SUBSECRET.DE ADM.DE COMPRAS,CONT.E ALIENACOES",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20022,
+    "nome": "SUBSECRETARIA DE ADMINISTRACAO DE PESSOAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20023,
+    "nome": "SECRETARIA DE COMUNICACAO SOCIAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20024,
+    "nome": "SUBSECRETARIA DE DIVULGACAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20025,
+    "nome": "SUBSECRETARIA DE RELACOES PUBLICAS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20026,
+    "nome": "SECRETARIA DE DOCUMENTACAO E INFORMACAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20027,
+    "nome": "SUBSECRETARIA DE ARQUIVO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20028,
+    "nome": "SUBSECRETARIA DE BIBLIOTECA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20029,
+    "nome": "SUBSECRETARIA DE ANALISE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20030,
+    "nome": "SUBSECRETARIA DE EDICOES TECNICAS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20031,
+    "nome": "SECRETARIA LEGISLATIVA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20032,
+    "nome": "SUBSECRETARIA DE COMISSOES",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20033,
+    "nome": "SUBSECRETARIA DE TAQUIGRAFIA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20034,
+    "nome": "SUBSECRETARIA DE ATA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20035,
+    "nome": "SUBSECRETARIA DE ANAIS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20036,
+    "nome": "SECRETARIA DE SERVICOS ESPECIAIS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20037,
+    "nome": "SUBSECRETARIA DE SERVICOS GERAIS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20038,
+    "nome": "SUBSECRETARIA TECNICA DE ELETRONICA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20039,
+    "nome": "SUBSECRETARIA DE ASSISTENCIA MEDICA E SOCIAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20040,
+    "nome": "SUBSECRETARIA DE ENGENHARIA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20041,
+    "nome": "REPRESENTACAO DO SEN.FEDERAL NO R.DE JANEIRO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20042,
+    "nome": "CENTRO DE DESENVOLV. DE REC. HUMANOS DO S.F.",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20043,
+    "nome": "GRUPO BRASILEIRO DO PARLAM. LATINO AMERICANO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20044,
+    "nome": "GRUPO BRASILEIRO DA ASSOC.INTERPAL.DE TURISMO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20045,
+    "nome": "GRUPO BRASILEIRO DA UNIAO INTERPARLAMENTAR",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20046,
+    "nome": "INSTITUTO DE PREVIDENCIA DOS CONGRESSISTAS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20047,
+    "nome": "CONS.DE ETICA E DECORO PARL.-SEC.GER.DA MESA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20048,
+    "nome": "CONS. DE COMUNICACAO SOCIAL - SEC.GER.DA MESA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20049,
+    "nome": "ASSESSORIA DE PLANEJ. E MODER.ADMINISTRATIVA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20050,
+    "nome": "SUBSECRETARIA DE SEGURANCA LEGISLATIVA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20051,
+    "nome": "DIRETORIA GERAL - RESERVA TECNICA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20052,
+    "nome": "SECRET.DO SISTEMA INTEGRADO DE SAÚDE DO SENAD",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20053,
+    "nome": "SUBSECRETARIA DE TELECOMUNICACOES = SSTEL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20054,
+    "nome": "FUNDO ESPECIAL DO SENADO FEDERAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20055,
+    "nome": "FUNDO DA SEC. ESP.DE EDITORACAO E PUBLICACOES",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20056,
+    "nome": "SEC. ESP. DE INFORMATICA DO SENADO FEDERAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20057,
+    "nome": "INTERLEGIS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20058,
+    "nome": "COORDENACAO DE ATIVIDADES EXTERNAS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20059,
+    "nome": "SECRETARIA DE FISCALIZACAO E CONTROLE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20060,
+    "nome": "SECRETARIA ESPECIAL DO INTERLEGIS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20061,
+    "nome": "FORUM INTERPARLAMENTAR DAS AMERICAS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20070,
+    "nome": "NPO/CONSULTORIA DO PRODASEN NPO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20100,
+    "nome": "SECRET.ESP.DE EDITORACAO E PUBLICACOES SEEP",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20101,
+    "nome": "SUBSECRETARIA DE APOIO TECNICO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20102,
+    "nome": "SUBSECRET.DE ADMINISTRACAO E MATERIAS-PRIMAS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20103,
+    "nome": "SUBSECRETARIA INDUSTRIAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20104,
+    "nome": "SUBSECRETARIA DE EDIçOES TECNICAS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20105,
+    "nome": "CONSULTORIA JURIDICA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20106,
+    "nome": "SERVICO DE ADMINISTRACAO FINANCEIRA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20107,
+    "nome": "SERVICO DE AQUISICOES",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20108,
+    "nome": "SERVICO DE MANUTENCAO TECNICA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20109,
+    "nome": "SERVICO DE MANUTENCAO INDUSTRIAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20110,
+    "nome": "SERVICO DE ATIVIDADES ESPECIAIS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20111,
+    "nome": "SERVICO DE CONTROLE DE ALMOXARIFADO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20112,
+    "nome": "GABINETE DA SEEP",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20113,
+    "nome": "SERVICO APOIO ADMINIST. E REGISTRO FUNCIONAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20114,
+    "nome": "GABINETE DA SSIND",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20115,
+    "nome": "GABINETE DA SSMAPR",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 20116,
+    "nome": "GABINETE DA SSATEC",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 23005,
+    "nome": "COORD. VIG. SANIT. PORTOS, AEROP. E FRONT./RS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 26289,
+    "nome": "GERêNCIA DE FILIAL LOGíSTICA EM RECIFE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 28001,
+    "nome": "SENADO FEDERAL - DIF. DA INTEGRACAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30001,
+    "nome": "TCU-TRIBUNAL DE CONTAS DA UNIAO/DF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30002,
+    "nome": "SECRETARIA DE CONTROLE EXTERNO NO PARA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30003,
+    "nome": "TCU/SERC. DE CONTROLE EXTERNO NO MARANHAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30004,
+    "nome": "TCU-SECRETARIA DE CONTROLE EXTERNO/PI",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30005,
+    "nome": "TCU/SEC. DE CONTROLE EXTERNO NO CEARA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30006,
+    "nome": "SECRETARIA CONTROLE EXTERNO NO RIO G DO NORTE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30007,
+    "nome": "TCU-SECRETARIA DE CONTROLE EXTERNO NA PARAIBA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30008,
+    "nome": "SECRETARIA DE CONTROLE EXTERNO EM PERNAMBUCO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30009,
+    "nome": "SECRETARIA DE CONTROLE EXTERNO EM ALAGOAS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30010,
+    "nome": "SECRETARIA DE CONTROLE EXTERNO EM SERGIPE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30011,
+    "nome": "SECRETARIA DE CONTROLE EXTERNO NA BAHIA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30012,
+    "nome": "TCU-SECRETARIA DE CONTROLE EXTERNO/MG",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30013,
+    "nome": "SECRETARIA CONTROLE EXTERNO-TCU/ES",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30014,
+    "nome": "SECRETARIA CONTROLE EXTERNO NO MS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30015,
+    "nome": "TCU-SECRETARIA CONTROLE EXTERNO/RJ",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30016,
+    "nome": "SECRETARIA DE CONTROLE EXTERNO EM SAO PAULO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30017,
+    "nome": "SECRETARIA DE CONTROLE EXTERNO NO PARANA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30018,
+    "nome": "TCU/SEC. CONTROLE EXTERNO - SC",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30019,
+    "nome": "TCU-SECRETARIA DE CONTROLE EXTERNO/RS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30020,
+    "nome": "SECRETARIA DE CONTROLE EXTERNO NO MT",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30021,
+    "nome": "TCU_SECRETARIA DE CONTROLE EXTERNO/GO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30022,
+    "nome": "SECRETARIA DE CONTROLE EXTERNO NO AMAZONAS/AM",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30023,
+    "nome": "SECRET.DE CONTROLE EXTER.NO EST.DE/TO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30024,
+    "nome": "SECRETARIA DE CONTROLE EXTERNO/TCU/AP",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30025,
+    "nome": "SECRETARIA DE CONTROLE EXTERNO ESTADO/RO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30026,
+    "nome": "SECRETARIA DE CONTROLE EXTER.NO EST.DO ACRE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30027,
+    "nome": "SEC.DE CONT.EXT. NO ESTADO DE RORAIMA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30028,
+    "nome": "SECRETARIA ADJUNTA DE FISCALIZACAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30029,
+    "nome": "BIRD - DOAçãO PARA REFORçO DE MONITORAMENTO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30100,
+    "nome": "TRIBUNAL DE JUSTICA DO ESTADO DO RJ",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30101,
+    "nome": "TCU - 1A SECRETARIA DE CONTROLE EXTERNO/DF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30102,
+    "nome": "TCU - 2A SECRETARIA DE CONTROLE EXTERNO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30103,
+    "nome": "TCU - 3A SECRETARIA DE CONTROLE EXTERNO/DF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30104,
+    "nome": "TCU - 4A SECRETARIA DE CONTROLE EXTERNO/DF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30105,
+    "nome": "TCU - 5A SECRETARIA DE CONTROLE EXTERNO/DF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30106,
+    "nome": "TCU - 6A SECRETARIA DE CONTROLE EXTERNO/DF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30107,
+    "nome": "TCU - 7A SECRETARIA DE CONTROLE EXTERNO/DF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30108,
+    "nome": "TCU - 8A SECRETARIA DE CONTROLE EXTERNO/DF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30109,
+    "nome": "TCU - 9A SECRETARIA DE CONTROLE EXTERNO/DF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30110,
+    "nome": "TCU - 10ª SECRETARIA DE CONTROLE EXTERNO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30200,
+    "nome": "TCU - SECRETARIA DE AUDITORIA E INSPECAO/DF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30201,
+    "nome": "TCU-SECRET.DE CONTAS DO GOV.E TRNASF.CONSTIT.",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30202,
+    "nome": "TCU - SECRETARIA DE CONTROLE INTERNO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30203,
+    "nome": "INSTITUTO SERZEDELLO CORREA - ISC/TCU",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30204,
+    "nome": "TCU - SECRETARIA DE INFORMATICA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30205,
+    "nome": "SECRETARIA ADJUNTA DE CONTAS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30206,
+    "nome": "SEC.DE FISCALIZACAO E AVAL.DE PROG.DE GOVERNO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30207,
+    "nome": "SEC.DE FISCALIZACAO DE OBRAS E PAT.DA UNIAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30208,
+    "nome": "SECRETARIA DE FISCALIZACAO DE PESSOAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30209,
+    "nome": "SECRETARIA DE PLANEJAMENTO E GESTAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 30999,
+    "nome": "TRIBUNAL DE CONTAS DA UNIAO-CONTROLE EXTERNO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 40001,
+    "nome": "STF/SUPREMO TRIBUNAL FEDERAL/DF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 40002,
+    "nome": "SECRETARIA DE CONTROLE INTERNO - STF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 40003,
+    "nome": "CONSELHO NACIONAL DE JUSTICA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 40004,
+    "nome": "SECRETARIA DE ADMINISTRACAO - STF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 40005,
+    "nome": "SECRETARIA DE TECNOLOGIA DA INFORMACAO - STF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 40006,
+    "nome": "SECRETARIA DE COMUNICAO SOCIAL - STF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 40007,
+    "nome": "SECRETARIA DE DOCUMENTACAO - STF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 40008,
+    "nome": "SECRETARIA DE RECURSOS HUMANOS - STF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 40009,
+    "nome": "SECRETARIA DE SERVICOS INTREGADOS DE SAUDE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 40010,
+    "nome": "CONSELHO NACIONAL DE JUSTIÇA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 40011,
+    "nome": "SECRETARIA DE SEGURANÇA - STF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 40101,
+    "nome": "CORREGEDORIA GERAL DA JUSTIÇA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 50001,
+    "nome": "STJ _ SUPERIOR TRIBUNAL DE JUSTICA/DF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 50002,
+    "nome": "SETORIAL CONTABIL DO STJ",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 50003,
+    "nome": "SECRETARIA DE CONTROLE INTERNO/STJ",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60001,
+    "nome": "STM _ SUPERIOR TRIBUNAL MILITAR/DF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60002,
+    "nome": "AUDITORIA DA 8A. CJM",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60003,
+    "nome": "AUDITORIA DA 10A. CJM / JUSTICA MILITAR - CE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60004,
+    "nome": "AUDITORIA DA 7A. CJM/PE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60005,
+    "nome": "AUDITORIA DA 6A. CJM",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60006,
+    "nome": "CJM-AUDITORIA DA 4A. CJM/MG",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60007,
+    "nome": "AUDITORIA DA 9A. CJM/MS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60008,
+    "nome": "1A. AUDITORIA DE MARINHA DA 1A. CJM",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60009,
+    "nome": "2A. AUDITORIA DE MARINHA DA 1A. CJM",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60010,
+    "nome": "1A. AUDITORIA DO EXERCITO DA 1A. CJM",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60011,
+    "nome": "2A. AUDITORIA DO EXERCITO DA 1A. CJM",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60012,
+    "nome": "1A. AUDITORIA DA AERONAUTICA DA 1A. CJM",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60013,
+    "nome": "2A. AUDITORIA DA AERONAUTICA DA 1A. CJM",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60014,
+    "nome": "1A. AUDITORIA DA 2A. CJM",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60015,
+    "nome": "2A. AUDITORIA DA 2A. CJM",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60016,
+    "nome": "3A. AUDITORIA DA 2A. CJM",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60017,
+    "nome": "AUDITORIA DA 5A. CJM",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60018,
+    "nome": "STM-1A.AUDITORIA DA 3A.CJM/RS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60019,
+    "nome": "STM-2A.AUDITORIA DA 3A.CJM/RS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60020,
+    "nome": "STM-3A.AUDITORIA DA 3A.CJM/RS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60021,
+    "nome": "STM/AUDITORIA DA 12A. CJM",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60022,
+    "nome": "AUDITORIA DE CORREICAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60023,
+    "nome": "AUDITORIA DA 11A. CJM",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60024,
+    "nome": "3A. AUDITORIA DO EXERCITO DA 1A. CJM",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60025,
+    "nome": "STM/SETORIAL DE ORCAMENTO E PROG.FINANCEIRA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60026,
+    "nome": "STM/SETORIAL DE AUDITORIA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60027,
+    "nome": "STM/SETORIAL DE CONTABILIDADE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60028,
+    "nome": "STM-DIRETORIA FORO - 1A. CJM/RJ",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60029,
+    "nome": "JMF/DIR. DO FORO - 2A. CJM",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 60030,
+    "nome": "DIRETORIA DO FORO DA 11ª CJM",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70001,
+    "nome": "TSE _ TRIBUNAL SUPERIOR ELEITORAL/SEC.ADM/DF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70002,
+    "nome": "TRIBUNAL REGIONAL ELEITORAL DO ACRE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70003,
+    "nome": "TRIBUNAL REGIONAL ELEITORAL DO AMAZONAS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70004,
+    "nome": "TRIBUNAL REGIONAL ELEITORAL DO PARA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70005,
+    "nome": "TRIBUNAL REGIONAL ELEITORAL DO MARANHAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70006,
+    "nome": "TRIBUNAL REGIONAL ELEITORAL DO PIAUI",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70007,
+    "nome": "TRIBUNAL REGIONAL ELEITORAL DO CEARA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70008,
+    "nome": "TRIBUNAL REGIONAL ELEITORAL DO RIO G.DO NORTE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70009,
+    "nome": "TRE-TRIBUNAL REGIONAL ELEITORAL DA PARAIBA/PB",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70010,
+    "nome": "TRIBUNAL REGIONAL ELEITORAL DE PERNAMBUCO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70011,
+    "nome": "TRIBUNAL REGIONAL ELEITORAL DE ALAGOAS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70012,
+    "nome": "TRIBUNAL REGIONAL ELEITORAL DE SERGIPE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70013,
+    "nome": "TRIBUNAL REGIONAL ELEITORAL DA BAHIA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70014,
+    "nome": "TRE-TRIBUNAL REGIONAL ELEITORAL/MG",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70015,
+    "nome": "TRIBUNAL REGIONAL ELEITORAL DO ESPIRITO SANTO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70016,
+    "nome": "TRIBUNAL REGIONAL ELEITORAL DE MATO G.DO SUL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70017,
+    "nome": "TRIBUNAL REGIONAL ELEITORAL DO RIO DE JANEIRO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70018,
+    "nome": "TRIBUNAL REGIONAL ELEITORAL DE SAO PAULO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70019,
+    "nome": "TRIBUNAL REGIONAL ELEITORAL DO PARANA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70020,
+    "nome": "TRIBUNAL REGIONAL ELEITORAL DE SANTA CATARINA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70021,
+    "nome": "TRIBUNAL REGIONAL ELEITORAL DO RIO G.DO SUL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70022,
+    "nome": "TRE-TRIBUNAL REGIONAL ELEITORAL/MT",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70023,
+    "nome": "TRIBUNAL REGIONAL ELEITORAL DE GOIAS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70024,
+    "nome": "TRIBUNAL REGIONAL ELEITORAL DE RONDONIA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70025,
+    "nome": "TRIBUNAL REGIONAL ELEITORAL DO D. FEDERAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70026,
+    "nome": "SECRETARIA DE ORCAMENTO E FINANCAS - TSE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70027,
+    "nome": "TRIBUNAL REGIONAL ELEITORAL/TO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70028,
+    "nome": "TRIBUNAL REGIONAL ELEITORAL/RR",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70029,
+    "nome": "TRIBUNAL REGIONAL ELEITORAL/AP",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70030,
+    "nome": "SECRETARIA DE CONTROLE INTERNO - TSE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70031,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/AC",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70032,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/AL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70033,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/AM",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70034,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/AP",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70035,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/BA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70036,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/CE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70037,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/DF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70038,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/ES",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70039,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/GO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70040,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/MA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70041,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/MG",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70042,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/MS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70043,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/MT",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70044,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/PA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70045,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/PB",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70046,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/PE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70047,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/PI",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70048,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/PR",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70049,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/RR",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70050,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/RO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70051,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/RJ",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70052,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/RN",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70053,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/RS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70054,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/SC",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70055,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/SP",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70056,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/SE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70057,
+    "nome": "COORDENADORIA DE CONTROLE INTERNO - TRE/TO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70058,
+    "nome": "SECRETARIA DE ADMINISTRACAO - TSE - FUNDO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70059,
+    "nome": "SECRETARIA DE ORCAMENTO E FINANCAS-TSE-FUNDO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70060,
+    "nome": "SECRETARIA DE INFORMATICA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70061,
+    "nome": "ASSESSORIA DE ARQUITETURA E ENGENHARIA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70062,
+    "nome": "SECAO DE TRANSPORTE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70063,
+    "nome": "ESCOLA JUDICIARIA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70064,
+    "nome": "SECRETARIA DE ADMINISTRACAO DO TRE-BA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70065,
+    "nome": "SECRETARIA DE INFORMATICA DO TRE-BA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70066,
+    "nome": "SECRETARIA DE RECURSOS HUMANOS TRE-BA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70067,
+    "nome": "SECRETARIA JUDICIARIA DO TRE-BA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70068,
+    "nome": "SECRETARIA DE ORCAMENTO E FINANCAS DO TRE-BA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70069,
+    "nome": "SETORIAL CONTABIL DO TRE-SP",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70070,
+    "nome": "SETORIAL CONTABIL JUSTICA ELEITORAL - SOF/TSE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70071,
+    "nome": "ESCOLA JUDICIARIA ELEITORAL DO TRE-TO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70072,
+    "nome": "SETORIAL CONTABIL DO TRE-MS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70073,
+    "nome": "SETORIAL CONTABIL DO TRE-BA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70074,
+    "nome": "SETORIAL CONTABIL DO TRE-SE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70075,
+    "nome": "SETORIAL CONTABIL DO TRE-RR",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70076,
+    "nome": "SETORIAL CONTABIL DO TRE-CE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70077,
+    "nome": "SETORIAL CONTABIL DO TRE-PR",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70078,
+    "nome": "SETORIAL CONTABIL DO TRE-RN",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70079,
+    "nome": "SETORIAL CONTABIL DO TRE-RO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70080,
+    "nome": "SETORIAL CONTABIL DO TRE-AP",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70081,
+    "nome": "SETORIAL CONTABIL DO TRE-AC",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70082,
+    "nome": "GABINETE DA PRESIDENCIA DO TRE-BA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70083,
+    "nome": "CORREGEDORIA ELEITORAL DO TRE-BA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70084,
+    "nome": "SECRETARIA DE ADMIN. E ORCAMENTO DO TRE-TO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70085,
+    "nome": "SECRETARIA DE GESTAO DE PESSOAS DO TRE-TO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70086,
+    "nome": "SECRETARIA DE TECNOL. DA INFORMACAO DO TRE-TO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70087,
+    "nome": "SECRET. JUDICIARIA E GESTAO DA INFORM. TRE-TO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70088,
+    "nome": "CORREGEDORIA REGIONAL ELEITORAL DO TRE-TO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70089,
+    "nome": "SECAO DE CONTRATOS DO TRE-TO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 70090,
+    "nome": "SETORIAL CONTABIL DO TRE-PA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80001,
+    "nome": "TRIBUNAL SUPERIOR DO TRABALHO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80002,
+    "nome": "TRIBUNAL REGIONAL DO TRABALHO DA 11A.REGIAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80003,
+    "nome": "TRIBUNAL REGIONAL DO TRABALHO DA 8A.REGIAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80004,
+    "nome": "TRIBUNAL REGIONAL DO TRABALHO DA 7A.REGIAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80005,
+    "nome": "13.REG.TRIBUNAL REGIONAL DO TRABALHO/PB",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80006,
+    "nome": "TRIBUNAL REGIONAL DO TRABALHO DA 6A.REGIAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80007,
+    "nome": "TRIBUNAL REGIONAL DO TRABALHO DA 5A.REGIAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80008,
+    "nome": "TRIBUNAL REGIONAL DO TRABALHO DA 3ª REGIÃO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80009,
+    "nome": "TRIBUNAL REGIONAL DO TRABALHO DA 1A.REGIAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80010,
+    "nome": "TRIBUNAL REGIONAL DO TRABALHO DA 2A.REGIAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80011,
+    "nome": "TRIBUNAL REGIONAL DO TRABALHO DA 15A.REGIAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80012,
+    "nome": "TRIBUNAL REGIONAL DO TRABALHO DA 9A.REGIAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80013,
+    "nome": "TRIBUNAL REGIONAL DO TRABALHO DA 12A.REGIAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80014,
+    "nome": "TRIBUNAL REGIONAL DO TRABALHO DA 4A.REGIAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80015,
+    "nome": "TRIBUNAL REGIONAL DO TRABALHO DA 14A.REGIAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80016,
+    "nome": "TRIBUNAL REGIONAL DO TRABALHO DA 10A.REGIAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80017,
+    "nome": "JUSTICA DO TRABALHO - UO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80018,
+    "nome": "TRIBUNAL REGIONAL DO TRABALHO DA 16. REGIAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80019,
+    "nome": "TRIBUNAL REGIONAL DO TRABALHO DA 17A. REGIAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80020,
+    "nome": "TRIBUNAL REGIONAL DO TRABALHO 18A.REG/GO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80021,
+    "nome": "TRIBUNAL REGIONAL DO TRABALHO DA 21A. REGIAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80022,
+    "nome": "TRIBUNAL REGIONAL DO TRABALHO DA 19A. REGIAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80023,
+    "nome": "TRIBUNAL REGIONAL DO TRABALHO DA 20A. REGIAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80024,
+    "nome": "TRIBUNAL REGIONAL DO TRABALHO DA 22A. REGIAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80025,
+    "nome": "TRIBUNAL REGIONAL DO TRABALHO DA 23ª REGIAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80026,
+    "nome": "TRIBUNAL REGIONAL DO TRABALHO-24.REG./MS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80027,
+    "nome": "SETORIAL CONTABIL DA JUSTICA DO TRABALHO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 80028,
+    "nome": "SECRETARIA DE CONTROLE DA JUSTIçA DO TRABALHO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90001,
+    "nome": "CONSELHO DA JUSTICA FEDERAL-DF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90002,
+    "nome": "JUSTICA FEDERAL DE 1A. INSTANCIA/AM",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90003,
+    "nome": "JUSTICA FEDERAL DE PRIMEIRO GRAU - PA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90004,
+    "nome": "JUSTICA FEDERAL DE 1A. INSTANCIA - MA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90005,
+    "nome": "SEçãO JUDICIáRIA NO PIAUI",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90006,
+    "nome": "JUSTICA FEDERAL DE 1A. INSTANCIA - CE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90007,
+    "nome": "JUSTICA FEDERAL DE 1A. INSTANCIA - RN",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90008,
+    "nome": "JUSTICA FEDERAL DE 1A. INSTANCIA - PB",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90009,
+    "nome": "JUSTICA FEDERAL DE 1A. INSTANCIA - PE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90010,
+    "nome": "JUSTICA FEDERAL DE 1A. INSTANCIA - AL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90011,
+    "nome": "JUSTICA FEDERAL - SEÇÃO JUDICIÁRIA DE SERGIPE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90012,
+    "nome": "JUSTICA FEDERAL DE 1A. INSTANCIA - BA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90013,
+    "nome": "JUSTICA FEDERAL DE PRIMEIRO GRAU EM MG",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90014,
+    "nome": "JUSTICA FEDERAL DE 1A. INSTANCIA - ES",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90015,
+    "nome": "JUSTICA FEDERAL DE 1A. INSTANCIA/MS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90016,
+    "nome": "JUSTICA FEDERAL DE 1A. INSTANCIA - RJ",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90017,
+    "nome": "JUSTICA FEDERAL DE 1A. INSTANCIA - SP",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90018,
+    "nome": "JUSTICA FEDERAL DE 1A. INSTANCIA - PR",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90019,
+    "nome": "JUSTICA FEDERAL DE 1A. INSTANCIA - SC",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90020,
+    "nome": "JUSTICA FEDERAL DE 1A. INSTANCIA_- RS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90021,
+    "nome": "JUSTICA FEDERAL DE 1A. INSTANCIA-MT",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90022,
+    "nome": "JUSTICA FEDERAL DE 1A. INSTANCIA/GO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90023,
+    "nome": "JUSTICA FEDERAL DE 1A. INSTANCIA - DF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90024,
+    "nome": "JUSTICA FEDERAL DE 1A. INSTANCIA/AC",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90025,
+    "nome": "JUSTICA FEDERAL DE 1A. INSTANCIA/RO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90026,
+    "nome": "SECRETARIA DO CONSELHO DA JUSTICA FEDERAL-DF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90027,
+    "nome": "TRIBUNAL REGIONAL FEDERAL-SEC.1A.REG./DF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90028,
+    "nome": "TRIBUNAL REGIONAL FEDERAL DA 2A. REGIAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90029,
+    "nome": "TRIBUNAL REGIONAL FEDERAL DA 3A.REGIAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90030,
+    "nome": "TRIBUNAL REGIONAL FEDERAL DA 4A.REGIAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90031,
+    "nome": "TRIBUNAL REGIONAL FEDERAL DA 5A.REGIAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90032,
+    "nome": "SECRETARIA DO T.R.F.DA 1A.REGIAO-ORCAMENTARIA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90033,
+    "nome": "TRIBUNAL REGIONAL FEDERAL DA 4A.REGIAO-ORCAM.",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90034,
+    "nome": "TRIBUNAL REGIONAL FEDERAL DA 2A.REGIAO-ORCAM.",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90035,
+    "nome": "TRIBUNAL REGIONAL FEDERAL DA 3A.REGIAO-ORCAM.",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90036,
+    "nome": "TRIBUNAL REGIONAL FEDERAL DA 5A.REGIAO-ORCAM.",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90037,
+    "nome": "JUSTICA FEDERAL DE 1A. INSTANCIA/AP",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90038,
+    "nome": "JUSTICA FEDERAL DE 1A. INSTANCIA/TO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90039,
+    "nome": "JUSTICA FEDERAL DE 1A. INSTANCIA/RR",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90040,
+    "nome": "JUST.FED.DE 1A.INST.-SUBSECAO JUDIC.J.DE FORA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90041,
+    "nome": "JUST.FED.DE 1A.INST.-SUBSECAO JUD.UBERLANDIA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90042,
+    "nome": "JUST.FED.DE 1A.INST.-SUBSECAO JUDIC.UBERABA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90043,
+    "nome": "JUST.FED.DE 1A.INST.-SUBSECAO JUDIC.DE ILHEUS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90044,
+    "nome": "JUST.FED.DE 1A.INST.-SUBSECAO JUD.IMPERATRIZ",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90045,
+    "nome": "JUST.FED.DE 1A.INST.-SUBSECAO JUDIC.DE MARABA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90046,
+    "nome": "JUST.FED.DE 1A.INST.-SUBSECAO JUDIC.SANTAREM",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90047,
+    "nome": "TRIBUNAL REGIONAL FEDERAL DA 3A.REGIAO-PR.RPV",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90048,
+    "nome": "TRIBUNAL REGIONAL FEDERAL DA 2A. REG.-PR. RPV",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90049,
+    "nome": "TRIBUNAL REGIONAL FEDERAL DA 1A.REG.-PREC.RPV",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90050,
+    "nome": "CONSELHO DA JUSTICA FEDERAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90051,
+    "nome": "TRIBUNAL REGIONAL FEDERAL 4ª REGIAO-PREC/RPVS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 90176,
+    "nome": "SECRETARIA ESTADUAL DE SAúDE DE SãO PAULO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 92374,
+    "nome": "FUND.DE APOIO DES.AO ENS.PESQ.E EXT.UNIV.N/AC",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 100000,
+    "nome": "ADMINISTRAçãO GERAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 100001,
+    "nome": "TRIBUNAL DE JUSTICA DO DISTRITO FEDERAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 100002,
+    "nome": "2A.CIRCUNSCRICAO JUDICIARIA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 100003,
+    "nome": "1A.CIRCUNSCRICAO JUDICIARIA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 100004,
+    "nome": "2A.CIRCUNSCRICAO JUDICIARIA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 100005,
+    "nome": "3A.CIRCUNSCRICAO JUDICIARIA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 100006,
+    "nome": "4A.CIRCUNSCRICAO JUDICIARIA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 100007,
+    "nome": "5A.CIRCUNSCRICAO JUDICIARIA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 100008,
+    "nome": "1A.CIRCUNSCRICAO JUDICIARIA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 100009,
+    "nome": "VARA DA INFANCIA E DA JUVENTUDE DO D.F.",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 100010,
+    "nome": "TRIBUNAL DE JUSTICA DO DISTRITO FEDERAL/DF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 100011,
+    "nome": "TRIB.DE JUSTICA DO DF-CORREGEDORIA DA JUSTICA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 100012,
+    "nome": "SESA - TJDF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 100013,
+    "nome": "TJDF - CORREGEDORIA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 100014,
+    "nome": "SEJU - TJDF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 100015,
+    "nome": "SEDI-TJDF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 100016,
+    "nome": "SECRETARIA DE ASSISTENCIA E BENEFICIOS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 100017,
+    "nome": "ACS - TRIBUNAL DE JUSTICA DO DF E TERRITORIOS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 100018,
+    "nome": "SEGD",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 100019,
+    "nome": "SECRETARIA DE RECURSOS HUMANOS - AUXILIOS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 100020,
+    "nome": "SECRETARIA DE RECURSOS HUMANOS - PESSOAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 100021,
+    "nome": "RECURSOS PROPRIOS - TJDFT",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 100022,
+    "nome": "CONVENIOS - TJDFT",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110001,
+    "nome": "SECRETARIA DE ADMINISTRAÇÃO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110002,
+    "nome": "SECRETARIA NACIONAL DE POLÍTICAS SOBRE DROGAS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110003,
+    "nome": "PR-GABINETE SECRETARIA DE CONTROLE INTERNO/DF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110004,
+    "nome": "COORD.NAC.PARA INT.DA PES.PORT.DE DEFICIENCIA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110005,
+    "nome": "COORDENACAO DE PLANEJAMENTO E ORCAMENTO - PR",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110006,
+    "nome": "DIRETORIA DE SISTEMAS E INFORMACAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110007,
+    "nome": "SECRET.DE ESTADO DE DESENVOLVIMENTO URBANO/PR",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110008,
+    "nome": "MINISTÉRIO DA PESCA E AQUICULTURA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110009,
+    "nome": "SECRETARIA PARTICULAR",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110010,
+    "nome": "AJUDANCIA DE ORDEM",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110011,
+    "nome": "ASSESSORIA ESPECIAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110012,
+    "nome": "CERIMONIAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110013,
+    "nome": "SUMAR",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110014,
+    "nome": "SUBAE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110015,
+    "nome": "SUBEX",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110016,
+    "nome": "SERVICO DE SEGURANCA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110017,
+    "nome": "DIRETORIA GERAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110018,
+    "nome": "ASSESSORIA DE ASSUNTOS MUNICIPAIS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110019,
+    "nome": "ASSESSORIA DE ASSUNTOS ECONOMICOS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110020,
+    "nome": "ASSESSORIA DE ASSUNTOS SOCIAIS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110021,
+    "nome": "ASSESSORIA DIPLOMATICA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110022,
+    "nome": "ASSESSORIA JURIDICA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110023,
+    "nome": "ASSESSORIA LEGISLATIVA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110024,
+    "nome": "DEPARTAMENTO DE COMUNICACAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110025,
+    "nome": "DEPARTAMENTO DE DOCUMENTACAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110026,
+    "nome": "DEPARTAMENTO DE INSTALACOES",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110027,
+    "nome": "DEPARTAMENTO DE ADMINISTRACAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110028,
+    "nome": "DEPARTAMENTO DE INFORMATICA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110029,
+    "nome": "DEPARTAMENTO DE ORCAMENTO E FINANCAS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110030,
+    "nome": "DEPARTAMENTO DE SAUDE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110031,
+    "nome": "DEPARTAMENTO PESSOAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110032,
+    "nome": "DEPARTAMENTO DE TRANSPORTES",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110033,
+    "nome": "DIVISAO DE SUBSISTENCIA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110034,
+    "nome": "TRANSPORTE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110035,
+    "nome": "SECAO DE APOIO AOS EX-PRESIDENTES",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110036,
+    "nome": "SECRETARIA DE IMPRENSA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110037,
+    "nome": "ASSESSORIA DE DIVULGACAO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110038,
+    "nome": "DESREGULAMENTACAO DO SERVICO PUBLICO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110039,
+    "nome": "CENTRO DE MEMORIA DO PRESIDENTE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110040,
+    "nome": "GABINETE MILITAR",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110041,
+    "nome": "SECRETARIA DE CONTROLE INTERNO/PRESIDENCIA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110042,
+    "nome": "RESIDENCIAS OFICIAIS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110043,
+    "nome": "CAMPANHAS PUBLICITARIAS - PR",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110044,
+    "nome": "PALACIO DA ALVORADA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110045,
+    "nome": "CONF. CHEFE DE ESTADO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110046,
+    "nome": "ASSESSORIA ASSUNTOS LATINOS AMERICANOS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110047,
+    "nome": "SECRETARIA DE GOVERNO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110048,
+    "nome": "APOIO PROJETO \"MINHA GENTE\"",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110049,
+    "nome": "CASA CIVIL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110050,
+    "nome": "SECRETARIA-GERAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110051,
+    "nome": "SUBSECRETARIA-GERAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110052,
+    "nome": "RADIOBRAS - EMP.BRASILEIRA DE COMUNICACAO S/A",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110053,
+    "nome": "SUBCHEFIA PARA ASSUNTOS PARLAMENTARES",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110054,
+    "nome": "SUBCHEFIA PARA ASSUNTOS JURIDICOS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110055,
+    "nome": "SUBCHEFIA PARA ACOMP.DA ACAO GOVERNAMENTAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110056,
+    "nome": "SUBCHEFIA PARA DIVULGACAO E RELACOES PUBLICAS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110057,
+    "nome": "RESIDENCIA FUNCIONAL",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110058,
+    "nome": "PR-SCS-SECRETARIA DE COMUNICACAO SOCIAL/DF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110059,
+    "nome": "CONSELHO DO PROGRAMA COMUNIDADE SOLIDARIA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110060,
+    "nome": "COORDENACAO-GERAL DE ORCAMENTO E FINANCAS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110061,
+    "nome": "COORDENACAO-GERAL DE SERVICOS GERAIS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110062,
+    "nome": "COORDENADORIA-GERAL RECURSOS HUMANOS/DGA/AGU",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110063,
+    "nome": "PR-AGU-SECRETARIA DE CONTROLE INTERNO/DF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110064,
+    "nome": "PROCURADORIA-REGIONAL DA UNIAO - 1A.REGIAO/DF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110065,
+    "nome": "PROCURADORIA REG. DA UNIAO NO RIO DE JANEIRO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110066,
+    "nome": "PROCURADORIA REG. DA UNIAO EM SAO PAULO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110067,
+    "nome": "PROCURADORIA-REGIONAL DA UNIAO - 4A.REGIAO/RS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110068,
+    "nome": "PROCURADORIA-REGIONAL DA UNIAO - 5A.REGIAO/PE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110069,
+    "nome": "PR-AGU-PROCURAD.DA UNIAO DO DIST.FEDERAL/DF",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110070,
+    "nome": "PROCURADORIA DA UNIAO/ACRE",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110071,
+    "nome": "PROCURADORIA DA UNIÃO/AMAPÁ",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110072,
+    "nome": "PROCURADORIA DA UNIÃO/AMAZONAS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110073,
+    "nome": "PROCURADORIA DA UNIAO NO ESTADO DA BAHIA/AGU",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110074,
+    "nome": "AGU/PROCURADORIA DA UNIAO NO ESTADO DE GOIAS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110075,
+    "nome": "PROCURAD. DA UNIAO NO ESTADO DO MARANHAO/AGU",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110076,
+    "nome": "AGU-PROCURADORIA DA UNIAO/MT",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110077,
+    "nome": "PROCURADORIA DA UNIÃO/MINAS GERAIS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110078,
+    "nome": "PROCURADORIA DA UNIÃO/PARÁ",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110079,
+    "nome": "PROCURADORIA DA UNIAO NO ESTADO DO PIAUI/AGU",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110080,
+    "nome": "PROCURADORIA DA UNIÃO/RONDÔNIA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110081,
+    "nome": "PROCURADORIA DA UNIÃO/RORAIMA",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110082,
+    "nome": "PROCURAD. DA UNIAO NO ESTADO DO TOCANTINS/AGU",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110083,
+    "nome": "PROCURADORIA DA UNIÃO/RIO DE JANEIRO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110084,
+    "nome": "PROCURADORIA DA UNIÃO/ESPIRITO SANTO",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110085,
+    "nome": "PROCURAD.DA UNIAO NO EST. DE SAO PAULO/AGU",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110086,
+    "nome": "AGU-PROCURADORIA DA UNIAO/MS",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110087,
+    "nome": "PROCUR.DA UNIAO NO EST. DO RIO G. DO SUL/AGU",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  },
+  {
+    "id": 110088,
+    "nome": "PROCURADORIA DA UNIAO NO ESTADO DO PARANA/AGU",
+    "municipio": null,
+    "licitacoes": null,
+    "orgao": null
+  }
+]
