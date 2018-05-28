@@ -2,12 +2,12 @@ Fornecedores
   ​pk:ID, CNPJ​, Nome, UF
 
 Licitações
-  ​pk: ID​, Modalidade, Tipo do Pregão
+  ​pk: ID​, Modalidade, fk:UASG
 
-Órgão
+Órgãos
   ​pk: ID​, Nome, Esfera
 
-UASG
+UASGs
   ​pk: ID​, Nome, Município, CEP, fk:Licitação, fk:Órgão
 
 Contratos
