@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "cnpj": "00000000000191",
+    "nome": "BANCO DO BRASIL SA",
+    "uf": "DF"
+  },
+  {
+    "id": 2,
+    "cnpj": "00000000016276",
+    "nome": "BANCO DO BRASIL SA",
+    "uf": "MG"
+  },
+  {
+    "id": 3,
+    "cnpj": "00000000425109",
+    "nome": "BANCO DO BRASIL SA",
+    "uf": "DF"
+  },
+  {
+    "id": 4,
+    "cnpj": "00000028000129",
+    "nome": "TARGET ENGENHARIA E CONSULTORIA LTDA.",
+    "uf": "SP"
+  },
+  {
+    "id": 5,
+    "cnpj": "00000155000128",
+    "nome": "COUPLING LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 6,
+    "cnpj": "00000166000108",
+    "nome": "IRMAOS RODOPOULOS LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 7,
+    "cnpj": "00000166000299",
+    "nome": "IRMAOS RODOPOULOS LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 8,
+    "cnpj": "00000208000100",
+    "nome": "BRB BANCO DE BRASILIA SA",
+    "uf": "DF"
+  },
+  {
+    "id": 9,
+    "cnpj": "00000341000167",
+    "nome": "C.C ENGENHARIA CONSULTIVA E PROJETOS DE AR CONDICIONADO",
+    "uf": "SP"
+  },
+  {
+    "id": 10,
+    "cnpj": "00000410000132",
+    "nome": "BIOAGRI ANALISES DE ALIMENTOS LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 11,
+    "cnpj": "00000424000156",
+    "nome": "DEBRITO PROPAGANDA LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 12,
+    "cnpj": "00000424000318",
+    "nome": "DEBRITO PROPAGANDA LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 13,
+    "cnpj": "00000463000153",
+    "nome": "CASA DOS PARAFUSOS LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 14,
+    "cnpj": null,
+    "nome": "VANDERLEI BATALHA DOS SANTOS FILHO",
+    "uf": "AM"
+  },
+  {
+    "id": 15,
+    "cnpj": "00000802001769",
+    "nome": "HC PNEUS S/A",
+    "uf": "PE"
+  },
+  {
+    "id": 16,
+    "cnpj": null,
+    "nome": "ISABELLE SANTOS SOARES",
+    "uf": "RJ"
+  },
+  {
+    "id": 17,
+    "cnpj": "00000885000129",
+    "nome": "BRASAL-BRASILIA SERVICOS AUTOMOTORES S/A",
+    "uf": "DF"
+  },
+  {
+    "id": 18,
+    "cnpj": "00000993000100",
+    "nome": "SUPERMERCADO SERVE TODOS PIRAJUI LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 19,
+    "cnpj": "00000993000363",
+    "nome": "SUPERMERCADO SERVE TODOS PIRAJUI LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 20,
+    "cnpj": "00000993000444",
+    "nome": "SUPERMERCADO SERVE TODOS PIRAJUI LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 21,
+    "cnpj": "00000993000525",
+    "nome": "SUPERMERCADO SERVE TODOS PIRAJUI LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 22,
+    "cnpj": "00000993000606",
+    "nome": "SUPERMERCADO SERVE TODOS PIRAJUI LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 23,
+    "cnpj": "00001172000180",
+    "nome": "SA CORREIO BRAZILIENSE",
+    "uf": "DF"
+  },
+  {
+    "id": 24,
+    "cnpj": "00001180000207",
+    "nome": "CENTRAIS ELETRICAS BRASILEIRAS SA",
+    "uf": "RJ"
+  },
+  {
+    "id": 25,
+    "cnpj": null,
+    "nome": "JULIANO DERLLY EICHELT",
+    "uf": "MT"
+  },
+  {
+    "id": 26,
+    "cnpj": null,
+    "nome": "JOSE LUIZ MOTA MENEZES",
+    "uf": "PE"
+  },
+  {
+    "id": 27,
+    "cnpj": "00001352000161",
+    "nome": "ACACIAS COMERCIO DE MATERIAIS DE ESCRITORIO E SERVICOS",
+    "uf": "SP"
+  },
+  {
+    "id": 28,
+    "cnpj": "00001386000237",
+    "nome": "DIOGO A CLEMENTE CONSULTORIA E SERVICOS EM REC HUM LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 29,
+    "cnpj": "00001388000145",
+    "nome": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A",
+    "uf": "DF"
+  },
+  {
+    "id": 30,
+    "cnpj": "00001388000226",
+    "nome": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A",
+    "uf": "DF"
+  },
+  {
+    "id": 31,
+    "cnpj": "00001388000307",
+    "nome": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A",
+    "uf": "DF"
+  },
+  {
+    "id": 32,
+    "cnpj": "00001388000579",
+    "nome": "DISTRIBUIDORA BRASILIA DE VEICULOS S/A",
+    "uf": "DF"
+  },
+  {
+    "id": 33,
+    "cnpj": "00001453000132",
+    "nome": "CINE FOTO GB LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 34,
+    "cnpj": "00001511000128",
+    "nome": "HAMILTON DE REZENDE COSTA ME",
+    "uf": "TO"
+  },
+  {
+    "id": 35,
+    "cnpj": "00001714000114",
+    "nome": "SATELITE MAQUINAS E MOVEIS PARA ESCRITORIO LTDA ME",
+    "uf": "SP"
+  },
+  {
+    "id": 36,
+    "cnpj": "00001834000111",
+    "nome": "LUDIPLAS ENGENHARIA COMERCIO E IMPERMEABILIZACOES LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 37,
+    "cnpj": "00001849000180",
+    "nome": "RAIZAMED-EQIPAMENTOS MEDICOS LTDA ME",
+    "uf": "SP"
+  },
+  {
+    "id": 38,
+    "cnpj": "00001891000109",
+    "nome": "CASA PLANETA DE BRASILIA MAQUINAS E FERRAGENS LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 39,
+    "cnpj": "00001933000101",
+    "nome": "TAPECARIA SAO JORGE LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 40,
+    "cnpj": "00002121000172",
+    "nome": "MERCANTIL MOREIRA CONSTRUCOES E TELECOMUNICACOES LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 41,
+    "cnpj": "00002329000191",
+    "nome": "FERRAGENS PINHEIRO LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 42,
+    "cnpj": "00002495000198",
+    "nome": "FOCO GERENCIAMENTO DE SERVICOS E COMERCIO LTDA.",
+    "uf": "SP"
+  },
+  {
+    "id": 43,
+    "cnpj": null,
+    "nome": "FABIO ANTONIO DEZAN",
+    "uf": "MT"
+  },
+  {
+    "id": 44,
+    "cnpj": "00002776000140",
+    "nome": "DEUTSCHEBRAS COMERCIAL E ENGENHARIA LTDA - EPP",
+    "uf": "SP"
+  },
+  {
+    "id": 45,
+    "cnpj": "00002929000150",
+    "nome": "TELEPARK COMERCIAL LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 46,
+    "cnpj": null,
+    "nome": "DANIEL LOBO FERNANDES",
+    "uf": "SC"
+  },
+  {
+    "id": 47,
+    "cnpj": "00003188000121",
+    "nome": "COMPETRO COMERCIO E DISTRIBUICAO DE DER PETROLEO LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 48,
+    "cnpj": null,
+    "nome": "FRANCISCO LEMOS SANT ANA",
+    "uf": "BA"
+  },
+  {
+    "id": 49,
+    "cnpj": "00003228000135",
+    "nome": "MOTO AGRICOLA SLAVIERO SA",
+    "uf": "DF"
+  },
+  {
+    "id": 50,
+    "cnpj": "00003228000216",
+    "nome": "MOTO AGRICOLA SLAVIERO SA",
+    "uf": "DF"
+  },
+  {
+    "id": 51,
+    "cnpj": "00003263000154",
+    "nome": "BENEDITO JOAO BARLETTA-ME",
+    "uf": "BA"
+  },
+  {
+    "id": 52,
+    "cnpj": null,
+    "nome": "ANA BEATRIZ FERNANDES CERBINO",
+    "uf": "RJ"
+  },
+  {
+    "id": 53,
+    "cnpj": "00003449000103",
+    "nome": "PAULA FERREIRA COMERCIAL LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 54,
+    "cnpj": "00004035000107",
+    "nome": "PROSAT COMUNICACOES LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 55,
+    "cnpj": "00004309000150",
+    "nome": "DF VEICULOS LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 56,
+    "cnpj": null,
+    "nome": "ROMULO PASCOAL PEDROSO",
+    "uf": "RS"
+  },
+  {
+    "id": 57,
+    "cnpj": "00005063000130",
+    "nome": "INSTRUVAL INSTRUMENTOS E SERVICOS LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 58,
+    "cnpj": null,
+    "nome": "OCTAVIO PINTO CARVALHEIRA",
+    "uf": "PE"
+  },
+  {
+    "id": 59,
+    "cnpj": "00005103000144",
+    "nome": "TRANSVOLTEC ELETRONICA INDUSTRIA E COMERCIO EIRELI",
+    "uf": "SP"
+  },
+  {
+    "id": 60,
+    "cnpj": "00005201000181",
+    "nome": "PETRO-ALFA COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 61,
+    "cnpj": "00005275000118",
+    "nome": "CONSTRUTECKMA ENGENHARIA LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 62,
+    "cnpj": null,
+    "nome": "ANDRE SELBACH NASI",
+    "uf": "RS"
+  },
+  {
+    "id": 63,
+    "cnpj": "00005644000172",
+    "nome": "RIGEL COMERCIO DE INFORMATICA LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 64,
+    "cnpj": "00005803000139",
+    "nome": "RIMAFER COMERCIO DE FERRAGENS E FERRAMENTAS LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 65,
+    "cnpj": "00005880000199",
+    "nome": "BIOQUIMICA SUPRIMENTOS ANALITICOS LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 66,
+    "cnpj": "00005949000184",
+    "nome": "EDITORA E DISTRIBUIDORA SUPLEGRAF LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 67,
+    "cnpj": "00006273000143",
+    "nome": "ALGE SERVICOS E COMERCIO DE PERFIS E ROLETES LTDA-EPP",
+    "uf": "SP"
+  },
+  {
+    "id": 68,
+    "cnpj": "00006273000224",
+    "nome": "ALGE SERVICOS E COMERCIO DE PERFIS E ROLETES LTDA.",
+    "uf": "SP"
+  },
+  {
+    "id": 69,
+    "cnpj": null,
+    "nome": "VIRGILIO JOSE LEMOS ABREU",
+    "uf": "MG"
+  },
+  {
+    "id": 70,
+    "cnpj": "00006878000134",
+    "nome": "ITAU UNIBANCO SERVICOS E PROCESSAMENTO DE INFORMACOES COMERCIAIS LTDA.",
+    "uf": "SP"
+  },
+  {
+    "id": 71,
+    "cnpj": "00006879000189",
+    "nome": "COMPACTA COMERCIO E SERVICOS LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 72,
+    "cnpj": "00006882000100",
+    "nome": "CARVALHO & CARVALHO LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 73,
+    "cnpj": "00006981000184",
+    "nome": "NELSON RIOS - ME",
+    "uf": "DF"
+  },
+  {
+    "id": 74,
+    "cnpj": "00007017000170",
+    "nome": "CONSTRUTORA MELLINHA LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 75,
+    "cnpj": "00007070000171",
+    "nome": "CLUBE LITERO RECREATIVO DOS SERVIDORES DA FUNDACAO SESP",
+    "uf": "TO"
+  },
+  {
+    "id": 76,
+    "cnpj": null,
+    "nome": "MARIA AURENICE FERREIRA DE ABREU",
+    "uf": "CE"
+  },
+  {
+    "id": 77,
+    "cnpj": "00007297000117",
+    "nome": "CICONCORT FERRAMENTAS LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 78,
+    "cnpj": null,
+    "nome": "JEAN CARLOS DE SOUZA",
+    "uf": "DF"
+  },
+  {
+    "id": 79,
+    "cnpj": null,
+    "nome": "HELENA MITIE OSUGUI MANTOVANI",
+    "uf": "MT"
+  },
+  {
+    "id": 80,
+    "cnpj": "00007504000133",
+    "nome": "GAUSS INDUSTRIA E COMERCIO DE PLASTICOS LTDA - EPP",
+    "uf": "SP"
+  },
+  {
+    "id": 81,
+    "cnpj": null,
+    "nome": "EVANILDO CAVALCANTE BECHARA",
+    "uf": "RJ"
+  },
+  {
+    "id": 82,
+    "cnpj": "00007612000106",
+    "nome": "PROINTHEL CONSTRUTORA LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 83,
+    "cnpj": "00007618000183",
+    "nome": "SERVICOS & INSTALACOES ALVES LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 84,
+    "cnpj": "00007919000107",
+    "nome": "CASA DE DOCES SANTA RITA LTDA - ME.",
+    "uf": "SP"
+  },
+  {
+    "id": 85,
+    "cnpj": null,
+    "nome": "MANOEL ALFREDO CAMARAO DE ALBUQUERQUE",
+    "uf": "MG"
+  },
+  {
+    "id": 86,
+    "cnpj": "00008152000130",
+    "nome": "RENATO TADEU KIILIAN - ME",
+    "uf": "SP"
+  },
+  {
+    "id": 87,
+    "cnpj": "00008329000107",
+    "nome": "LEAL CAMP COMERCIO DE EQUIPAMENTOS DE SEGURANCA LTDA -",
+    "uf": "SP"
+  },
+  {
+    "id": 88,
+    "cnpj": "00008354000182",
+    "nome": "BIOSENSOR INDUSTRIA E COMERCIO EIRELI - EPP",
+    "uf": "SP"
+  },
+  {
+    "id": 89,
+    "cnpj": "00008362000129",
+    "nome": "MUNIZ & FERNANDES LTDA ME",
+    "uf": "SP"
+  },
+  {
+    "id": 90,
+    "cnpj": "00008456000106",
+    "nome": "LOPES GAMA COMERCIO LOCACAO E SERVICOS LTDA - EPP",
+    "uf": "SP"
+  },
+  {
+    "id": 91,
+    "cnpj": "00008669000120",
+    "nome": "PRISMA COMERCIAL E SERVICOS LTDA-EPP",
+    "uf": "SP"
+  },
+  {
+    "id": 92,
+    "cnpj": "00008673000198",
+    "nome": "JAGUAR EQUIPAMENTOS ELETRO INDUSTRIAL LTDA - EPP",
+    "uf": "SP"
+  },
+  {
+    "id": 93,
+    "cnpj": "00009000000152",
+    "nome": "APSA PRODUTOS E SERVICOS EM ARQUIVAMENTO LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 94,
+    "cnpj": "00009282000198",
+    "nome": "CONSERVO BRASILIA SERVICOS TECNICOS LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 95,
+    "cnpj": "00009825000177",
+    "nome": "CARLOS ADELMO LEQUE GONCALVES ME",
+    "uf": "SP"
+  },
+  {
+    "id": 96,
+    "cnpj": "00009837000100",
+    "nome": "M F - CONSTRUCOES, INCORPORADORA, COMERCIO E REPRESENTACOES LTD - ME",
+    "uf": "GO"
+  },
+  {
+    "id": 97,
+    "cnpj": null,
+    "nome": "ANGELA DE LIMA MACHADO",
+    "uf": "SC"
+  },
+  {
+    "id": 98,
+    "cnpj": null,
+    "nome": "HARCO OFUGI RODRIGUES",
+    "uf": "DF"
+  },
+  {
+    "id": 99,
+    "cnpj": null,
+    "nome": "ANTONIO MARCOS CRUZ DOS SANTOS",
+    "uf": "CE"
+  },
+  {
+    "id": 100,
+    "cnpj": "00010126000309",
+    "nome": "MERCADAO DE TRATORES RIO PRETO LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 101,
+    "cnpj": "00010378000176",
+    "nome": "NO RISK COMERCIO, CONSULTORIA E TREINAMENTO EM SEGURANC",
+    "uf": "SP"
+  },
+  {
+    "id": 102,
+    "cnpj": "00010408000144",
+    "nome": "OFFICINA SOPHIA CONHECIMENTO APLICADO LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 103,
+    "cnpj": null,
+    "nome": "DIVA TEREZINHA RIZZO VUELMA",
+    "uf": "RS"
+  },
+  {
+    "id": 104,
+    "cnpj": "00010572000151",
+    "nome": "OLITELI PROJETOS E CONSTRUCOES LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 105,
+    "cnpj": "00011009000106",
+    "nome": "FIBRAFORTE ENGENHARIA, INDUSTRIA E COMERCIO LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 106,
+    "cnpj": null,
+    "nome": "MARCOS JOSE NUNES DE ARAUJO",
+    "uf": "CE"
+  },
+  {
+    "id": 107,
+    "cnpj": null,
+    "nome": "SILVIA LEMOS MARTINS",
+    "uf": "CE"
+  },
+  {
+    "id": 108,
+    "cnpj": "00011295000100",
+    "nome": "TECNOPONTA INFORMATICA LTDA - EPP",
+    "uf": "SP"
+  },
+  {
+    "id": 109,
+    "cnpj": "00011295000282",
+    "nome": "TECNOPONTA INFORMATICA LTDA - EPP",
+    "uf": "SP"
+  },
+  {
+    "id": 110,
+    "cnpj": "00011835000147",
+    "nome": "TUTOIA EXPRESS SERVICOS POSTAIS LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 111,
+    "cnpj": "00012365000136",
+    "nome": "BECHTRANS INTERNATIONAL LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 112,
+    "cnpj": "00012377000160",
+    "nome": "CEREAL COMERCIO EXPORTACAO E REPRESENTACAO AGROPECUARIA SA",
+    "uf": "GO"
+  },
+  {
+    "id": 113,
+    "cnpj": "00012929000130",
+    "nome": "LUIZ CARLOS PICOLI ME",
+    "uf": "SP"
+  },
+  {
+    "id": 114,
+    "cnpj": "00012973000140",
+    "nome": "LIGHTVIEW EQUIPAMENTOS VISUAIS LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 115,
+    "cnpj": "00013014000140",
+    "nome": "NEXUS ENGENHARIA E CONSTRUCOES LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 116,
+    "cnpj": "00013047000190",
+    "nome": "JJR COMERCIO IMPORTACAO E EXPORTACAO LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 117,
+    "cnpj": null,
+    "nome": "LIDIANE CRISTINA ZUANAZZI BEVILAQUA",
+    "uf": "MT"
+  },
+  {
+    "id": 118,
+    "cnpj": "00013631000145",
+    "nome": "ROYAL PNEUS EIRELI - ME",
+    "uf": "DF"
+  },
+  {
+    "id": 119,
+    "cnpj": "00013698000180",
+    "nome": "TRIPS PASSAGENS E TURISMO LTDA - EPP",
+    "uf": "DF"
+  },
+  {
+    "id": 120,
+    "cnpj": "00013805000170",
+    "nome": "INDUSPINA AUTO PECAS LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 121,
+    "cnpj": "00013824000104",
+    "nome": "AB-TECH TECNOLOGIA E AUTOMACAO LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 122,
+    "cnpj": "00014150000154",
+    "nome": "POINT-DOG COMERCIO DE ALIMENTOS PARA CAES LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 123,
+    "cnpj": "00014241000190",
+    "nome": "MOTTA & CIA LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 124,
+    "cnpj": null,
+    "nome": "LUANA ALESSANDRA CHALUB LLANCO",
+    "uf": "AC"
+  },
+  {
+    "id": 125,
+    "cnpj": null,
+    "nome": "NAZIH JARJOUR",
+    "uf": "DF"
+  },
+  {
+    "id": 126,
+    "cnpj": null,
+    "nome": "CLAUDETTE REIS PRIETO",
+    "uf": "PA"
+  },
+  {
+    "id": 127,
+    "cnpj": "00014449000109",
+    "nome": "NAME ADMINISTRACAO DE IMOVEIS LTDA - EPP",
+    "uf": "DF"
+  },
+  {
+    "id": 128,
+    "cnpj": null,
+    "nome": "GERSON DO NASCIMENTO SILVA",
+    "uf": "PB"
+  },
+  {
+    "id": 129,
+    "cnpj": "00014776000160",
+    "nome": "TRINIVOLT COMERCIAL E INSTALADORA ELETRICA LTDA ME",
+    "uf": "SP"
+  },
+  {
+    "id": 130,
+    "cnpj": null,
+    "nome": "SEBASTIAO COSTA NETO",
+    "uf": "AM"
+  },
+  {
+    "id": 131,
+    "cnpj": "00015305000177",
+    "nome": "CASA SAO LUIZ FERRAGENS LTDA - EPP",
+    "uf": "DF"
+  },
+  {
+    "id": 132,
+    "cnpj": null,
+    "nome": "MARLUI ALMEIDA DA SILVA",
+    "uf": "AC"
+  },
+  {
+    "id": 133,
+    "cnpj": null,
+    "nome": "DANILO EDUARDO DO NASCIMENTO",
+    "uf": "RR"
+  },
+  {
+    "id": 134,
+    "cnpj": "00015892000102",
+    "nome": "UNISILK INDUSTRIA E COMERCIO DE BRINDES LTDA - EPP",
+    "uf": "SP"
+  },
+  {
+    "id": 135,
+    "cnpj": null,
+    "nome": "JUSTA FERNANDA MOUTINHO MONTEIRO",
+    "uf": "RJ"
+  },
+  {
+    "id": 136,
+    "cnpj": "00016068000169",
+    "nome": "CAD'S-CONSULTORIA DE SISTEMAS LTDA - EPP",
+    "uf": "SP"
+  },
+  {
+    "id": 137,
+    "cnpj": "00016527000104",
+    "nome": "ELETRICA NUCLEAR LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 138,
+    "cnpj": "00016576000147",
+    "nome": "BASEVI CONSTRUCOES S/A",
+    "uf": "DF"
+  },
+  {
+    "id": 139,
+    "cnpj": null,
+    "nome": "RAUL LISBOA BERGALLO",
+    "uf": "RS"
+  },
+  {
+    "id": 140,
+    "cnpj": "00017332000189",
+    "nome": "BLACK BOX DO BRASIL IND E COM LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 141,
+    "cnpj": null,
+    "nome": "RONDON PACHECO",
+    "uf": "MG"
+  },
+  {
+    "id": 142,
+    "cnpj": null,
+    "nome": "ARIANO VILAR SUASSUNA",
+    "uf": "PE"
+  },
+  {
+    "id": 143,
+    "cnpj": "00017388000133",
+    "nome": "SAPIENTE LIVROS DISCOS E FITAS LTDA- EPP",
+    "uf": "SP"
+  },
+  {
+    "id": 144,
+    "cnpj": "00017436000193",
+    "nome": "DISTRIBUIDORA MEDICO HOSPITALAR HOSPIMETAL LTDA - EPP",
+    "uf": "SP"
+  },
+  {
+    "id": 145,
+    "cnpj": null,
+    "nome": "KLEIDIMARA TRENTO SCHEFFER",
+    "uf": "MT"
+  },
+  {
+    "id": 146,
+    "cnpj": null,
+    "nome": "ADRIANE VOGT",
+    "uf": "MT"
+  },
+  {
+    "id": 147,
+    "cnpj": "00018020000190",
+    "nome": "FLORA MORUMBY COMERCIO DE PLANTAS LTDA EPP",
+    "uf": "SP"
+  },
+  {
+    "id": 148,
+    "cnpj": "00018127000138",
+    "nome": "TOCANTINS TRANSPORTE E TURISMO LTDA",
+    "uf": "TO"
+  },
+  {
+    "id": 149,
+    "cnpj": null,
+    "nome": "MICHELLE PEREIRA DE PAULA",
+    "uf": "MG"
+  },
+  {
+    "id": 150,
+    "cnpj": "00018675000168",
+    "nome": "VISUAL SINALIZACAO VIARIA E CONSTRUCOES LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 151,
+    "cnpj": null,
+    "nome": "MONICA BARROS DE LIMA ABDALA",
+    "uf": "RR"
+  },
+  {
+    "id": 152,
+    "cnpj": "00018938000139",
+    "nome": "ARISTON DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 153,
+    "cnpj": null,
+    "nome": "MOACIR DE SANTI",
+    "uf": "SP"
+  },
+  {
+    "id": 154,
+    "cnpj": null,
+    "nome": "SAMUEL DE SOUSA SILVA",
+    "uf": "CE"
+  },
+  {
+    "id": 155,
+    "cnpj": "00019203000120",
+    "nome": "VILA BASTOS LOTERIAS LTDA. ME.",
+    "uf": "SP"
+  },
+  {
+    "id": 156,
+    "cnpj": "00019423000153",
+    "nome": "AJAPEG INDUSTRIA E COMERCIO DE FIBRAS LTDA - EPP",
+    "uf": "SP"
+  },
+  {
+    "id": 157,
+    "cnpj": null,
+    "nome": "MURILLO RAMIRO COSTA",
+    "uf": "PE"
+  },
+  {
+    "id": 158,
+    "cnpj": "00019628000139",
+    "nome": "ARTEPASTA IND COM LTDA - ME",
+    "uf": "SP"
+  },
+  {
+    "id": 159,
+    "cnpj": "00020058000105",
+    "nome": "FLORA ROHN PAISAGISMO LTDA - ME",
+    "uf": "SP"
+  },
+  {
+    "id": 160,
+    "cnpj": "00020298000100",
+    "nome": "PLANO DIGITAL COMUNICACAO LTDA - EPP",
+    "uf": "DF"
+  },
+  {
+    "id": 161,
+    "cnpj": null,
+    "nome": "MARCOS VENICIO ANGELO CABRAL JUNIOR",
+    "uf": "CE"
+  },
+  {
+    "id": 162,
+    "cnpj": null,
+    "nome": "GHEISA APARECIDA SOARES PIRES",
+    "uf": "DF"
+  },
+  {
+    "id": 163,
+    "cnpj": "00020512000110",
+    "nome": "JOANISIO PEREIRA DO NASCIMENTO S J CAMPOS ME",
+    "uf": "MA"
+  },
+  {
+    "id": 164,
+    "cnpj": "00020621000137",
+    "nome": "PLANETA AZUL INDUSTRIA E COMERCIO DE PRODUTOS DE LIMPEZA LTDA - EPP",
+    "uf": "SP"
+  },
+  {
+    "id": 165,
+    "cnpj": "00020777000118",
+    "nome": "CESVI-BRASIL CENTRO DE EXPERIMENTACAO E SEGURANCA VIARIA LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 166,
+    "cnpj": null,
+    "nome": "ROBERTA AYRES BARBOSA DO NASCIMENTO",
+    "uf": "RJ"
+  },
+  {
+    "id": 167,
+    "cnpj": "00020980000194",
+    "nome": "BSE SISTEMAS ELETRONICOS LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 168,
+    "cnpj": "00021051000108",
+    "nome": "VIDEO EXPRESS PRODUCAO DE AUDIO VISUAL LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 169,
+    "cnpj": "00021138000177",
+    "nome": "MULTITEC COMERCIO DE MOVEIS LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 170,
+    "cnpj": "00021145000179",
+    "nome": "HDB ROLAMENTOS E PECAS LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 171,
+    "cnpj": "00021279000190",
+    "nome": "PIONEIRA DA BORRACHA LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 172,
+    "cnpj": null,
+    "nome": "ANDREI ALKMIM TEIXEIRA",
+    "uf": "MG"
+  },
+  {
+    "id": 173,
+    "cnpj": null,
+    "nome": "ALEXANDRE WILLIAM DE ANDRADE",
+    "uf": "MT"
+  },
+  {
+    "id": 174,
+    "cnpj": null,
+    "nome": "JEAN CABANELAS DE LIMA",
+    "uf": "AC"
+  },
+  {
+    "id": 175,
+    "cnpj": "00022090000111",
+    "nome": "SLG COMERCIO DE SISTEMAS DE AUTOMACAO LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 176,
+    "cnpj": "00022244000175",
+    "nome": "COPOCENTRO INDUSTRIA DE PLASTICOS LTDA",
+    "uf": "GO"
+  },
+  {
+    "id": 177,
+    "cnpj": "00022416000100",
+    "nome": "OPERATOR ASSESSORIA E ANALISES AMBIENTAIS LTDA.",
+    "uf": "SP"
+  },
+  {
+    "id": 178,
+    "cnpj": "00022488000158",
+    "nome": "REAL TOOLS COMERCIAL LTDA - EPP",
+    "uf": "SP"
+  },
+  {
+    "id": 179,
+    "cnpj": null,
+    "nome": "VALDIR AGUIAR",
+    "uf": "MG"
+  },
+  {
+    "id": 180,
+    "cnpj": null,
+    "nome": "MIRIAN EUGENIA CABREIRA VILLAGRAN",
+    "uf": "RS"
+  },
+  {
+    "id": 181,
+    "cnpj": "00023280000153",
+    "nome": "CAPITOLIO COM REPR IMPORTACAO E EXPORTACAO LTDA - EPP",
+    "uf": "SP"
+  },
+  {
+    "id": 182,
+    "cnpj": "00023352000162",
+    "nome": "TROPICAL BAND COMERCIAL LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 183,
+    "cnpj": "00023577000119",
+    "nome": "TECNOLIGHT ELETROELETRONICA INDUSTRIA E COMERCIO LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 184,
+    "cnpj": "00023810000163",
+    "nome": "ENGEPOX COMERCIO E REVESTIMENTO DE PISOS LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 185,
+    "cnpj": "00023820000107",
+    "nome": "SALVADOR MOTA & CIA LTDA EPP",
+    "uf": "DF"
+  },
+  {
+    "id": 186,
+    "cnpj": "00023820000603",
+    "nome": "SALVADOR MOTA & CIA LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 187,
+    "cnpj": "00023851000150",
+    "nome": "A. L. B. LUZ - EPP",
+    "uf": "SP"
+  },
+  {
+    "id": 188,
+    "cnpj": "00023884000108",
+    "nome": "PAULO CESAR NOSSA - EPP",
+    "uf": "SP"
+  },
+  {
+    "id": 189,
+    "cnpj": null,
+    "nome": "LEONARDO GUIMARAES NETO",
+    "uf": "PE"
+  },
+  {
+    "id": 190,
+    "cnpj": "00024036000296",
+    "nome": "TRACTOR TERRA TERRAPLENAGEM TRANSPORTES E CONSTRUCAO CI",
+    "uf": "SP"
+  },
+  {
+    "id": 191,
+    "cnpj": "00024415000103",
+    "nome": "DISTRIBUIDORA NANCY LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 192,
+    "cnpj": "00024651000111",
+    "nome": "THAMA'S TRANSPORTES LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 193,
+    "cnpj": "00024780000100",
+    "nome": "MORAN ELETRICA LTDA. - E.P.P.",
+    "uf": "SP"
+  },
+  {
+    "id": 194,
+    "cnpj": null,
+    "nome": "JULIO BERNARDES CARDOSO",
+    "uf": "MG"
+  },
+  {
+    "id": 195,
+    "cnpj": null,
+    "nome": "ANTONIO DE SOUZA ARAUJO",
+    "uf": "MG"
+  },
+  {
+    "id": 196,
+    "cnpj": "00025131000123",
+    "nome": "RDA COM REPRES IMPORT DE MATERIAIS ELETRONICOS LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 197,
+    "cnpj": "00025222000169",
+    "nome": "GEIGER MENDES COMERCIAL LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 198,
+    "cnpj": null,
+    "nome": "ALDERICO PINHEIRO DE CAMPOS",
+    "uf": "MG"
+  },
+  {
+    "id": 199,
+    "cnpj": "00025310000160",
+    "nome": "FARMAQUI INDUSTRIA E COMERCIO LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 200,
+    "cnpj": null,
+    "nome": "VICENTE BATISTA DE ARAUJO JUNIOR",
+    "uf": "CE"
+  },
+  {
+    "id": 201,
+    "cnpj": null,
+    "nome": "FERNANDO ROMAGNOLI ROSSETO",
+    "uf": "MT"
+  },
+  {
+    "id": 202,
+    "cnpj": "00025841000153",
+    "nome": "HOSPITAL SANTA LUCIA S/A",
+    "uf": "DF"
+  },
+  {
+    "id": 203,
+    "cnpj": "00025992000101",
+    "nome": "JOAO REYNALDO MARTIN CANO - EPP",
+    "uf": "SP"
+  },
+  {
+    "id": 204,
+    "cnpj": "00026248000121",
+    "nome": "DENIMEX SUPRIMENTOS PARA IMPRESSAO E AUTOMACAO LTDA - EPP",
+    "uf": "SP"
+  },
+  {
+    "id": 205,
+    "cnpj": "00026315000108",
+    "nome": "MAZZA, FREGOLENTE & CIA - ELETRICIDADE E CONSTRUCOES LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 206,
+    "cnpj": null,
+    "nome": "PAULO RICARDO PRIORI",
+    "uf": "GO"
+  },
+  {
+    "id": 207,
+    "cnpj": "00026318000141",
+    "nome": "TRADEMARK COMERCIO EXTERIOR LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 208,
+    "cnpj": null,
+    "nome": "ADRIANO DA SILVA NUNES",
+    "uf": "RS"
+  },
+  {
+    "id": 209,
+    "cnpj": "00026572000140",
+    "nome": "RECPAZ TRANSPORTES E TURISMO LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 210,
+    "cnpj": "00026893000144",
+    "nome": "MONTEX COMERCIAL EXPORTADORA E IMPORTADORA LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 211,
+    "cnpj": "00027116000114",
+    "nome": "KBA DO BRASIL COMERCIO DE MAQUINAS GRAFICAS LTDA.",
+    "uf": "SP"
+  },
+  {
+    "id": 212,
+    "cnpj": "00027204000116",
+    "nome": "SERVBEM GAS COMERCIO LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 213,
+    "cnpj": null,
+    "nome": "IDALINO CARLIN",
+    "uf": "RS"
+  },
+  {
+    "id": 214,
+    "cnpj": "00027301000109",
+    "nome": "PASCOAL SILVERIO ORLANDIA ME",
+    "uf": "SP"
+  },
+  {
+    "id": 215,
+    "cnpj": "00027466000180",
+    "nome": "CASA DO SERRALHEIRO LTDA ME",
+    "uf": "DF"
+  },
+  {
+    "id": 216,
+    "cnpj": "00027571000110",
+    "nome": "ASSIST CARD DO BRASIL LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 217,
+    "cnpj": "00027656000106",
+    "nome": "C.C.M.  CENTRO COMERCIAL DE MOVEIS LTDA",
+    "uf": "GO"
+  },
+  {
+    "id": 218,
+    "cnpj": "00027681000181",
+    "nome": "RICHARDSON ELECTRONICS DO BRASIL LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 219,
+    "cnpj": "00027742000100",
+    "nome": "CBCC - COMPANHIA BRASILEIRA DE CONTACT CENTER",
+    "uf": "SP"
+  },
+  {
+    "id": 220,
+    "cnpj": null,
+    "nome": "GLAYDSON RIBEIRO TORRES",
+    "uf": "PA"
+  },
+  {
+    "id": 221,
+    "cnpj": null,
+    "nome": "SANDRA REGINA BELTRAMI",
+    "uf": "MG"
+  },
+  {
+    "id": 222,
+    "cnpj": "00027797000110",
+    "nome": "MARMORARIA BRASILIA LIMITADA",
+    "uf": "DF"
+  },
+  {
+    "id": 223,
+    "cnpj": "00027896000100",
+    "nome": "ASSOCIACAO DE CULTURA FRANCO BRASILEIRA DE BRASILIA",
+    "uf": "DF"
+  },
+  {
+    "id": 224,
+    "cnpj": "00027917000180",
+    "nome": "ENDEAVOUR INFORMATICA SOLUTIONS LTDA - ME",
+    "uf": "SP"
+  },
+  {
+    "id": 225,
+    "cnpj": "00028067000134",
+    "nome": "BIOPARTS DO BRASIL SUPRIMENTOS CIRURGICOS E HOSPITALARE",
+    "uf": "SP"
+  },
+  {
+    "id": 226,
+    "cnpj": "00028682000140",
+    "nome": "PROMEDON DO BRASIL PRODUTOS MEDICO HOSPITALARES LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 227,
+    "cnpj": "00028841000107",
+    "nome": "J. S. ANTONIO & ANTONIO EIRELI - EPP",
+    "uf": "SP"
+  },
+  {
+    "id": 228,
+    "cnpj": "00028876000146",
+    "nome": "VIDEOJET DO BRASIL COMERCIO DE EQUIPAMENTOS PARA CODIFICACAO INDUSTRIAL LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 229,
+    "cnpj": "00028986000108",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "SP"
+  },
+  {
+    "id": 230,
+    "cnpj": "00028986000370",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "AM"
+  },
+  {
+    "id": 231,
+    "cnpj": "00028986000450",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "BA"
+  },
+  {
+    "id": 232,
+    "cnpj": "00028986000531",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "CE"
+  },
+  {
+    "id": 233,
+    "cnpj": "00028986000612",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "DF"
+  },
+  {
+    "id": 234,
+    "cnpj": "00028986000701",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "ES"
+  },
+  {
+    "id": 235,
+    "cnpj": "00028986000965",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "GO"
+  },
+  {
+    "id": 236,
+    "cnpj": "00028986001007",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "MG"
+  },
+  {
+    "id": 237,
+    "cnpj": "00028986001180",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "MG"
+  },
+  {
+    "id": 238,
+    "cnpj": "00028986001260",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "MG"
+  },
+  {
+    "id": 239,
+    "cnpj": "00028986001341",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "MS"
+  },
+  {
+    "id": 240,
+    "cnpj": "00028986001422",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "MT"
+  },
+  {
+    "id": 241,
+    "cnpj": "00028986001503",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "PA"
+  },
+  {
+    "id": 242,
+    "cnpj": "00028986001694",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "PE"
+  },
+  {
+    "id": 243,
+    "cnpj": "00028986001775",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "PR"
+  },
+  {
+    "id": 244,
+    "cnpj": "00028986001856",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "PR"
+  },
+  {
+    "id": 245,
+    "cnpj": "00028986001937",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "PR"
+  },
+  {
+    "id": 246,
+    "cnpj": "00028986002070",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "RJ"
+  },
+  {
+    "id": 247,
+    "cnpj": "00028986002585",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "RJ"
+  },
+  {
+    "id": 248,
+    "cnpj": "00028986002666",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "RJ"
+  },
+  {
+    "id": 249,
+    "cnpj": "00028986002747",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "RJ"
+  },
+  {
+    "id": 250,
+    "cnpj": "00028986003042",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "RS"
+  },
+  {
+    "id": 251,
+    "cnpj": "00028986003204",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "RS"
+  },
+  {
+    "id": 252,
+    "cnpj": "00028986003395",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "SC"
+  },
+  {
+    "id": 253,
+    "cnpj": "00028986003476",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "SC"
+  },
+  {
+    "id": 254,
+    "cnpj": "00028986003557",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "SE"
+  },
+  {
+    "id": 255,
+    "cnpj": "00028986003638",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "SP"
+  },
+  {
+    "id": 256,
+    "cnpj": "00028986004014",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "SP"
+  },
+  {
+    "id": 257,
+    "cnpj": "00028986005339",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "SP"
+  },
+  {
+    "id": 258,
+    "cnpj": "00028986005410",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "SP"
+  },
+  {
+    "id": 259,
+    "cnpj": "00028986005681",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "SP"
+  },
+  {
+    "id": 260,
+    "cnpj": "00028986005762",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "SP"
+  },
+  {
+    "id": 261,
+    "cnpj": "00028986005843",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "SP"
+  },
+  {
+    "id": 262,
+    "cnpj": "00028986005924",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "SP"
+  },
+  {
+    "id": 263,
+    "cnpj": "00028986006068",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "SP"
+  },
+  {
+    "id": 264,
+    "cnpj": "00028986006149",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "SP"
+  },
+  {
+    "id": 265,
+    "cnpj": "00028986006653",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "SC"
+  },
+  {
+    "id": 266,
+    "cnpj": "00028986007110",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "RS"
+  },
+  {
+    "id": 267,
+    "cnpj": "00028986007463",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "RS"
+  },
+  {
+    "id": 268,
+    "cnpj": "00028986014672",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "SP"
+  },
+  {
+    "id": 269,
+    "cnpj": "00028986014753",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "PR"
+  },
+  {
+    "id": 270,
+    "cnpj": "00028986017264",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "AL"
+  },
+  {
+    "id": 271,
+    "cnpj": "00028986017698",
+    "nome": "ELEVADORES ATLAS SCHINDLER LTDA.",
+    "uf": "PR"
+  },
+  {
+    "id": 272,
+    "cnpj": "00029052000190",
+    "nome": "RAIMECK INDUSTRIA E COMERCIO LTDA - EPP",
+    "uf": "SP"
+  },
+  {
+    "id": 273,
+    "cnpj": "00029160000163",
+    "nome": "AGRO COMERCIAL DA VARGEM LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 274,
+    "cnpj": "00029309000104",
+    "nome": "JUCELIO CARNEIRO DE ANIAS ME",
+    "uf": "SP"
+  },
+  {
+    "id": 275,
+    "cnpj": "00029372000140",
+    "nome": "GE HEALTHCARE DO BRASIL COMERCIO E SERVICOS PARA EQUIPAMENTOS MEDICO-HOSPITALARE",
+    "uf": "SP"
+  },
+  {
+    "id": 276,
+    "cnpj": "00029372000221",
+    "nome": "GE HEALTHCARE DO BRASIL COMERCIO E SERVICOS PARA EQUIPAMENTOS MEDICO-HOSPITALARE",
+    "uf": "MG"
+  },
+  {
+    "id": 277,
+    "cnpj": "00029372000302",
+    "nome": "GE HEALTHCARE DO BRASIL COMERCIO E SERVICOS PARA EQUIPAMENTOS MEDICO-HOSPITALARE",
+    "uf": "SP"
+  },
+  {
+    "id": 278,
+    "cnpj": "00029372000493",
+    "nome": "GE HEALTHCARE DO BRASIL COMERCIO E SERVICOS PARA EQUIPAMENTOS MEDICO-HOSPITALARE",
+    "uf": "PE"
+  },
+  {
+    "id": 279,
+    "cnpj": "00029412000154",
+    "nome": "A.C.I. NETWORK GUEDES LTDA - EPP",
+    "uf": "SP"
+  },
+  {
+    "id": 280,
+    "cnpj": "00029466000110",
+    "nome": "SKYNET COMERCIO E REPRESENTACOES DE INFORMATICA LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 281,
+    "cnpj": "00029650000160",
+    "nome": "C N T BRASIL DISTRIBUIDORA LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 282,
+    "cnpj": null,
+    "nome": "SEBASTIAO LUIS GARCIA JUNIOR",
+    "uf": "SP"
+  },
+  {
+    "id": 283,
+    "cnpj": "00029828000172",
+    "nome": "MIDIA COMERCIO E EVENTOS ARTISTICOS LTDA - ME",
+    "uf": "SP"
+  },
+  {
+    "id": 284,
+    "cnpj": "00029837000163",
+    "nome": "YALE DO BRASIL EMPILHADEIRAS LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 285,
+    "cnpj": null,
+    "nome": "RICARDO GOMES DE ARAUJO",
+    "uf": "PR"
+  },
+  {
+    "id": 286,
+    "cnpj": null,
+    "nome": "VAGNER SOUZA BRUM",
+    "uf": "RS"
+  },
+  {
+    "id": 287,
+    "cnpj": "00030166000150",
+    "nome": "M.M.V.B. DECORACOES E COMERCIO DE TECIDOS LTDA - ME",
+    "uf": "SP"
+  },
+  {
+    "id": 288,
+    "cnpj": "00030559000164",
+    "nome": "ENTERNET-INFORMATICA LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 289,
+    "cnpj": null,
+    "nome": "CARLOS ALBERTO GUEDES CAMPOS",
+    "uf": "RJ"
+  },
+  {
+    "id": 290,
+    "cnpj": null,
+    "nome": "PAULA MARTELLO NAZAR",
+    "uf": "RS"
+  },
+  {
+    "id": 291,
+    "cnpj": null,
+    "nome": "CELIA REGINA GOUVEA VANEAU",
+    "uf": "SP"
+  },
+  {
+    "id": 292,
+    "cnpj": null,
+    "nome": "VALMIR JOSE ALVES LEAL BARROS",
+    "uf": "PE"
+  },
+  {
+    "id": 293,
+    "cnpj": "00031195000137",
+    "nome": "ELETRICA ARAUJO COMERCIAL LTDA - ME",
+    "uf": "DF"
+  },
+  {
+    "id": 294,
+    "cnpj": "00031377000108",
+    "nome": "LABORATORIO DE ANALISES DA CLINICA SANTA MARIA LTDA - ME",
+    "uf": "GO"
+  },
+  {
+    "id": 295,
+    "cnpj": null,
+    "nome": "MITRI MOUFARREGE",
+    "uf": "DF"
+  },
+  {
+    "id": 296,
+    "cnpj": "00032227000119",
+    "nome": "SANTA HELENA URBANIZACAO E OBRAS SA",
+    "uf": "DF"
+  },
+  {
+    "id": 297,
+    "cnpj": null,
+    "nome": "KONRAD GEORG ANTONIUS BEHRENS",
+    "uf": "RJ"
+  },
+  {
+    "id": 298,
+    "cnpj": null,
+    "nome": "VANDER FRAGA ABELHA",
+    "uf": "PR"
+  },
+  {
+    "id": 299,
+    "cnpj": null,
+    "nome": "RENATO CREMA DE SOUZA",
+    "uf": "MG"
+  },
+  {
+    "id": 300,
+    "cnpj": "00033241000137",
+    "nome": "VITRAL VIDROS PLANOS LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 301,
+    "cnpj": null,
+    "nome": "MARQUIONE TAVARES PEREIRA",
+    "uf": "MG"
+  },
+  {
+    "id": 302,
+    "cnpj": "00033613000397",
+    "nome": "SANTA IZABEL TRANSPORTES E TURISMO LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 303,
+    "cnpj": null,
+    "nome": "JOSE SANTANA DE ANDRADE PONTES",
+    "uf": "AP"
+  },
+  {
+    "id": 304,
+    "cnpj": "00033757000181",
+    "nome": "GEOAMBIENTE SENSORIAMENTO REMOTO LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 305,
+    "cnpj": null,
+    "nome": "GUSTAVO CAPITANIO BETELLA",
+    "uf": "MT"
+  },
+  {
+    "id": 306,
+    "cnpj": "00034262000177",
+    "nome": "HOSPITAL CANTO DO FORTE S/S LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 307,
+    "cnpj": "00034542000185",
+    "nome": "TECHNOTEL ASSOCIADOS S/C LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 308,
+    "cnpj": "00034862000135",
+    "nome": "RODRIGUES DIAS ENGENHARIA CIVIL LTDA - ME",
+    "uf": "SP"
+  },
+  {
+    "id": 309,
+    "cnpj": "00035179000112",
+    "nome": "PROCOMEX ASSESSORIA E TREINAMENTO EM PROJETOS E EVENTOS",
+    "uf": "SP"
+  },
+  {
+    "id": 310,
+    "cnpj": null,
+    "nome": "HERCILIO NARDI",
+    "uf": "GO"
+  },
+  {
+    "id": 311,
+    "cnpj": null,
+    "nome": "IVAN ANTONIO DE SOUSA",
+    "uf": "PB"
+  },
+  {
+    "id": 312,
+    "cnpj": null,
+    "nome": "RAMONI MAFRA DE LIMA",
+    "uf": "RR"
+  },
+  {
+    "id": 313,
+    "cnpj": null,
+    "nome": "GIOVANI MIARI BRITO",
+    "uf": "MG"
+  },
+  {
+    "id": 314,
+    "cnpj": null,
+    "nome": "SONIA PATRICIA DO NASCIMENTO PINHEIRO",
+    "uf": "CE"
+  },
+  {
+    "id": 315,
+    "cnpj": null,
+    "nome": "SANDRA REGINA DE CASTRO TEIXEIRA",
+    "uf": "RJ"
+  },
+  {
+    "id": 316,
+    "cnpj": null,
+    "nome": "FABRICIO LORENZI",
+    "uf": "MT"
+  },
+  {
+    "id": 317,
+    "cnpj": null,
+    "nome": "EUSTAQUIO LEITE DE SOUSA",
+    "uf": "MG"
+  },
+  {
+    "id": 318,
+    "cnpj": "00038174000143",
+    "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+    "uf": "DF"
+  },
+  {
+    "id": 319,
+    "cnpj": null,
+    "nome": "LAURA CRISTINA BRAGA LIMA",
+    "uf": "RJ"
+  },
+  {
+    "id": 320,
+    "cnpj": "00038513000191",
+    "nome": "ASSOC.BENEFICENTE DA CAPITAL FEDERAL DO BRASIL - BENECA",
+    "uf": "DF"
+  },
+  {
+    "id": 321,
+    "cnpj": "00038620000110",
+    "nome": "VERTICAL CONSTRUCOES E MONTAGENS INDUSTRIAIS LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 322,
+    "cnpj": null,
+    "nome": "FREDERICO DOELER",
+    "uf": "RS"
+  },
+  {
+    "id": 323,
+    "cnpj": null,
+    "nome": "JOICE SANA RODIGUERO",
+    "uf": "RS"
+  },
+  {
+    "id": 324,
+    "cnpj": null,
+    "nome": "MARIA DAS GRACAS DA COSTA KIENLE",
+    "uf": "RJ"
+  },
+  {
+    "id": 325,
+    "cnpj": "00039404000199",
+    "nome": "H & F VIGILANCIA E SEGURANCA LTDA",
+    "uf": "GO"
+  },
+  {
+    "id": 326,
+    "cnpj": null,
+    "nome": "ANTONIO CHAVES BARCELLOS",
+    "uf": "RS"
+  },
+  {
+    "id": 327,
+    "cnpj": null,
+    "nome": "MARCIA FLORENCIO DE SOUZA",
+    "uf": "RJ"
+  },
+  {
+    "id": 328,
+    "cnpj": null,
+    "nome": "ALFREDO PINTO DE LIMA FILHO",
+    "uf": "AC"
+  },
+  {
+    "id": 329,
+    "cnpj": "00041327000101",
+    "nome": "CURINGA DOS PNEUS LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 330,
+    "cnpj": "00041327000616",
+    "nome": "CURINGA DOS PNEUS LTDA",
+    "uf": "GO"
+  },
+  {
+    "id": 331,
+    "cnpj": "00041327001000",
+    "nome": "CURINGA DOS PNEUS LTDA",
+    "uf": "MG"
+  },
+  {
+    "id": 332,
+    "cnpj": "00041327001426",
+    "nome": "CURINGA DOS PNEUS LTDA",
+    "uf": "TO"
+  },
+  {
+    "id": 333,
+    "cnpj": "00041327001850",
+    "nome": "CURINGA DOS PNEUS LTDA",
+    "uf": "MA"
+  },
+  {
+    "id": 334,
+    "cnpj": "00041327001930",
+    "nome": "CURINGA DOS PNEUS LTDA",
+    "uf": "MT"
+  },
+  {
+    "id": 335,
+    "cnpj": "00041327002155",
+    "nome": "CURINGA DOS PNEUS LTDA",
+    "uf": "PA"
+  },
+  {
+    "id": 336,
+    "cnpj": "00041327002236",
+    "nome": "CURINGA DOS PNEUS LTDA",
+    "uf": "PA"
+  },
+  {
+    "id": 337,
+    "cnpj": "00041327002406",
+    "nome": "CURINGA DOS PNEUS LTDA",
+    "uf": "GO"
+  },
+  {
+    "id": 338,
+    "cnpj": "00041327002589",
+    "nome": "CURINGA DOS PNEUS LTDA",
+    "uf": "MG"
+  },
+  {
+    "id": 339,
+    "cnpj": "00041327002660",
+    "nome": "CURINGA DOS PNEUS LTDA",
+    "uf": "MG"
+  },
+  {
+    "id": 340,
+    "cnpj": "00041327002740",
+    "nome": "CURINGA DOS PNEUS LTDA",
+    "uf": "MA"
+  },
+  {
+    "id": 341,
+    "cnpj": "00041327002902",
+    "nome": "CURINGA DOS PNEUS LTDA",
+    "uf": "PI"
+  },
+  {
+    "id": 342,
+    "cnpj": "00041327003046",
+    "nome": "CURINGA DOS PNEUS LTDA",
+    "uf": "MG"
+  },
+  {
+    "id": 343,
+    "cnpj": "00041327003399",
+    "nome": "CURINGA DOS PNEUS LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 344,
+    "cnpj": "00041327003550",
+    "nome": "CURINGA DOS PNEUS LTDA",
+    "uf": "GO"
+  },
+  {
+    "id": 345,
+    "cnpj": "00041327003631",
+    "nome": "CURINGA DOS PNEUS LTDA",
+    "uf": "BA"
+  },
+  {
+    "id": 346,
+    "cnpj": "00041327003712",
+    "nome": "CURINGA DOS PNEUS LTDA",
+    "uf": "MA"
+  },
+  {
+    "id": 347,
+    "cnpj": "00041327003801",
+    "nome": "CURINGA DOS PNEUS LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 348,
+    "cnpj": "00041327003984",
+    "nome": "CURINGA DOS PNEUS LTDA",
+    "uf": "GO"
+  },
+  {
+    "id": 349,
+    "cnpj": "00041327004018",
+    "nome": "CURINGA DOS PNEUS LTDA",
+    "uf": "TO"
+  },
+  {
+    "id": 350,
+    "cnpj": "00041327004107",
+    "nome": "CURINGA DOS PNEUS LTDA",
+    "uf": "MT"
+  },
+  {
+    "id": 351,
+    "cnpj": "00041327004360",
+    "nome": "CURINGA DOS PNEUS LTDA",
+    "uf": "MA"
+  },
+  {
+    "id": 352,
+    "cnpj": "00041327004522",
+    "nome": "CURINGA DOS PNEUS LTDA",
+    "uf": "PA"
+  },
+  {
+    "id": 353,
+    "cnpj": "00041327004603",
+    "nome": "CURINGA DOS PNEUS LTDA",
+    "uf": "ES"
+  },
+  {
+    "id": 354,
+    "cnpj": "00041327005170",
+    "nome": "CURINGA DOS PNEUS LTDA",
+    "uf": "MG"
+  },
+  {
+    "id": 355,
+    "cnpj": null,
+    "nome": "JOSE LUIZ DOMINGUES DUARTE",
+    "uf": "RS"
+  },
+  {
+    "id": 356,
+    "cnpj": "00042291000180",
+    "nome": "CONCRETA CONSTRUTORA E INCORPORADORA LTDA",
+    "uf": "GO"
+  },
+  {
+    "id": 357,
+    "cnpj": null,
+    "nome": "GUSTAVO FROEHLICH XAVIER",
+    "uf": "RS"
+  },
+  {
+    "id": 358,
+    "cnpj": null,
+    "nome": "LUIS SCHUH",
+    "uf": "PR"
+  },
+  {
+    "id": 359,
+    "cnpj": null,
+    "nome": "FERNANDA FROTA DE CAMPOS RACHE FERREIRA",
+    "uf": "MG"
+  },
+  {
+    "id": 360,
+    "cnpj": null,
+    "nome": "JOSE AMERICO RODRIGUES",
+    "uf": "PE"
+  },
+  {
+    "id": 361,
+    "cnpj": "00043471000187",
+    "nome": "CONSTRUTORA VILLELA E CARVALHO LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 362,
+    "cnpj": "00043711000143",
+    "nome": "DEPARTAMENTO NACIONAL DE OBRAS CONTRA AS SECAS",
+    "uf": "CE"
+  },
+  {
+    "id": 363,
+    "cnpj": null,
+    "nome": "ERIC DE OLIVEIRA SANTOS",
+    "uf": "PR"
+  },
+  {
+    "id": 364,
+    "cnpj": null,
+    "nome": "IMAR BORGES FILHO",
+    "uf": "PR"
+  },
+  {
+    "id": 365,
+    "cnpj": "00044222000106",
+    "nome": "MCA ENGENHARIA LTDA",
+    "uf": "GO"
+  },
+  {
+    "id": 366,
+    "cnpj": null,
+    "nome": "PRISCILA ANTUNES GOMES",
+    "uf": "MS"
+  },
+  {
+    "id": 367,
+    "cnpj": null,
+    "nome": "ATILA DE SOUZA SOARES",
+    "uf": "MG"
+  },
+  {
+    "id": 368,
+    "cnpj": null,
+    "nome": "ANTONIO CUSTODIO LOPES",
+    "uf": "RJ"
+  },
+  {
+    "id": 369,
+    "cnpj": null,
+    "nome": "NILSON GUILHERME CAMARA REBORDAO",
+    "uf": "DF"
+  },
+  {
+    "id": 370,
+    "cnpj": null,
+    "nome": "DAIANE LEAL DA SILVA DE LIMA",
+    "uf": "RS"
+  },
+  {
+    "id": 371,
+    "cnpj": null,
+    "nome": "ADHERBAL AUGUSTO MEIRA MATTOS",
+    "uf": "PA"
+  },
+  {
+    "id": 372,
+    "cnpj": null,
+    "nome": "GENESIO VENTURINI",
+    "uf": "MT"
+  },
+  {
+    "id": 373,
+    "cnpj": null,
+    "nome": "EDMOND JACQUES PIERRE DANSOT",
+    "uf": "PE"
+  },
+  {
+    "id": 374,
+    "cnpj": null,
+    "nome": "FRANCISCO ONY MIRANDA DE ARAUJO",
+    "uf": "AC"
+  },
+  {
+    "id": 375,
+    "cnpj": "00048785000172",
+    "nome": "INDAIA BRASIL AGUAS MINERAIS LTDA",
+    "uf": "CE"
+  },
+  {
+    "id": 376,
+    "cnpj": "00048785000334",
+    "nome": "INDAIA BRASIL AGUAS MINERAIS LTDA",
+    "uf": "CE"
+  },
+  {
+    "id": 377,
+    "cnpj": "00048785001578",
+    "nome": "INDAIA BRASIL AGUAS MINERAIS LTDA",
+    "uf": "MA"
+  },
+  {
+    "id": 378,
+    "cnpj": "00048785003279",
+    "nome": "INDAIA BRASIL AGUAS MINERAIS LTDA",
+    "uf": "PB"
+  },
+  {
+    "id": 379,
+    "cnpj": "00048785003945",
+    "nome": "INDAIA BRASIL AGUAS MINERAIS LTDA",
+    "uf": "SE"
+  },
+  {
+    "id": 380,
+    "cnpj": "00048785004240",
+    "nome": "INDAIA BRASIL AGUAS MINERAIS LTDA",
+    "uf": "AL"
+  },
+  {
+    "id": 381,
+    "cnpj": "00048785004593",
+    "nome": "INDAIA BRASIL AGUAS MINERAIS LTDA",
+    "uf": "PA"
+  },
+  {
+    "id": 382,
+    "cnpj": "00048785006294",
+    "nome": "INDAIA BRASIL AGUAS MINERAIS LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 383,
+    "cnpj": "00048785006707",
+    "nome": "INDAIA BRASIL AGUAS MINERAIS LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 384,
+    "cnpj": null,
+    "nome": "SILVANO CE",
+    "uf": "MS"
+  },
+  {
+    "id": 385,
+    "cnpj": null,
+    "nome": "WATUSI CARVALHO DERZI MORAES",
+    "uf": "MS"
+  },
+  {
+    "id": 386,
+    "cnpj": "00049460000104",
+    "nome": "JAWA MAQUINAS E EQUIPAMENTOS PARA ESCRITORIOS EIRELI  - ME",
+    "uf": "DF"
+  },
+  {
+    "id": 387,
+    "cnpj": null,
+    "nome": "CLAUDEMIR DIAS BAPTISTA",
+    "uf": "RJ"
+  },
+  {
+    "id": 388,
+    "cnpj": null,
+    "nome": "GILBERTO SOARES SAMPAIO",
+    "uf": "PE"
+  },
+  {
+    "id": 389,
+    "cnpj": "00049791000144",
+    "nome": "HOSPITAL SANTA HELENA S/A",
+    "uf": "DF"
+  },
+  {
+    "id": 390,
+    "cnpj": "00050609000175",
+    "nome": "ARPROM PROMOCOES E PRODUCOES DE EVENTOS LTDA",
+    "uf": "GO"
+  },
+  {
+    "id": 391,
+    "cnpj": null,
+    "nome": "RAQUEL DOELER",
+    "uf": "RS"
+  },
+  {
+    "id": 392,
+    "cnpj": null,
+    "nome": "RODRIGO ADRIANO DE VARGAS COELHO",
+    "uf": "RS"
+  },
+  {
+    "id": 393,
+    "cnpj": null,
+    "nome": "ANTONIO AIRTON DE ARAUJO CARNEIRO",
+    "uf": "CE"
+  },
+  {
+    "id": 394,
+    "cnpj": null,
+    "nome": "RUBENS CARLOS BUSCHMANN",
+    "uf": "MS"
+  },
+  {
+    "id": 395,
+    "cnpj": "00051722000175",
+    "nome": "CASA DO PAO LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 396,
+    "cnpj": null,
+    "nome": "SERGIO LUIZ BRAGA JUNIOR",
+    "uf": "RS"
+  },
+  {
+    "id": 397,
+    "cnpj": null,
+    "nome": "PAULO LUIZ DE AGUIAR TRAJANO",
+    "uf": "RJ"
+  },
+  {
+    "id": 398,
+    "cnpj": null,
+    "nome": "JOSAFA SOBRAL FILGUEIRA",
+    "uf": "CE"
+  },
+  {
+    "id": 399,
+    "cnpj": null,
+    "nome": "ALESSANDRA REETZ ZIMMER DONICHT",
+    "uf": "RS"
+  },
+  {
+    "id": 400,
+    "cnpj": null,
+    "nome": "FELIPE ADROALDO RAMPELOTTO GATTO",
+    "uf": "MT"
+  },
+  {
+    "id": 401,
+    "cnpj": null,
+    "nome": "EDUARDO BRUNO RAMPELOTTO GATTO",
+    "uf": "MT"
+  },
+  {
+    "id": 402,
+    "cnpj": null,
+    "nome": "FLAVIO ROTTA CORREA",
+    "uf": "RS"
+  },
+  {
+    "id": 403,
+    "cnpj": null,
+    "nome": "ELIZABET CAPPELLARI",
+    "uf": "MT"
+  },
+  {
+    "id": 404,
+    "cnpj": null,
+    "nome": "AGNALDO FEITOZA",
+    "uf": "BA"
+  },
+  {
+    "id": 405,
+    "cnpj": null,
+    "nome": "SILVIA BARBOSA DE CARVALHO",
+    "uf": "RJ"
+  },
+  {
+    "id": 406,
+    "cnpj": "00055623000161",
+    "nome": "LA BELL INDUSTRIA E COMERCIO LTDA.ME",
+    "uf": "SC"
+  },
+  {
+    "id": 407,
+    "cnpj": "00055623000323",
+    "nome": "LA BELL INDUSTRIA E COMERCIO LTDA.ME",
+    "uf": "SC"
+  },
+  {
+    "id": 408,
+    "cnpj": "00055671000150",
+    "nome": "VAN-MEX COMERCIAL E SERVICOS - EIRELI - EPP",
+    "uf": "RJ"
+  },
+  {
+    "id": 409,
+    "cnpj": "00055699000197",
+    "nome": "CIAL COMERCIO E INDUSTRIA DE ALIMENTOS LTDA",
+    "uf": "GO"
+  },
+  {
+    "id": 410,
+    "cnpj": "00055699000359",
+    "nome": "CIAL COMERCIO E INDUSTRIA DE ALIMENTOS LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 411,
+    "cnpj": "00056083000130",
+    "nome": "CENTRO DE ESTUDOS EM SAUDE E ENFERMAGEM DA UNIFESP/EPM",
+    "uf": "SP"
+  },
+  {
+    "id": 412,
+    "cnpj": null,
+    "nome": "THOMAS MATIAS MICHELS",
+    "uf": "GO"
+  },
+  {
+    "id": 413,
+    "cnpj": "00056274000100",
+    "nome": "INSTITUTO DA NORMALIZACAO NA SEG. SAUDE QUALID. PRODUTI",
+    "uf": "SP"
+  },
+  {
+    "id": 414,
+    "cnpj": "00056500000145",
+    "nome": "MICROWORK COMERCIO E ASSISTENCIA TECNICA LTDA - ME",
+    "uf": "RJ"
+  },
+  {
+    "id": 415,
+    "cnpj": "00056513000114",
+    "nome": "BRAZILFILTER COMERCIAL LTDA",
+    "uf": "RJ"
+  },
+  {
+    "id": 416,
+    "cnpj": "00056641000168",
+    "nome": "TUMELERO REDES ELETRICAS LTDA",
+    "uf": "SC"
+  },
+  {
+    "id": 417,
+    "cnpj": "00056697000112",
+    "nome": "SPM EMPREENDIMENTOS LTDA",
+    "uf": "SP"
+  },
+  {
+    "id": 418,
+    "cnpj": "00056746000117",
+    "nome": "BRASIL CENTRAL PERSIANAS LTDA",
+    "uf": "GO"
+  },
+  {
+    "id": 419,
+    "cnpj": "00056794000105",
+    "nome": "PRESITEC ENGENHARIA LTDA",
+    "uf": "RJ"
+  },
+  {
+    "id": 420,
+    "cnpj": "00056958000102",
+    "nome": "IDEALLE EDITORA E PUBLICIDADE LTDA - ME",
+    "uf": "PR"
+  },
+  {
+    "id": 421,
+    "cnpj": "00057023000132",
+    "nome": "IMOBILIARIA PEDRA LTDA - ME",
+    "uf": "MT"
+  },
+  {
+    "id": 422,
+    "cnpj": "00057118000156",
+    "nome": "ARTE TINTAS COMERCIO DE TINTAS LTDA",
+    "uf": "PR"
+  },
+  {
+    "id": 423,
+    "cnpj": "00057198000140",
+    "nome": "CASA JORGE EDITORIAL LTDA",
+    "uf": "RJ"
+  },
+  {
+    "id": 424,
+    "cnpj": "00057359000103",
+    "nome": "COMERCIAL DE BOMBAS E MOTORES LTDA",
+    "uf": "MG"
+  },
+  {
+    "id": 425,
+    "cnpj": "00057511000140",
+    "nome": "ZILMA KREICH COELHO ME",
+    "uf": "SC"
+  },
+  {
+    "id": 426,
+    "cnpj": "00057761000180",
+    "nome": "BAUTEC CONSTRUCOES E INCORPORACOES LTDA",
+    "uf": "SC"
+  },
+  {
+    "id": 427,
+    "cnpj": "00057982000158",
+    "nome": "ALVIMAM COMERCIO E ASSISTENCIA TECNICA LTDA",
+    "uf": "RJ"
+  },
+  {
+    "id": 428,
+    "cnpj": "00058023000157",
+    "nome": "SANTA CLARA CONSTRUTORA LTDA",
+    "uf": "TO"
+  },
+  {
+    "id": 429,
+    "cnpj": "00058059000130",
+    "nome": "COSMOS DISTRIBUIDORA DE MAQUINAS LTDA",
+    "uf": "MG"
+  },
+  {
+    "id": 430,
+    "cnpj": "00058094000150",
+    "nome": "HUCZOK & LEME CONSULTORIA LTDA",
+    "uf": "PR"
+  },
+  {
+    "id": 431,
+    "cnpj": null,
+    "nome": "HUMBERTO OLIVEIRA DE ALMEIDA",
+    "uf": "RN"
+  },
+  {
+    "id": 432,
+    "cnpj": null,
+    "nome": "HARISON SANTOS DE ALMEIDA",
+    "uf": "AM"
+  },
+  {
+    "id": 433,
+    "cnpj": "00058456000102",
+    "nome": "CAFE GRAO NOBRE LTDA",
+    "uf": "RJ"
+  },
+  {
+    "id": 434,
+    "cnpj": "00058456000374",
+    "nome": "CAFE GRAO NOBRE LTDA",
+    "uf": "RJ"
+  },
+  {
+    "id": 435,
+    "cnpj": "00058557000183",
+    "nome": "FABIO MANOEL MARTINS - ME",
+    "uf": "SC"
+  },
+  {
+    "id": 436,
+    "cnpj": "00058633000150",
+    "nome": "OLEGARIO SOLUCOES AUTOMOBILISTICAS LTDA",
+    "uf": "SC"
+  },
+  {
+    "id": 437,
+    "cnpj": "00058752000375",
+    "nome": "CENTRO AUTOMOTIVO BH SUL LTDA",
+    "uf": "MG"
+  },
+  {
+    "id": 438,
+    "cnpj": "00058769000160",
+    "nome": "UNIVISION VIDEO LTDA - ME",
+    "uf": "MG"
+  },
+  {
+    "id": 439,
+    "cnpj": "00058865000109",
+    "nome": "TECTON PROJETOS E CONSTRUCOES LTDA - ME",
+    "uf": "RJ"
+  },
+  {
+    "id": 440,
+    "cnpj": "00059062000179",
+    "nome": "CRYSSIL FORNECEDORA DE MATERIAIS E SERVICOS ESPECIALIZADOSLTDA - ME",
+    "uf": "RJ"
+  },
+  {
+    "id": 441,
+    "cnpj": "00059204000106",
+    "nome": "JOAO PEDRO FULOZINO - ME",
+    "uf": "GO"
+  },
+  {
+    "id": 442,
+    "cnpj": "00059235000159",
+    "nome": "QUALISERVIS - ADMINISTRACAO E SERVICOS LTDA",
+    "uf": "MG"
+  },
+  {
+    "id": 443,
+    "cnpj": null,
+    "nome": "HELOISA HELENA CANTO NOGUEIRA",
+    "uf": "SP"
+  },
+  {
+    "id": 444,
+    "cnpj": "00059308000102",
+    "nome": "PRIMEN ARMAZENS GERAIS LTDA ME",
+    "uf": "MT"
+  },
+  {
+    "id": 445,
+    "cnpj": null,
+    "nome": "JAQUELINE RAMOS VISNHIESKI",
+    "uf": "MT"
+  },
+  {
+    "id": 446,
+    "cnpj": "00059746000170",
+    "nome": "NOBRE-SERVICE SERVICOS TECNICOS INDUSTRIAIS LTDA - EPP",
+    "uf": "RJ"
+  },
+  {
+    "id": 447,
+    "cnpj": null,
+    "nome": "JEANKELI MULLER",
+    "uf": "GO"
+  },
+  {
+    "id": 448,
+    "cnpj": "00059799000191",
+    "nome": "HDS SISTEMAS DE ENERGIA LTDA",
+    "uf": "PR"
+  },
+  {
+    "id": 449,
+    "cnpj": "00059857000187",
+    "nome": "CENTRO DE ENSINO UNIFICADO DE BRASILIA CEUB",
+    "uf": "DF"
+  },
+  {
+    "id": 450,
+    "cnpj": "00059908000170",
+    "nome": "HOUSE CENTER M.P.R. FLORES LTDA - ME",
+    "uf": "RJ"
+  },
+  {
+    "id": 451,
+    "cnpj": "00059934000107",
+    "nome": "RIBEIRO VIAGENS TURISMO & EVENTOS LTDA - ME",
+    "uf": "BA"
+  },
+  {
+    "id": 452,
+    "cnpj": "00059966000102",
+    "nome": "AMPLA TERCEIRIZACAO E SERVICOS LTDA",
+    "uf": "BA"
+  },
+  {
+    "id": 453,
+    "cnpj": "00059993000177",
+    "nome": "TROLLER VEICULOS ESPECIAIS SA",
+    "uf": "CE"
+  },
+  {
+    "id": 454,
+    "cnpj": "00060055000197",
+    "nome": "VENEZA ADMINISTRADORA DE IMOVEIS E CONDOMINIO LTDA.",
+    "uf": "RS"
+  },
+  {
+    "id": 455,
+    "cnpj": "00060175000194",
+    "nome": "MARIA RESENDE GUIMARAES & CIA LTDA ME",
+    "uf": "MG"
+  },
+  {
+    "id": 456,
+    "cnpj": null,
+    "nome": "ERICK LUIZ NEVES DA CAMARA",
+    "uf": "RN"
+  },
+  {
+    "id": 457,
+    "cnpj": "00060223000144",
+    "nome": "MAQNOPAN EQUIPAMENTOS DE PANIFICACAO LTDA-ME",
+    "uf": "MS"
+  },
+  {
+    "id": 458,
+    "cnpj": null,
+    "nome": "DAVID AUGUSTO DE AVELAR",
+    "uf": "DF"
+  },
+  {
+    "id": 459,
+    "cnpj": "00060349000119",
+    "nome": "DIAGNOSTICA COMERCIO E SERVICOS EM EQUIPAMENTOS DE USO MEDICO E HOSPITALAR LTDA ",
+    "uf": "MA"
+  },
+  {
+    "id": 460,
+    "cnpj": "00060586000180",
+    "nome": "POLAND QUIMICA LTDA",
+    "uf": "RJ"
+  },
+  {
+    "id": 461,
+    "cnpj": null,
+    "nome": "ALCIDES HENRIQUES SANTOS FILHO",
+    "uf": "PE"
+  },
+  {
+    "id": 462,
+    "cnpj": null,
+    "nome": "VITORIA DANIELA BOUSSO",
+    "uf": "SP"
+  },
+  {
+    "id": 463,
+    "cnpj": "00060851000120",
+    "nome": "SAVOIR FAIRE CONSULTORIA INFORMATICA LTDA",
+    "uf": "PR"
+  },
+  {
+    "id": 464,
+    "cnpj": null,
+    "nome": "MARCIA LOHSS",
+    "uf": "RN"
+  },
+  {
+    "id": 465,
+    "cnpj": "00061036000185",
+    "nome": "LIFE EMPREENDIMENTOS E SERVICOS LTDA",
+    "uf": "DF"
+  },
+  {
+    "id": 466,
+    "cnpj": "00061100000128",
+    "nome": "GRUBER & FILHO LTDA - EPP",
+    "uf": "PR"
+  },
+  {
+    "id": 467,
+    "cnpj": "00061118000120",
+    "nome": "CEPEO - CONTRACEPTIVOS LTDA",
+    "uf": "BA"
+  },
+  {
+    "id": 468,
+    "cnpj": "00061133000178",
+    "nome": "GUSTAVO MARTINS MARQUES - EPP",
+    "uf": "MA"
+  },
+  {
+    "id": 469,
+    "cnpj": "00061137000156",
+    "nome": "RTS SERVICOS E MANUTENCOES LTDA - ME",
+    "uf": "BA"
+  },
+  {
+    "id": 470,
+    "cnpj": "00061187000133",
+    "nome": "MARCELO FERREIRA MELLO & CIA LTDA",
+    "uf": "MS"
+  },
+  {
+    "id": 471,
+    "cnpj": "00061189000122",
+    "nome": "ESPACO MIX - COMERCIO DE FERRAGENS E PARAFUSOS LTDA - M",
+    "uf": "MS"
+  },
+  {
+    "id": 472,
+    "cnpj": "00061191000100",
+    "nome": "J B ASSISTENCIA TECNICA EM EQUIPAMENTOS MEDICOS E ODONTOLOGICOS LTDA - EPP",
+    "uf": "MS"
+  },
+  {
+    "id": 473,
+    "cnpj": "00061294000161",
+    "nome": "ZANIN & ZANIN LTDA  - ME",
+    "uf": "PR"
+  },
+  {
+    "id": 474,
+    "cnpj": "00061511000113",
+    "nome": "DIGITO INFORMATICA LTDA - ME",
+    "uf": "PR"
+  },
+  {
+    "id": 475,
+    "cnpj": "00061742000127",
+    "nome": "STARTWARE INFORMATICA LTDA - ME",
+    "uf": "DF"
+  },
+  {
+    "id": 476,
+    "cnpj": "00061784000168",
+    "nome": "COMPRECOL-CONSTRUCOES E COMERCIO LTDA",
+    "uf": "MA"
+  },
+  {
+    "id": 477,
+    "cnpj": "00062014000130",
+    "nome": "HOTEL PORTO DA ILHA LTDA",
+    "uf": "SC"
+  },
+  {
+    "id": 478,
+    "cnpj": "00062038000199",
+    "nome": "TONERVILLE MANUTENCAO E INSTALACAO DE EQUIPAMENTOS LTDA - ME",
+    "uf": "SC"
+  },
+  {
+    "id": 479,
+    "cnpj": null,
+    "nome": "JOSE OZORIO DE SOUSA",
+    "uf": "GO"
+  },
+  {
+    "id": 480,
+    "cnpj": "00062275000150",
+    "nome": "ELO IMPORTADORA LTDA",
+    "uf": "CE"
+  },
+  {
+    "id": 481,
+    "cnpj": "00062577000128",
+    "nome": "LANTECH TECNOLOGIA & CONSTRUCOES LTDA",
+    "uf": "MS"
+  },
+  {
+    "id": 482,
+    "cnpj": null,
+    "nome": "JANAINA MERCIA ALVES MELO",
+    "uf": "MG"
+  },
+  {
+    "id": 483,
+    "cnpj": "00062715000179",
+    "nome": "SINDICATO DOS TRABALHADORES NO COMBATE AS ENDEMIAS E SA",
+    "uf": "RJ"
+  },
+  {
+    "id": 484,
+    "cnpj": null,
+    "nome": "MIGUEL FURTADO NETO",
+    "uf": "MG"
+  },
+  {
+    "id": 485,
+    "cnpj": "00062751000132",
+    "nome": "PAPELARIA ESPACIAL LTDA ME",
+    "uf": "PR"
+  },
+  {
+    "id": 486,
+    "cnpj": "00062779000170",
+    "nome": "F M ARAUJO BEZERRA - ME",
+    "uf": "CE"
+  },
+  {
+    "id": 487,
+    "cnpj": "00062809000148",
+    "nome": "SALES PEREIRA ENGENHARIA E CONSTRUCOES LTDA",
+    "uf": "RJ"
+  },
+  {
+    "id": 488,
+    "cnpj": "00062861000102",
+    "nome": "ACOMAR REFORMA E REFRIGERACAO LTDA - EPP",
+    "uf": "MG"
+  },
+  {
+    "id": 489,
+    "cnpj": "00062914000187",
+    "nome": "EBM - LOCACAO E TRANSPORTES LTDA",
+    "uf": "GO"
+  },
+  {
+    "id": 490,
+    "cnpj": "00063076000166",
+    "nome": "J G LARANJA COMPUTADORES LTDA ME",
+    "uf": "RJ"
+  },
+  {
+    "id": 491,
+    "cnpj": "00063077000100",
+    "nome": "H. S. MESQUITA E CIA LTDA",
+    "uf": "MA"
+  },
+  {
+    "id": 492,
+    "cnpj": "00063134000151",
+    "nome": "CARLOS WILIAM TSUHA - EPP",
+    "uf": "MS"
+  },
+  {
+    "id": 493,
+    "cnpj": "00063195000119",
+    "nome": "CAFETERIA COLFARO LTDA - EPP",
+    "uf": "RJ"
+  },
+  {
+    "id": 494,
+    "cnpj": "00063215000151",
+    "nome": "PETHRAS ENGENHARIA E TELECOMUNICACOES LTDA",
+    "uf": "RJ"
+  },
+  {
+    "id": 495,
+    "cnpj": null,
+    "nome": "IAN SELONKE",
+    "uf": "PR"
+  },
+  {
+    "id": 496,
+    "cnpj": "00063405000179",
+    "nome": "DAFONTE VEICULOS LTDA",
+    "uf": "CE"
+  },
+  {
+    "id": 497,
+    "cnpj": "00063587000188",
+    "nome": "TRANSPONTE COMERCIO DE COMBUSTIVEIS LTDA",
+    "uf": "RS"
+  },
+  {
+    "id": 498,
+    "cnpj": null,
+    "nome": "RODRIGO SILVEIRA",
+    "uf": "MT"
+  },
+  {
+    "id": 499,
+    "cnpj": "00063682000181",
+    "nome": "SOMITEC SOCIEDADE DE MONTAGENS E INST.TECNICAS LTDA",
+    "uf": "MG"
+  },
+  {
+    "id": 500,
+    "cnpj": "00063719000171",
+    "nome": "PAPELARIA DINAMICA LTDA",
+    "uf": "GO"
+  }
+]

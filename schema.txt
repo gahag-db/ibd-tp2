@@ -1,0 +1,14 @@
+Fornecedores
+  ​pk:ID, CNPJ​, Nome, UF
+
+Licitações
+  ​pk: ID​, Modalidade, Tipo do Pregão
+
+Órgão
+  ​pk: ID​, Nome, Esfera
+
+UASG
+  ​pk: ID​, Nome, Município, CEP, fk:Licitação, fk:Órgão
+
+Contratos
+  pk:(fk:Licitação, fk:Fornecedor), data de assinatura

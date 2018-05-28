@@ -1,0 +1,2 @@
+jq '[ ._embedded.fornecedores[] | { "id": .id, "cnpj": .cnpj, "nome": .nome, "uf": .uf } ]' \
+   fornecedores.json > fornecedores.proc.json
