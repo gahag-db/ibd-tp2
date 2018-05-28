@@ -8,7 +8,7 @@ Licitações
   ​pk: ID​, Nome, Esfera
 
 UASGs
-  ​pk: ID​, Nome, Município, CEP, fk:Licitação, fk:Órgão
+  ​pk: ID​, Nome, Município, CEP, fk:Órgão
 
 Contratos
   pk:(fk:Licitação, fk:Fornecedor), data de assinatura

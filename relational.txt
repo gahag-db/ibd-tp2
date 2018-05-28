@@ -1,6 +1,6 @@
-Fornecedores - CNPJ, Nome, UF
-Licitações - ID, Modalidade, Tipo do Pregão, UASG (fk)
-Contratos - ID, Data de Assinatura, Valor do Contrato, CNPJ contratada (fk), Licitação (fk), aditivos
+Fornecedores - ID, CNPJ, Nome, UF
+Licitações - ID, Modalidade, UASG (fk)
+Contratos - Data de Assinatura, Licitação (fk), Fornecedor (fk)
 UASG - ID, Nome, Município, CEP, Órgão (fk)
 Órgão - ID, Nome, Esfera
 Aditivos - ID, número, Objeto
