@@ -1,2 +1,5 @@
 jq '[ ._embedded.fornecedores[] | { "id": .id, "cnpj": .cnpj, "nome": .nome, "uf": .uf } ]' \
    data/original/fornecedores.json > data/processed/fornecedores.json
+
+jq '[ ._embedded.Orgaos[] | { "id": .codigo, "nome": .nome, "esfera": .codigo_tipo_esfera } ]' \
+   data/original/orgaos.json > data/processed/orgaos.json
