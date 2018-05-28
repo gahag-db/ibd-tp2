@@ -1,0 +1,2 @@
+Add municipios table.
+Add drop table if exists before all sqls.
