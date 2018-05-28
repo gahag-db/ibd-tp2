@@ -13,7 +13,7 @@ jq '[ ._embedded.Orgaos[] | { "id": .codigo, "nome": .nome, "esfera": .codigo_ti
    data/original/orgaos.json > data/processed/orgaos.json
 
 # uasgs
-jq '[ ._embedded.uasgs[] | { "id": .id, "nome": .nome, "municipio": .municipio, "licitacoes": .licitacoes, "orgao": .orgao } ]' \
+jq '[ ._embedded.uasgs[] | { "id": .id, "nome": .nome, "municipio": .id_municipio, "cep": .cep, "orgao": .id_orgao } ]' \
    data/original/uasgs.json > data/processed/uasgs.json
 
 # contratos
