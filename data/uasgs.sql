@@ -5,7 +5,7 @@ CREATE TABLE orgaos(
   ,licitacoes VARCHAR(30)
   ,orgao      VARCHAR(30)
   ,FOREIGN KEY(licitacoes) references licitacoes(id)
-  ,FOREIGN KEU(orgao) references orgaos(id)
+  ,FOREIGN KEY(orgao) references orgaos(id)
 );
 INSERT INTO orgaos(id,nome,municipio,licitacoes,orgao) VALUES
  (10001,'CAMARA DOS DEPUTADOS',NULL,NULL,NULL)
