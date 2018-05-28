@@ -3,4 +3,4 @@ Licitações - ID, Modalidade, UASG (fk)
 Contratos - Data de Assinatura, Licitação (fk), Fornecedor (fk)
 UASG - ID, Nome, Município, CEP, Órgão (fk)
 Órgão - ID, Nome, Esfera
-Aditivos - ID, número, Objeto
+
