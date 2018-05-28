@@ -1,5 +1,9 @@
 jq '[ ._embedded.fornecedores[] | { "id": .id, "cnpj": .cnpj, "nome": .nome, "uf": .uf } ]' \
    data/original/fornecedores.json > data/processed/fornecedores.json
 
+
 jq '[ ._embedded.licitacoes[] | { "id": .identificador|tonumber, "modalidade": .modalidade, "uasg": .uasg } ]' \
    data/original/licitacoes.json > data/processed/licitacoes.json
+
+jq '[ ._embedded.Orgaos[] | { "id": .codigo, "nome": .nome, "esfera": .codigo_tipo_esfera } ]' \
+   data/original/orgaos.json > data/processed/orgaos.json

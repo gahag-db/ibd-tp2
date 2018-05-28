@@ -1,0 +1,2502 @@
+[
+  {
+    "id": 1000,
+    "nome": "CAMARA DOS DEPUTADOS",
+    "esfera": "Federal"
+  },
+  {
+    "id": 1901,
+    "nome": "FUNDO ROTATIVO DA CAMARA DOS DEPUTADOS",
+    "esfera": null
+  },
+  {
+    "id": 2000,
+    "nome": "SENADO FEDERAL",
+    "esfera": null
+  },
+  {
+    "id": 2001,
+    "nome": "FUNDO ESPECIAL DO SENADO FEDERAL",
+    "esfera": null
+  },
+  {
+    "id": 2002,
+    "nome": "SENADO FEDERAL/FUNSEEP",
+    "esfera": null
+  },
+  {
+    "id": 2003,
+    "nome": "FUNDO DA SECRETARIA ESPECIAL DE INFORMATICA",
+    "esfera": null
+  },
+  {
+    "id": 3000,
+    "nome": "TRIBUNAL DE CONTAS DA UNIAO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 3100,
+    "nome": "TRIBUNAL DE JUSTIÇA DO ESTADO RIO DE JANEIRO",
+    "esfera": "Estadual"
+  },
+  {
+    "id": 10000,
+    "nome": "SUPREMO TRIBUNAL FEDERAL",
+    "esfera": "Federal"
+  },
+  {
+    "id": 11000,
+    "nome": "SUPERIOR TRIBUNAL DE JUSTICA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 11111,
+    "nome": "TRIBUNAL DE JUSTIçA DO ESTADO DE MATO GROSSO",
+    "esfera": "Estadual"
+  },
+  {
+    "id": 11112,
+    "nome": "TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ",
+    "esfera": "Estadual"
+  },
+  {
+    "id": 12000,
+    "nome": "JUSTICA FEDERAL",
+    "esfera": "Federal"
+  },
+  {
+    "id": 12800,
+    "nome": "JUSTICA FEDERAL",
+    "esfera": "Federal"
+  },
+  {
+    "id": 12801,
+    "nome": "TRIBUNAL REGIONAL FEDERAL - 1A REGIAO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 12802,
+    "nome": "TRIBUNAL REGIONAL FEDERAL - 2A REGIAO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 12803,
+    "nome": "TRIBUNAL REGIONAL FEDERAL - 3A REGIAO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 12804,
+    "nome": "TRIBUNAL REGIONAL FEDERAL - 4A REGIAO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 12805,
+    "nome": "TRIBUNAL REGIONAL FEDERAL - 5A REGIAO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 13000,
+    "nome": "JUSTICA MILITAR",
+    "esfera": "Federal"
+  },
+  {
+    "id": 13100,
+    "nome": "CENTRAIS DE ABASTECIMENTO DE MINAS GERAIS",
+    "esfera": "Federal"
+  },
+  {
+    "id": 14000,
+    "nome": "JUSTICA ELEITORAL",
+    "esfera": "Federal"
+  },
+  {
+    "id": 14001,
+    "nome": "FUNDO ESPECIAL DE ASSIST.FINANC.PART.POLITICO",
+    "esfera": null
+  },
+  {
+    "id": 14105,
+    "nome": "TRIBUNAL REGIONAL ELEITORAL DA BAHIA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 15000,
+    "nome": "JUSTICA DO TRABALHO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 16000,
+    "nome": "JUSTICA DO DISTRITO FEDERAL E DOS TERRITORIOS",
+    "esfera": "Federal"
+  },
+  {
+    "id": 17000,
+    "nome": "CONSELHO NACIONAL DE JUSTICA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 20000,
+    "nome": "PRESIDENCIA DA REPUBLICA",
+    "esfera": null
+  },
+  {
+    "id": 20101,
+    "nome": "PRESIDENCIA DA REPUBLICA",
+    "esfera": null
+  },
+  {
+    "id": 20102,
+    "nome": "GABINETE DA VICE-PRESIDENCIA DA REPUBLICA",
+    "esfera": null
+  },
+  {
+    "id": 20103,
+    "nome": "MINISTERIO ADM.FED.REFORMA ESTADO-EM EXTINCAO",
+    "esfera": null
+  },
+  {
+    "id": 20104,
+    "nome": "SECRETARIA DE ASSUNTOS ESTRATEGICOS",
+    "esfera": null
+  },
+  {
+    "id": 20105,
+    "nome": "MINISTERIO DA DEFESA",
+    "esfera": null
+  },
+  {
+    "id": 20106,
+    "nome": "CONSULTORIA GERAL DA REPUBLICA",
+    "esfera": null
+  },
+  {
+    "id": 20107,
+    "nome": "SECRETARIA DA CULTURA",
+    "esfera": null
+  },
+  {
+    "id": 20108,
+    "nome": "SECRETARIA DA CIENCIA E TECNOLOGIA",
+    "esfera": null
+  },
+  {
+    "id": 20109,
+    "nome": "SECRETARIA DO DESENVOLVIMENTO REGIONAL",
+    "esfera": null
+  },
+  {
+    "id": 20110,
+    "nome": "SECRETARIA DOS DESPORTOS",
+    "esfera": null
+  },
+  {
+    "id": 20111,
+    "nome": "SECRETARIA DO MEIO AMBIENTE",
+    "esfera": null
+  },
+  {
+    "id": 20112,
+    "nome": "SECRETARIA DE PROJETOS ESPECIAIS DA PR",
+    "esfera": null
+  },
+  {
+    "id": 20113,
+    "nome": "MINISTERIO DO PLANEJAMENTO,DESENV. E GESTÃO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 20114,
+    "nome": "ADVOCACIA-GERAL DA UNIAO",
+    "esfera": null
+  },
+  {
+    "id": 20115,
+    "nome": "FUNDO NACIONAL PARA A CRIANCA E O ADOLESCENTE",
+    "esfera": null
+  },
+  {
+    "id": 20116,
+    "nome": "FUNDO DE IMPRENSA NACIONAL",
+    "esfera": null
+  },
+  {
+    "id": 20117,
+    "nome": "FUNDO NACIONAL ANTIDROGAS",
+    "esfera": "Federal"
+  },
+  {
+    "id": 20125,
+    "nome": "CONTROLADORIA-GERAL DA UNIAO",
+    "esfera": null
+  },
+  {
+    "id": 20129,
+    "nome": "SEC.ESPEC.DE AGRIC.FAMIL.E DO DESENV.AGRARIO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 20202,
+    "nome": "FUNDACAO ESCOLA NACIONAL DE ADM. PUBLICA",
+    "esfera": null
+  },
+  {
+    "id": 20203,
+    "nome": "AGENCIA NACIONAL DO CINEMA",
+    "esfera": null
+  },
+  {
+    "id": 20213,
+    "nome": "EMPRESA BRAS.DE INFRA-ESTRUTURA AEROPORTUÁRIA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 20214,
+    "nome": "AGENCIA NACIONAL DE AVIAÇÃO CIVIL - ANAC",
+    "esfera": "Federal"
+  },
+  {
+    "id": 20301,
+    "nome": "COMISSAO NACIONAL DE ENERGIA NUCLEAR",
+    "esfera": null
+  },
+  {
+    "id": 20302,
+    "nome": "NUCLEBRAS EQUIPAMENTOS PESADOS S/A",
+    "esfera": "Federal"
+  },
+  {
+    "id": 20303,
+    "nome": "INDUSTRIAS NUCLEARES DO BRASIL S/A",
+    "esfera": "Estadual"
+  },
+  {
+    "id": 20304,
+    "nome": "URANIO DO BRASIL S/A",
+    "esfera": null
+  },
+  {
+    "id": 20402,
+    "nome": "AGENCIA ESPACIAL BRASILEIRA - AEB",
+    "esfera": null
+  },
+  {
+    "id": 20403,
+    "nome": "FUNDACAO CASA DE RUI BARBOSA",
+    "esfera": null
+  },
+  {
+    "id": 20404,
+    "nome": "FUNDACAO BIBLIOTECA NACIONAL",
+    "esfera": null
+  },
+  {
+    "id": 20407,
+    "nome": "FUNDACAO DO CINEMA BRASILEIRO",
+    "esfera": null
+  },
+  {
+    "id": 20408,
+    "nome": "FUNDACAO CULTURAL PALMARES",
+    "esfera": null
+  },
+  {
+    "id": 20410,
+    "nome": "FUNDACAO NACIONAL PRO-LEITURA",
+    "esfera": null
+  },
+  {
+    "id": 20411,
+    "nome": "INSTITUTO DO PATRIMONIO HIST. E ART. NACIONAL",
+    "esfera": "Federal"
+  },
+  {
+    "id": 20412,
+    "nome": "FUNDACAO NACIONAL DE ARTES",
+    "esfera": null
+  },
+  {
+    "id": 20415,
+    "nome": "EMPRESA BRASIL DE COMUNICAÇÃO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 20501,
+    "nome": "CONSELHO NACIONAL DE DES.CIENT.E TECNOLOGICO",
+    "esfera": null
+  },
+  {
+    "id": 20502,
+    "nome": "FINANCIADORA DE ESTUDOS E PROJETOS",
+    "esfera": null
+  },
+  {
+    "id": 20503,
+    "nome": "FUNDACAO CENTRO TECNOLOGICO PARA INFORMATICA",
+    "esfera": null
+  },
+  {
+    "id": 20601,
+    "nome": "SUPERINTENDENCIA DO DESENVOLV. DO NORDESTE",
+    "esfera": null
+  },
+  {
+    "id": 20602,
+    "nome": "SUPERINTENDENCIA DO DESENVOLV. DA AMAZONIA",
+    "esfera": null
+  },
+  {
+    "id": 20603,
+    "nome": "SUPERINTENDENCIA DA ZONA FRANCA DE MANAUS",
+    "esfera": "Federal"
+  },
+  {
+    "id": 20604,
+    "nome": "INSTITUTO BRASILEIRO DE TURISMO",
+    "esfera": null
+  },
+  {
+    "id": 20605,
+    "nome": "COMPANHIA DE DESENVOLVIMENTO DE BARCARENA",
+    "esfera": null
+  },
+  {
+    "id": 20701,
+    "nome": "INST.BRAS.DO MEIO AMB.E DOS REC.NAT.RENOVAV.",
+    "esfera": "Federal"
+  },
+  {
+    "id": 20801,
+    "nome": "SECRETARIA DE PATRIMONIO DA UNIAO/MP",
+    "esfera": null
+  },
+  {
+    "id": 20802,
+    "nome": "SUBSECRETARIA DE PLANEJ.,ORCAMENTO E ADM./MP",
+    "esfera": null
+  },
+  {
+    "id": 20803,
+    "nome": "SECRETARIA DE ADMINISTRACAO/CC/PR",
+    "esfera": null
+  },
+  {
+    "id": 20924,
+    "nome": "FUNDO NACIONAL DE DESENVOLVIMENTO",
+    "esfera": null
+  },
+  {
+    "id": 20925,
+    "nome": "CALAMIDADES PUBLICAS - FUNCAP",
+    "esfera": null
+  },
+  {
+    "id": 20929,
+    "nome": "FUNDO NACIONAL DO IDOSO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 22000,
+    "nome": "MINIST. DA AGRICUL.,PECUARIA E ABASTECIMENTO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 22201,
+    "nome": "INSTIT. NAC. DE COLONIZACAO E REFORMA AGRARIA",
+    "esfera": null
+  },
+  {
+    "id": 22202,
+    "nome": "EMPRESA BRASILEIRA DE PESQUISA AGROPECUARIA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 22203,
+    "nome": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 22204,
+    "nome": "DEPARTAMENTO NAC.DE OBRAS CONTRA AS SECAS",
+    "esfera": null
+  },
+  {
+    "id": 22207,
+    "nome": "COMPANHIA DE COLONIZACAO DO NORDESTE",
+    "esfera": null
+  },
+  {
+    "id": 22208,
+    "nome": "EMBRAPA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 22211,
+    "nome": "COMPANHIA NACIONAL DE ABASTECIMENTO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 22222,
+    "nome": "TRIBUNAL DE JUSTICA DO ESTADO DO AMAZONAS",
+    "esfera": "Estadual"
+  },
+  {
+    "id": 22283,
+    "nome": "BANCO DA AMAZôNIA S/A",
+    "esfera": "Federal"
+  },
+  {
+    "id": 22500,
+    "nome": "CIA.DE ENTREPOSTOS E ARMAZENS GER.DE S.PAULO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 22801,
+    "nome": "COMIS.EXEC.DO PLANO DA LAVOURA CACAUEIRA/MAPA",
+    "esfera": null
+  },
+  {
+    "id": 22802,
+    "nome": "INSTITUTO NACIONAL DE METEOROLOGIA/MAPA",
+    "esfera": null
+  },
+  {
+    "id": 22803,
+    "nome": "SECRETARIA NAC. DE DEFESA AGROPECUARIA/MAPA",
+    "esfera": null
+  },
+  {
+    "id": 22804,
+    "nome": "SUBSECRETARIA DE PLANEJ.,ORCAM.E ADM./MAPA",
+    "esfera": null
+  },
+  {
+    "id": 22805,
+    "nome": "FUNDO GERAL DO CACAU/MAPA",
+    "esfera": null
+  },
+  {
+    "id": 22806,
+    "nome": "SECRET.DE DESENV.AGROPEC.E COOPERATIVISMO",
+    "esfera": null
+  },
+  {
+    "id": 22905,
+    "nome": "FUNDO DE DEFESA DA ECONOMIA CAFEEIRA",
+    "esfera": null
+  },
+  {
+    "id": 23000,
+    "nome": "MINISTERIO DO BEM-ESTAR SOCIAL-EM EXTINCAO",
+    "esfera": null
+  },
+  {
+    "id": 23201,
+    "nome": "FUND.CENTRO BRAS.INF.ADOLESCENCIA-EM EXTINCAO",
+    "esfera": null
+  },
+  {
+    "id": 23202,
+    "nome": "FUNDACAO LEGIAO BRAS.ASSISTENCIA-EM EXTINCAO",
+    "esfera": null
+  },
+  {
+    "id": 23804,
+    "nome": "FUNDO DE PREVIDENCIA E ASSISTENCIA SOCIAL",
+    "esfera": null
+  },
+  {
+    "id": 23902,
+    "nome": "FUNDO DE CUSTEIO DE PROGRAMAS DE HAB. POPULAR",
+    "esfera": null
+  },
+  {
+    "id": 24000,
+    "nome": "MINISTERIO DA CIENCIA,TECNOLOGIA E INOVAÇÃO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 24208,
+    "nome": "INSTITUTO NAC.DE TECNOLOGIA DA INFORMACAO-ITI",
+    "esfera": null
+  },
+  {
+    "id": 24209,
+    "nome": "CENTRO NACIONAL DE TEC ELETRONICA AVANçADA SA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 24428,
+    "nome": "INST.FED.DE EDUC., CIENC.E TEC. DE BRASíLIA",
+    "esfera": "Estadual"
+  },
+  {
+    "id": 24801,
+    "nome": "INSTITUTO NACIONAL DE PESQUISAS ESPACIAIS/MCT",
+    "esfera": null
+  },
+  {
+    "id": 24802,
+    "nome": "SUBSECRETARIA DE PLANEJ.,ORCAMENTO E ADM./MCT",
+    "esfera": null
+  },
+  {
+    "id": 24803,
+    "nome": "FINANCIADORA DE ESTUDOS E PROJETOS",
+    "esfera": null
+  },
+  {
+    "id": 24901,
+    "nome": "FUNDO NAC.DE DESENV. CIENTIFICO E TECNOLOGICO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 25000,
+    "nome": "MINISTERIO DA FAZENDA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 25001,
+    "nome": "FUNDO ESP.DES. APERF.DAS ATIV.DE FISCALIZACAO",
+    "esfera": null
+  },
+  {
+    "id": 25002,
+    "nome": "FUNDO ESP. DE TREINAMENTO E DESENVOLVIMENTO",
+    "esfera": null
+  },
+  {
+    "id": 25003,
+    "nome": "BANCO DA AMAZONIA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 25201,
+    "nome": "BANCO CENTRAL DO BRASIL-ORC.FISCAL/SEG.SOCIAL",
+    "esfera": "Federal"
+  },
+  {
+    "id": 25203,
+    "nome": "COMISSAO DE VALORES MOBILIARIOS",
+    "esfera": null
+  },
+  {
+    "id": 25205,
+    "nome": "FUND.INST.BRASILEIRO DE GEOG.E ESTATISTICA",
+    "esfera": null
+  },
+  {
+    "id": 25206,
+    "nome": "INSTITUTO DE PESQUISA ECONOMICA APLICADA",
+    "esfera": null
+  },
+  {
+    "id": 25207,
+    "nome": "SERVICO FEDERAL DE PROCESSAMENTO DE DADOS",
+    "esfera": "Federal"
+  },
+  {
+    "id": 25208,
+    "nome": "SUPERINTENDENCIA DE SEGUROS PRIVADOS",
+    "esfera": null
+  },
+  {
+    "id": 25209,
+    "nome": "SUPERINTENDENCIA NAC.ABASTECIMENTO-EM EXTINCA",
+    "esfera": null
+  },
+  {
+    "id": 25211,
+    "nome": "CASA DA MOEDA DO BRASIL",
+    "esfera": "Federal"
+  },
+  {
+    "id": 25220,
+    "nome": "CAIXA ECONOMICA FEDERAL",
+    "esfera": null
+  },
+  {
+    "id": 25280,
+    "nome": "BANCO CENTRAL DO BRASIL",
+    "esfera": null
+  },
+  {
+    "id": 25281,
+    "nome": "BANCO DO BRASIL S/A",
+    "esfera": "Federal"
+  },
+  {
+    "id": 25282,
+    "nome": "BANCO DO NORDESTE DO BRASIL",
+    "esfera": "Federal"
+  },
+  {
+    "id": 25301,
+    "nome": "EMPRESA GESTORA DE ATIVOS",
+    "esfera": "Federal"
+  },
+  {
+    "id": 25801,
+    "nome": "RECEITA FEDERAL DO BRASIL",
+    "esfera": "Federal"
+  },
+  {
+    "id": 25802,
+    "nome": "ESCOLA DE ADMINISTRACAO FAZENDARIA/MF",
+    "esfera": null
+  },
+  {
+    "id": 25803,
+    "nome": "PROCURADORIA-GERAL DA FAZENDA NACIONAL",
+    "esfera": null
+  },
+  {
+    "id": 25804,
+    "nome": "SUBSECRET.DE PLANEJ.,ORCAMENTO E ADM. ± SPOA",
+    "esfera": null
+  },
+  {
+    "id": 25805,
+    "nome": "SECRETARIA DO TESOURO NACIONAL - STN",
+    "esfera": null
+  },
+  {
+    "id": 25901,
+    "nome": "FUNDO DE COMPENSACAO E VARIACOES SALARIAIS",
+    "esfera": null
+  },
+  {
+    "id": 25902,
+    "nome": "FUNDO DE INVESTIMENTO DO NORDESTE",
+    "esfera": null
+  },
+  {
+    "id": 25903,
+    "nome": "FUNDO DE INVESTIMENTO DA AMAZONIA",
+    "esfera": null
+  },
+  {
+    "id": 25904,
+    "nome": "FUNDO DE ESTABILIDADE DO SEGURO RURAL",
+    "esfera": null
+  },
+  {
+    "id": 25905,
+    "nome": "FUNDO DE APOIO AO DESENVOLVIMENTO SOCIAL",
+    "esfera": null
+  },
+  {
+    "id": 25907,
+    "nome": "FUNDO CONST.DE FINANCIAMENTO-FNO - INTEGRACAO",
+    "esfera": null
+  },
+  {
+    "id": 25908,
+    "nome": "FUNDO CONSTIT.FINANC.CENTO-OESTE-FCO-INTEG.",
+    "esfera": null
+  },
+  {
+    "id": 25910,
+    "nome": "FUNDO CONSTIT.FINANC.DO NORDESTE-FNE-INTEG.",
+    "esfera": null
+  },
+  {
+    "id": 25914,
+    "nome": "FUNDO DE GARANTIA A EXPORTACAO",
+    "esfera": null
+  },
+  {
+    "id": 25915,
+    "nome": "FUNDO CONSTITUCIONAL DO DISTRITO FEDERAL",
+    "esfera": "Federal"
+  },
+  {
+    "id": 25916,
+    "nome": "FUNDO CONTIGENTE DA EXTINTA RFFSA-FCMP.",
+    "esfera": null
+  },
+  {
+    "id": 25917,
+    "nome": "FUNDO PAGTO. PREST. PERDA RENDA DESEMP. INVAL",
+    "esfera": null
+  },
+  {
+    "id": 26000,
+    "nome": "MINISTERIO DA EDUCACAO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26101,
+    "nome": "FUNDO DE FINANC. AO ESTUDANTE DO ENS.SUPERIOR",
+    "esfera": null
+  },
+  {
+    "id": 26201,
+    "nome": "COLEGIO PEDRO II",
+    "esfera": null
+  },
+  {
+    "id": 26202,
+    "nome": "CENTRO FEDERAL DE EDUCACAO TECNOL.DE ALAGOAS",
+    "esfera": null
+  },
+  {
+    "id": 26203,
+    "nome": "CENTRO FEDERAL DE ED.TECNOLOGICA DO AMAZONAS",
+    "esfera": null
+  },
+  {
+    "id": 26204,
+    "nome": "ESCOLA TECNICA FEDERAL DA BAHIA",
+    "esfera": null
+  },
+  {
+    "id": 26205,
+    "nome": "CENTRO FED. DE EDUCACAO TECNOLOGICA DE CAMPOS",
+    "esfera": null
+  },
+  {
+    "id": 26206,
+    "nome": "CENTRO FEDERAL DE EDUCACAO TECNOL.DO CEARA",
+    "esfera": null
+  },
+  {
+    "id": 26207,
+    "nome": "CENTRO FED.DE EDUC.TECNOLOGICA DO ESPIR.SANTO",
+    "esfera": null
+  },
+  {
+    "id": 26208,
+    "nome": "CENTRO FED. DE EDUCACAO TECNOLOGICA DE GOIAS",
+    "esfera": null
+  },
+  {
+    "id": 26209,
+    "nome": "CENTRO FEDERAL DE EDUCACAO TECNOL.DO MARANHAO",
+    "esfera": null
+  },
+  {
+    "id": 26210,
+    "nome": "CENTRO FEDERAL DE EDUC.TECNOL.DO M. GROSSO",
+    "esfera": null
+  },
+  {
+    "id": 26211,
+    "nome": "CENTRO FEDERAL DE EDUC. TECNOL. DE OURO PRETO",
+    "esfera": null
+  },
+  {
+    "id": 26212,
+    "nome": "CENTRO FEDERAL DE EDUCACAO TECNOL.DO PARA",
+    "esfera": null
+  },
+  {
+    "id": 26213,
+    "nome": "CENTRO FEDERAL DE EDUCACAO TECNOL.DA PARAIBA",
+    "esfera": null
+  },
+  {
+    "id": 26214,
+    "nome": "INST FEDERAL DE EDUCACAO SUL-RIO-GRANDENSE",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26215,
+    "nome": "CENTRO FED.DE EDUC. TECNOLOGICA DE PERNAMBUCO",
+    "esfera": null
+  },
+  {
+    "id": 26216,
+    "nome": "CENTRO FED. DE EDUC. TECNOLOG. DO PIAUI-CEFET",
+    "esfera": null
+  },
+  {
+    "id": 26217,
+    "nome": "CENT.FED.DE EDUC.TECNOL.DE QUIMICA-NILOP./RJ",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26218,
+    "nome": "CENTRO FEDERAL DE EDUCACAO TECNOL.DO RN",
+    "esfera": null
+  },
+  {
+    "id": 26219,
+    "nome": "CENTRO FED.DE EDUC.TECNOLOGICA DE S.CATARINA",
+    "esfera": null
+  },
+  {
+    "id": 26220,
+    "nome": "CENTRO FEDERAL DE EDUCACAO TECNOL DE S.PAULO",
+    "esfera": null
+  },
+  {
+    "id": 26221,
+    "nome": "CENTRO FEDERAL DE EDUCACAO TEC. DE SERGIPE",
+    "esfera": null
+  },
+  {
+    "id": 26222,
+    "nome": "CENTRO FED.DE EDUC. TECNOLOGIA DE RORAIMA",
+    "esfera": null
+  },
+  {
+    "id": 26223,
+    "nome": "ESCOLA TECNICA  FEDERAL DE PALMAS - TO",
+    "esfera": null
+  },
+  {
+    "id": 26224,
+    "nome": "ESCOLA TéCNICA FEDERAL DE  RONDôNIA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26230,
+    "nome": "FUND.UNIVERSIDADE FEDERAL VALE SAO FRANCISCO",
+    "esfera": null
+  },
+  {
+    "id": 26231,
+    "nome": "UNIVERSIDADE FEDERAL DE ALAGOAS",
+    "esfera": null
+  },
+  {
+    "id": 26232,
+    "nome": "UNIVERSIDADE FEDERAL DA BAHIA",
+    "esfera": null
+  },
+  {
+    "id": 26233,
+    "nome": "UNIVERSIDADE FEDERAL DO CEARA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26234,
+    "nome": "UNIVERSIDADE FEDERAL DO ESPIRITO SANTO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26235,
+    "nome": "UNIVERSIDADE FEDERAL DE GOIAS",
+    "esfera": null
+  },
+  {
+    "id": 26236,
+    "nome": "UNIVERSIDADE FEDERAL FLUMINENSE",
+    "esfera": null
+  },
+  {
+    "id": 26237,
+    "nome": "UNIVERSIDADE FEDERAL DE JUIZ DE FORA",
+    "esfera": null
+  },
+  {
+    "id": 26238,
+    "nome": "UNIVERSIDADE FEDERAL DE MINAS GERAIS",
+    "esfera": null
+  },
+  {
+    "id": 26239,
+    "nome": "UNIVERSIDADE FEDERAL DO PARA",
+    "esfera": null
+  },
+  {
+    "id": 26240,
+    "nome": "UNIVERSIDADE FEDERAL DA PARAIBA",
+    "esfera": null
+  },
+  {
+    "id": 26241,
+    "nome": "UNIVERSIDADE FEDERAL DO PARANA",
+    "esfera": null
+  },
+  {
+    "id": 26242,
+    "nome": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+    "esfera": null
+  },
+  {
+    "id": 26243,
+    "nome": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "esfera": null
+  },
+  {
+    "id": 26244,
+    "nome": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL",
+    "esfera": null
+  },
+  {
+    "id": 26245,
+    "nome": "UNIVERSIDADE FEDERAL DO RIO DE JANEIRO",
+    "esfera": null
+  },
+  {
+    "id": 26246,
+    "nome": "UNIVERSIDADE FEDERAL DE SANTA CATARINA",
+    "esfera": null
+  },
+  {
+    "id": 26247,
+    "nome": "UNIVERSIDADE FEDERAL DE SANTA MARIA",
+    "esfera": null
+  },
+  {
+    "id": 26248,
+    "nome": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO",
+    "esfera": null
+  },
+  {
+    "id": 26249,
+    "nome": "UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO",
+    "esfera": null
+  },
+  {
+    "id": 26250,
+    "nome": "UNIVERSIDADE FEDERAL DE RORAIMA",
+    "esfera": null
+  },
+  {
+    "id": 26251,
+    "nome": "FUNDACAO UNIVERSIDADE FEDERAL DO TOCANTINS",
+    "esfera": null
+  },
+  {
+    "id": 26252,
+    "nome": "UNIVERSIDADE FEDERAL DE CAMPINA GRANDE",
+    "esfera": null
+  },
+  {
+    "id": 26253,
+    "nome": "UNIVERSIDADE FEDERAL RURAL DA AMAZONIA",
+    "esfera": null
+  },
+  {
+    "id": 26254,
+    "nome": "UNIVERSIDADE FEDERAL DO TRIANGULO MINEIRO",
+    "esfera": null
+  },
+  {
+    "id": 26255,
+    "nome": "UNIVERSIDADE FED.VALES JEQUITINHONHA E MUCURI",
+    "esfera": null
+  },
+  {
+    "id": 26256,
+    "nome": "CENTRO FED.EDUC.TECN.CELSO SUCKOW DA FONSECA",
+    "esfera": null
+  },
+  {
+    "id": 26257,
+    "nome": "CENTRO FEDERAL DE EDUCACAO TECNOLOGICA DE MG",
+    "esfera": null
+  },
+  {
+    "id": 26258,
+    "nome": "UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA",
+    "esfera": null
+  },
+  {
+    "id": 26259,
+    "nome": "CENTRO DE EDUCACAO TECNOLOGICA DA BAHIA",
+    "esfera": null
+  },
+  {
+    "id": 26260,
+    "nome": "UNIVERSIDADE FEDERAL DE ALFENAS",
+    "esfera": null
+  },
+  {
+    "id": 26261,
+    "nome": "UNIVERSIDADE FEDERAL DE ITAJUBA",
+    "esfera": null
+  },
+  {
+    "id": 26262,
+    "nome": "UNIVERSIDADE FEDERAL DE SAO PAULO",
+    "esfera": null
+  },
+  {
+    "id": 26263,
+    "nome": "UNIVERSIDADE FEDERAL DE LAVRAS",
+    "esfera": null
+  },
+  {
+    "id": 26264,
+    "nome": "UNIVERSIDADE FEDERAL RURAL DO SEMI-ARIDO/RN",
+    "esfera": null
+  },
+  {
+    "id": 26266,
+    "nome": "FUNDAçãO UNIVERSIDADE FEDERAL DO PAMPA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26267,
+    "nome": "UNIVERSIDADE FED DA INTEGR LATINO-AMERICANA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26268,
+    "nome": "FUNDACAO UNIVERSIDADE FEDERAL DE RONDONIA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26269,
+    "nome": "FUNDACAO UNIVERSIDADE DO RIO DE JANEIRO",
+    "esfera": null
+  },
+  {
+    "id": 26270,
+    "nome": "FUNDACAO UNIVERSIDADE DO AMAZONAS",
+    "esfera": null
+  },
+  {
+    "id": 26271,
+    "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+    "esfera": null
+  },
+  {
+    "id": 26272,
+    "nome": "FUNDACAO UNIVERSIDADE DO MARANHAO",
+    "esfera": null
+  },
+  {
+    "id": 26273,
+    "nome": "FUNDACAO UNIVERSIDADE DO RIO GRANDE - RS",
+    "esfera": null
+  },
+  {
+    "id": 26274,
+    "nome": "FUNDACAO UNIVERSIDADE FEDERAL DE UBERLANDIA",
+    "esfera": null
+  },
+  {
+    "id": 26275,
+    "nome": "FUNDACAO UNIVERSIDADE FEDERAL DO ACRE",
+    "esfera": null
+  },
+  {
+    "id": 26276,
+    "nome": "FUNDACAO UNIVERSIDADE FEDERAL DE MATO GROSSO",
+    "esfera": null
+  },
+  {
+    "id": 26277,
+    "nome": "UNIVERSIDADE FEDERAL DE OURO PRETO",
+    "esfera": null
+  },
+  {
+    "id": 26278,
+    "nome": "FUNDACAO UNIVERSIDADE FEDERAL DE PELOTAS",
+    "esfera": null
+  },
+  {
+    "id": 26279,
+    "nome": "FUNDACAO UNIVERSIDADE FEDERAL DO PIAUI",
+    "esfera": null
+  },
+  {
+    "id": 26280,
+    "nome": "FUNDACAO UNIVERSIDADE FEDERAL DE SAO CARLOS",
+    "esfera": null
+  },
+  {
+    "id": 26281,
+    "nome": "FUNDACAO UNIVERSIDADE FEDERAL DE SERGIPE",
+    "esfera": null
+  },
+  {
+    "id": 26282,
+    "nome": "UNIVERSIDADE FEDERAL DE VICOSA",
+    "esfera": null
+  },
+  {
+    "id": 26283,
+    "nome": "FUNDACAO UNIVERSIDADE FEDERAL DE MATO G. SUL",
+    "esfera": null
+  },
+  {
+    "id": 26284,
+    "nome": "FUNDACAO FACULDADE FED.CIENCIAS MEDICAS POA",
+    "esfera": null
+  },
+  {
+    "id": 26285,
+    "nome": "FUNDACAO UNIVERSIDADE FEDERAL DE S.J.DEL-REI",
+    "esfera": null
+  },
+  {
+    "id": 26286,
+    "nome": "FUNDACAO UNIVERSIDADE FEDERAL DO AMAPA",
+    "esfera": null
+  },
+  {
+    "id": 26287,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE MARABA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26288,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE NOVA ANDRADINA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26289,
+    "nome": "ESCOLA AGROT.FED.DE S.RAIMUN.DAS MANGABEIRAS",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26290,
+    "nome": "INST.NACIONAL DE EST.E PESQUISAS EDUCACIONAIS",
+    "esfera": null
+  },
+  {
+    "id": 26291,
+    "nome": "FUND.COORD.DE APERF.DE PESSOAL NIVEL SUPERIOR",
+    "esfera": null
+  },
+  {
+    "id": 26292,
+    "nome": "FUNDACAO JOAQUIM NABUCO",
+    "esfera": null
+  },
+  {
+    "id": 26293,
+    "nome": "FUNDACAO ROQUETTE PINTO - EM EXTINCAO",
+    "esfera": null
+  },
+  {
+    "id": 26294,
+    "nome": "HOSPITAL DE CLINICAS DE PORTO ALEGRE",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26295,
+    "nome": "INSTITUTO NACIONAL DE DESENVOLV.DO DESPORTO",
+    "esfera": null
+  },
+  {
+    "id": 26297,
+    "nome": "FUNDACAO DE ASSISTENCIA AO ESTUDANTE",
+    "esfera": null
+  },
+  {
+    "id": 26298,
+    "nome": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCACAO",
+    "esfera": null
+  },
+  {
+    "id": 26301,
+    "nome": "CENTRO FEDERAL DE EDUCAC.TECNOLOGICA DA BAHIA",
+    "esfera": null
+  },
+  {
+    "id": 26302,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE ALEGRE",
+    "esfera": null
+  },
+  {
+    "id": 26303,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE ALEGRETE",
+    "esfera": null
+  },
+  {
+    "id": 26304,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE ARAGUATINS",
+    "esfera": null
+  },
+  {
+    "id": 26305,
+    "nome": "CENTRO FEDERAL DE EDUCACAO TECNOL. DE BAMBUI",
+    "esfera": null
+  },
+  {
+    "id": 26306,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE BARBACENA",
+    "esfera": null
+  },
+  {
+    "id": 26307,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE BARREIROS",
+    "esfera": null
+  },
+  {
+    "id": 26308,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE BELO JARDIM",
+    "esfera": null
+  },
+  {
+    "id": 26309,
+    "nome": "CENTRO FEDERAL DE EDUCACAO TEC.DE B.GONCALVES",
+    "esfera": null
+  },
+  {
+    "id": 26310,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE CACERES",
+    "esfera": null
+  },
+  {
+    "id": 26311,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE CASTANHAL",
+    "esfera": null
+  },
+  {
+    "id": 26312,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE CATU",
+    "esfera": null
+  },
+  {
+    "id": 26313,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE COLATINA",
+    "esfera": null
+  },
+  {
+    "id": 26314,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE CONCORDIA",
+    "esfera": null
+  },
+  {
+    "id": 26315,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE CRATO",
+    "esfera": null
+  },
+  {
+    "id": 26316,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE CUIABA",
+    "esfera": null
+  },
+  {
+    "id": 26317,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE IGUATU",
+    "esfera": null
+  },
+  {
+    "id": 26318,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE INCONFIDENTES",
+    "esfera": null
+  },
+  {
+    "id": 26319,
+    "nome": "CENTRO FEDERAL DE EDUCACAO TECNOL.DE JANUARIA",
+    "esfera": null
+  },
+  {
+    "id": 26320,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE MACHADO",
+    "esfera": null
+  },
+  {
+    "id": 26321,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE MANAUS",
+    "esfera": null
+  },
+  {
+    "id": 26322,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE MUZAMBINHO",
+    "esfera": null
+  },
+  {
+    "id": 26323,
+    "nome": "CENTRO FED. DE EDUC. TECNOLOGICA DE PETROLINA",
+    "esfera": null
+  },
+  {
+    "id": 26324,
+    "nome": "CENTRO FEDERAL DE EDUCACAO TECNOLOG.RIO POMBA",
+    "esfera": null
+  },
+  {
+    "id": 26325,
+    "nome": "CENTRO FEDERAL DE EDUCACAO TEC. DE RIO VERDE",
+    "esfera": null
+  },
+  {
+    "id": 26326,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE SALINAS",
+    "esfera": null
+  },
+  {
+    "id": 26327,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE SANTA TERESA",
+    "esfera": null
+  },
+  {
+    "id": 26328,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE SAO CRISTOVAO",
+    "esfera": null
+  },
+  {
+    "id": 26329,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE S.J.EVANGELISTA",
+    "esfera": null
+  },
+  {
+    "id": 26330,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE SAO LUIS",
+    "esfera": null
+  },
+  {
+    "id": 26331,
+    "nome": "CENTRO FED.EDUCACAO TECNOLOGICA S.VICENTE SUL",
+    "esfera": null
+  },
+  {
+    "id": 26332,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE SATUBA",
+    "esfera": null
+  },
+  {
+    "id": 26333,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE SERTAO",
+    "esfera": null
+  },
+  {
+    "id": 26334,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE SOUSA",
+    "esfera": null
+  },
+  {
+    "id": 26335,
+    "nome": "CENTRO FEDERAL DE EDUC TECNOLOGICA DE UBERABA",
+    "esfera": null
+  },
+  {
+    "id": 26336,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE UBERLANDIA",
+    "esfera": null
+  },
+  {
+    "id": 26337,
+    "nome": "CENTRO FEDERAL DE EDUC. TECNOLOGICA DE URUTAI",
+    "esfera": null
+  },
+  {
+    "id": 26338,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE VIT.DE S.ANTAO",
+    "esfera": null
+  },
+  {
+    "id": 26339,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE S.G.CACHOEIRA",
+    "esfera": null
+  },
+  {
+    "id": 26340,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE SOMBRIO",
+    "esfera": null
+  },
+  {
+    "id": 26341,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE CERES",
+    "esfera": null
+  },
+  {
+    "id": 26342,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE COLOR. DO OESTE",
+    "esfera": null
+  },
+  {
+    "id": 26343,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE CODO",
+    "esfera": null
+  },
+  {
+    "id": 26344,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE GUANAMBI",
+    "esfera": null
+  },
+  {
+    "id": 26345,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE RIO DO SUL",
+    "esfera": null
+  },
+  {
+    "id": 26346,
+    "nome": "ESCOLA AGROTECNICA FEDERAL DE SANTA INES",
+    "esfera": null
+  },
+  {
+    "id": 26347,
+    "nome": "ESCOLA AGROTECNICA FED. DO SENHOR DO BOMFIM",
+    "esfera": null
+  },
+  {
+    "id": 26350,
+    "nome": "FUNDACAO UNIVERSIDADE FED. DA GRANDE DOURADOS",
+    "esfera": null
+  },
+  {
+    "id": 26351,
+    "nome": "UNIVERSIDADE FEDERAL DO RECONCAVO DA BAHIA",
+    "esfera": null
+  },
+  {
+    "id": 26352,
+    "nome": "FUNDACAO UNIVERSIDADE FEDERAL DO ABC",
+    "esfera": null
+  },
+  {
+    "id": 26353,
+    "nome": "ESCOLA TÉCNICA FEDERAL DO ACRE",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26354,
+    "nome": "ESCOLA TECNICA FEDERAL DO AMAPA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26355,
+    "nome": "ESCOLA TECNICA FEDERAL DO MATO GROSSO DO SUL",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26356,
+    "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26357,
+    "nome": "ESCOLA TECNICA FEDERAL DE CANOAS",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26402,
+    "nome": "INST.FED.DE EDUC.,CIENC.E TEC. DE ALAGOAS",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26403,
+    "nome": "INST.FED.DE EDUC., CIENC E TEC.DO AMAZONAS",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26404,
+    "nome": "INST.FED.DE EDUC.,CIENC.E TEC.BAIANO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26405,
+    "nome": "INST.FED.DE EDUC.,CIENC.E TEC.DO CEARÁ",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26406,
+    "nome": "INST.FED.DE EDUC.,CIENC.E TEC. DO ESP.SANTO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26407,
+    "nome": "INST.FED.DE EDUC.,CIENCIA E TEC. GOIANO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26408,
+    "nome": "INST.FED.DE EDUC.,CIENC. E TEC. DO MARANHãO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26409,
+    "nome": "INST.FED.DE EDUC.,CIENC.E TEC.DE MINAS GERAIS",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26410,
+    "nome": "INST.FED.DE EDUC., CIENC.E TEC.DO NORTE DE MG",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26411,
+    "nome": "INST.FED.DE EDUC.,CIENC.E TEC.DO SUDESTE MG",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26412,
+    "nome": "INST.FED.DE EDUC.,CIENC.E TEC.DO SUL DE MG",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26413,
+    "nome": "INST.FED.DE EDUC.,CIENC.E TEC.DO TRIA.MINEIRO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26414,
+    "nome": "INSTITUTO FEDERAL DE MATO GROSSO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26415,
+    "nome": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26416,
+    "nome": "INST.FED.DE EDUC.,CIENC.E TEC.DO PARA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26417,
+    "nome": "INST.FED.DE EDUC.,CIENC.E TEC. DA PARAIBA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26418,
+    "nome": "INST.FED.DE EDUC.,CIENC.E TEC. DE PERNAMBUCO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26419,
+    "nome": "INST.FED.DE EDUC.,CIENC.E TEC. DO RS",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26420,
+    "nome": "INST.FED.DE EDUC.,CIENC. E TEC.FARROUPILHA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26421,
+    "nome": "INST.FED.DE EDUC.,CIENC.E TEC. DE RONDONIA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26422,
+    "nome": "INST.FED. DE EDUC., CIENC. E TEC. CATARINENSE",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26423,
+    "nome": "INST.FED.DE EDUC.,CIENC.E TEC. DE SERGIPE",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26424,
+    "nome": "INST.FED.DE EDUC.,CIENC. E TEC.DO TOCANTINS",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26425,
+    "nome": "INST.FED.DE EDUC.,CIENC E TEC. DO ACRE",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26426,
+    "nome": "INST.FED.DE EDUC.,CIENC.E TEC.DO AMAPá",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26427,
+    "nome": "INST.FED.DE EDUC.,CIENC.E TECNOLOGIA DA BAHIA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26428,
+    "nome": "INST.FED.DE EDUC., CIENC.E TEC.DE BRASíLIA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26429,
+    "nome": "INST.FED.DE EDUC.,CIENC.E TEC.DE GOIÁS",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26430,
+    "nome": "INST.FED.DE EDUC.,CIENC.E TEC.S.PERNAMBUCANO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26431,
+    "nome": "INST.FED.DE EDUC., CIENC.E TECNOLOGIA PIAUí",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26432,
+    "nome": "INST. FED. DE EDUC., CIENC. E TEC. DO PARANá",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26433,
+    "nome": "INST.FED.DE EDUC.,CIENC.E TEC.DO RJ",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26434,
+    "nome": "INST.FED.DE EDUC.,CIENC.E TEC.FLUMINENSE",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26435,
+    "nome": "INST.FED.DE EDUC.,CIENC.E TEC.DO R.G.DO NORTE",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26436,
+    "nome": "INST.FED.DE EDUC.,CIE.E TEC.SUL-RIO-GRANDENSE",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26437,
+    "nome": "INST.FED.DE EDUC.,CIENC.E TEC. DE RORAIMA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26438,
+    "nome": "INST.FED.DE EDUC.,CIENC.E TEC.DE STA.CATARINA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26439,
+    "nome": "INST.FED.DE EDUC.,CIENC.E TEC. DE SÃO PAULO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26440,
+    "nome": "UNIVERSIDADE FEDERAL DA FRONTEIRA SUL",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26441,
+    "nome": "UNIVERSIDADE FEDERAL DO OESTE DO PARA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26442,
+    "nome": "UNIV.DA INTEF.INTERN.DA LUSOF.AFRO-BRASILEIRA",
+    "esfera": "Estadual"
+  },
+  {
+    "id": 26443,
+    "nome": "EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26445,
+    "nome": "PREFEITURA DO MUNICIPIO DE FOZ DO IGUAÇU",
+    "esfera": "Municipal"
+  },
+  {
+    "id": 26446,
+    "nome": "CONSELHO REGIONAL DE FARMÁCIA",
+    "esfera": "Estadual"
+  },
+  {
+    "id": 26447,
+    "nome": "UFOB - UNIVERSIDADE FEDERAL DO OESTE DA BAHIA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26448,
+    "nome": "UNIVERSIDADE FEDERAL DO SUL E SUDESTE DO PARá",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26450,
+    "nome": "UFESBA - UNIVERSIDADE FEDERAL DO SUL DA BAHIA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 26801,
+    "nome": "SECRETARIA DE EDUCACAO BASICA",
+    "esfera": null
+  },
+  {
+    "id": 26802,
+    "nome": "SUBSECRETARIA DE ASSUNTOS ADMINISTRATIVOS-SAA",
+    "esfera": null
+  },
+  {
+    "id": 27201,
+    "nome": "FUNDACAO HABITACIONAL DO EXERCITO",
+    "esfera": null
+  },
+  {
+    "id": 28000,
+    "nome": "MINISTERIO DO DESENV,IND. E COMERCIO EXTERIOR",
+    "esfera": null
+  },
+  {
+    "id": 28500,
+    "nome": "FUNDO DE GARANTIA P/ PROM. DA COMPETITIVIDADE",
+    "esfera": null
+  },
+  {
+    "id": 28501,
+    "nome": "FUNDO NACIONAL DE DESESTATIZACAO",
+    "esfera": null
+  },
+  {
+    "id": 28801,
+    "nome": "SUBSECRETARIA DE PLANEJ.,ORCAM.E ADM./MDIC",
+    "esfera": null
+  },
+  {
+    "id": 28904,
+    "nome": "FUNDO DE GAR.P/PROMOC.DA COMPETITIVIDADE-FGPC",
+    "esfera": null
+  },
+  {
+    "id": 29000,
+    "nome": "MINISTERIO DA INFRA-ESTRUTURA",
+    "esfera": null
+  },
+  {
+    "id": 29101,
+    "nome": "DEFENSORIA PUBLICA DA UNIAO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 29201,
+    "nome": "DEPARTAMENTO NACIONAL DE ESTRADAS DE RODAGEM",
+    "esfera": null
+  },
+  {
+    "id": 29202,
+    "nome": "COMPANHIA DE NAVEGACAO DO SAO FRANCISCO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 29203,
+    "nome": "EMP. BRAS. DE PLANEJ. E TRANSP.-EM LIQUIDACAO",
+    "esfera": null
+  },
+  {
+    "id": 29204,
+    "nome": "EMPRESA DE NAVEGACAO DA AMAZONIA S/A",
+    "esfera": null
+  },
+  {
+    "id": 29205,
+    "nome": "EMPRESA DE TRENS URBANOS DE PORTO ALEGRE S/A",
+    "esfera": "Federal"
+  },
+  {
+    "id": 29207,
+    "nome": "SERVICO DE NAVEGACAO DA BACIA DO PRATA S/A",
+    "esfera": null
+  },
+  {
+    "id": 29208,
+    "nome": "COMPANHIA DE PESQUISA DE RECURSOS MINERAIS",
+    "esfera": "Federal"
+  },
+  {
+    "id": 29209,
+    "nome": "VALEC-ENGENHARIA, CONSTRUCOES E FERROVIAS S/A",
+    "esfera": "Federal"
+  },
+  {
+    "id": 29214,
+    "nome": "COMPANHIA BRASILEIRA DE TRENS URBANOS",
+    "esfera": "Federal"
+  },
+  {
+    "id": 30000,
+    "nome": "MINISTERIO DA JUSTICA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 30108,
+    "nome": "DEPARTAMENTO DE POLICIA FEDERAL",
+    "esfera": "Federal"
+  },
+  {
+    "id": 30201,
+    "nome": "RADIOBRAS - EMP.BRASILEIRA DE COMUNICACAO S/A",
+    "esfera": "Federal"
+  },
+  {
+    "id": 30202,
+    "nome": "FUNDACAO NACIONAL DO INDIO",
+    "esfera": null
+  },
+  {
+    "id": 30203,
+    "nome": "INST.NAC. DE METROLOGIA, NORMAL.E QUAL.IND.",
+    "esfera": null
+  },
+  {
+    "id": 30204,
+    "nome": "INSTITUTO NAC. DA PROPRIEDADE INDUSTRIAL",
+    "esfera": null
+  },
+  {
+    "id": 30205,
+    "nome": "FUNDACAO NACIONAL DO INDIO - PATRIM.INDIGENA",
+    "esfera": null
+  },
+  {
+    "id": 30211,
+    "nome": "CONSELHO ADMINISTRATIVO DE DEFESA ECONOMICA",
+    "esfera": null
+  },
+  {
+    "id": 30801,
+    "nome": "DEPARTAMENTO DE POLICIA FEDERAL/MJ",
+    "esfera": "Federal"
+  },
+  {
+    "id": 30802,
+    "nome": "DEPARTAMENTO DE POLICIA RODOVIARIA FEDERAL/MJ",
+    "esfera": null
+  },
+  {
+    "id": 30803,
+    "nome": "SUBSECRETARIA DE PLANEJ., ORCAMENTO E ADM./MJ",
+    "esfera": null
+  },
+  {
+    "id": 30905,
+    "nome": "SECRETARIA DE DIREITO ECONOMICO/DF FUNDO",
+    "esfera": null
+  },
+  {
+    "id": 30907,
+    "nome": "FUNDO PENITENCIARIO NACIONAL",
+    "esfera": "Federal"
+  },
+  {
+    "id": 30909,
+    "nome": "FUNDO P/APAR.E OPERAC.ATIV.FIM.POL.FEDERAL",
+    "esfera": "Federal"
+  },
+  {
+    "id": 30911,
+    "nome": "FUNDO NACIONAL DE SEGURANCA PUBLICA",
+    "esfera": null
+  },
+  {
+    "id": 30912,
+    "nome": "FUNDO NACIONAL ANTIDROGA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 30913,
+    "nome": "FUNDO NAC. PARA A CRIANÇA E O ADOLESCENTE",
+    "esfera": "Federal"
+  },
+  {
+    "id": 30914,
+    "nome": "FUNDO NACIONAL DO IDOSO - DF",
+    "esfera": "Federal"
+  },
+  {
+    "id": 31280,
+    "nome": "CAIXA DE CONSTRUCOES DE CASAS P/PESSOAL DA MB",
+    "esfera": "Federal"
+  },
+  {
+    "id": 32000,
+    "nome": "MINISTERIO DE MINAS E ENERGIA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 32201,
+    "nome": "CENTRO DE PESQUISAS DE ENERGIA ELETRICA",
+    "esfera": null
+  },
+  {
+    "id": 32205,
+    "nome": "AGENCIA NACIONAL DO PETROLEO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 32210,
+    "nome": "AGENCIA NACIONAL DE ENERGIA ELETRICA",
+    "esfera": null
+  },
+  {
+    "id": 32263,
+    "nome": "DEPARTAMENTO NACIONAL DE PRODUCAO MINERAL",
+    "esfera": null
+  },
+  {
+    "id": 32314,
+    "nome": "EMPRESA DE PESQUISA ENERGéTICA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 32801,
+    "nome": "SUBSECRETARIA DE PLANEJ.,ORCAM.E ADM./MME",
+    "esfera": null
+  },
+  {
+    "id": 32991,
+    "nome": "RESERVA GLOBAL DE REVERSAO/ELETROBRAS",
+    "esfera": "Federal"
+  },
+  {
+    "id": 32992,
+    "nome": "CONTA DE DESENVOLV. ENERGETICO/ELETROBRAS",
+    "esfera": "Federal"
+  },
+  {
+    "id": 33000,
+    "nome": "MINISTERIO DA PREVIDENCIA SOCIAL",
+    "esfera": null
+  },
+  {
+    "id": 33206,
+    "nome": "SUPERINT.NACIONAL DE PREVIDENCIA COMPLEMENTAR",
+    "esfera": "Federal"
+  },
+  {
+    "id": 33801,
+    "nome": "SUBSECRETARIA DE PLANEJ.,ORCAM.E ADM./MPS",
+    "esfera": null
+  },
+  {
+    "id": 34000,
+    "nome": "MINISTERIO PUBLICO DA UNIAO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 34801,
+    "nome": "MINISTERIO PUBLICO FEDERAL ± MPF",
+    "esfera": "Federal"
+  },
+  {
+    "id": 34802,
+    "nome": "MINISTERIO PUBLICO DO TRABALHO - MPT",
+    "esfera": "Federal"
+  },
+  {
+    "id": 34902,
+    "nome": "FUNDO NACIONAL DE CULTURA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 35000,
+    "nome": "MINISTERIO DAS RELACOES EXTERIORES",
+    "esfera": null
+  },
+  {
+    "id": 35201,
+    "nome": "FUNDACAO ALEXANDRE DE GUSMAO",
+    "esfera": null
+  },
+  {
+    "id": 36000,
+    "nome": "MINISTERIO DA SAUDE",
+    "esfera": "Federal"
+  },
+  {
+    "id": 36201,
+    "nome": "FUNDACAO OSWALDO CRUZ",
+    "esfera": null
+  },
+  {
+    "id": 36203,
+    "nome": "INSTITUTO NACIONAL DE ALIMENTACAO E NUTRICAO",
+    "esfera": null
+  },
+  {
+    "id": 36204,
+    "nome": "FUNDACAO DAS PIONEIRAS SOCIAIS",
+    "esfera": null
+  },
+  {
+    "id": 36206,
+    "nome": "INST.NAC.DE ASSISTENCIA MEDICA DA PREV.SOC.",
+    "esfera": null
+  },
+  {
+    "id": 36208,
+    "nome": "HOSPITAL CRISTO REDENTOR S/A",
+    "esfera": null
+  },
+  {
+    "id": 36209,
+    "nome": "HOSPITAL FEMINA S/A",
+    "esfera": null
+  },
+  {
+    "id": 36210,
+    "nome": "HOSPITAL NOSSA SENHORA DA CONCEICAO S/A",
+    "esfera": null
+  },
+  {
+    "id": 36211,
+    "nome": "FUNDACAO NACIONAL DE SAUDE",
+    "esfera": null
+  },
+  {
+    "id": 36212,
+    "nome": "AGENCIA NACIONAL DE VIGILANCIA SANITARIA",
+    "esfera": null
+  },
+  {
+    "id": 36213,
+    "nome": "AGENCIA NACIONAL DE SAUDE SUPLEMENTAR",
+    "esfera": null
+  },
+  {
+    "id": 36901,
+    "nome": "FUNDO NACIONAL DE SAÚDE",
+    "esfera": "Federal"
+  },
+  {
+    "id": 37000,
+    "nome": "MINISTÉRIO  DA TRANS, FISCALIZAÇÃO E CGU",
+    "esfera": "Federal"
+  },
+  {
+    "id": 37201,
+    "nome": "FUND.JORGE D.FIGUEIREDO DE SEG.E MED DO TRAB.",
+    "esfera": null
+  },
+  {
+    "id": 37202,
+    "nome": "INSTITUTO NACIONAL DO SEGURO SOCIAL",
+    "esfera": "Federal"
+  },
+  {
+    "id": 37904,
+    "nome": "FUNDO DO REGIME GERAL DA PREVIDENCIA SOCIAL",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38000,
+    "nome": "MINISTERIO DO TRABALHO E EMPREGO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38299,
+    "nome": "REDE FERROVIARIA FEDERAL S/A",
+    "esfera": null
+  },
+  {
+    "id": 38500,
+    "nome": "CONSELHO FEDERAL DE CONTABILIDADE",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38501,
+    "nome": "CONSELHO REGIONAL DE CONTABILIDADE-AL",
+    "esfera": null
+  },
+  {
+    "id": 38502,
+    "nome": "CONSELHO REGIONAL DE CONTABILIDADE-AM",
+    "esfera": null
+  },
+  {
+    "id": 38503,
+    "nome": "CONSELHO REGIONAL DE CONTABILIDADE-BA",
+    "esfera": null
+  },
+  {
+    "id": 38504,
+    "nome": "CONSELHO REGIONAL DE CONTABILIDADE-CE",
+    "esfera": null
+  },
+  {
+    "id": 38505,
+    "nome": "CONSELHO REGIONAL DE CONTABILIDADE-DF",
+    "esfera": null
+  },
+  {
+    "id": 38506,
+    "nome": "CONSELHO REGIONAL DE CONTABILIDADE-ES",
+    "esfera": null
+  },
+  {
+    "id": 38507,
+    "nome": "CONSELHO REGIONAL DE CONTABILIDADE-GO",
+    "esfera": null
+  },
+  {
+    "id": 38508,
+    "nome": "CONSELHO REGIONAL DE CONTABILIDADE-MA",
+    "esfera": null
+  },
+  {
+    "id": 38509,
+    "nome": "CONSELHO REGIONAL DE CONTABILIDADE-MT",
+    "esfera": null
+  },
+  {
+    "id": 38510,
+    "nome": "CONSELHO REGIONAL DE CONTABILIDADE-MG",
+    "esfera": null
+  },
+  {
+    "id": 38511,
+    "nome": "CONSELHO REGIONAL DE CONTABILIDADE-PA",
+    "esfera": null
+  },
+  {
+    "id": 38512,
+    "nome": "CONSELHO REGIONAL DE CONTABILIDADE-PB",
+    "esfera": null
+  },
+  {
+    "id": 38513,
+    "nome": "CONSELHO REGIONAL DE CONTABILIDADE-PR",
+    "esfera": null
+  },
+  {
+    "id": 38514,
+    "nome": "CONSELHO REGIONAL DE CONTABILIDADE-PE",
+    "esfera": null
+  },
+  {
+    "id": 38515,
+    "nome": "CONSELHO REGIONAL DE CONTABILIDADE-PI",
+    "esfera": null
+  },
+  {
+    "id": 38516,
+    "nome": "CONSELHO REGIONAL DE CONTABILIDADE-RN",
+    "esfera": null
+  },
+  {
+    "id": 38517,
+    "nome": "CONSELHO REGIONAL DE CONTABILIDADE-RS",
+    "esfera": null
+  },
+  {
+    "id": 38518,
+    "nome": "CONSELHO REGIONAL DE CONTABILIDADE-RJ",
+    "esfera": null
+  },
+  {
+    "id": 38519,
+    "nome": "CONSELHO REGIONAL DE CONTABILIDADE-SC",
+    "esfera": null
+  },
+  {
+    "id": 38520,
+    "nome": "CONSELHO REGIONAL DE CONTABILIDADE-SP",
+    "esfera": null
+  },
+  {
+    "id": 38521,
+    "nome": "CONSELHO REGIONAL DE CONTABILIDADE-SE",
+    "esfera": null
+  },
+  {
+    "id": 38522,
+    "nome": "CONSELHO REGIONAL DE CONTABILIDADE-MS",
+    "esfera": null
+  },
+  {
+    "id": 38523,
+    "nome": "CONSELHO REGIONAL DE CONTABILIDADE-RO",
+    "esfera": null
+  },
+  {
+    "id": 38524,
+    "nome": "CONSELHO REGIONAL DE CONTABILIDADE-AP",
+    "esfera": null
+  },
+  {
+    "id": 38525,
+    "nome": "CONSELHO REGIONAL DE CONTABILIDADE-TO",
+    "esfera": null
+  },
+  {
+    "id": 38526,
+    "nome": "CONSELHO FEDERAL DE ECONOMIA",
+    "esfera": "Estadual"
+  },
+  {
+    "id": 38527,
+    "nome": "CONS. REG. DE CORRETORES DE IMOVEIS DE MG",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38528,
+    "nome": "CONSELHO REG. DE FARMÁCIA EST. DE SAO PAULO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38529,
+    "nome": "CONS.REG.DE ENGª ARQ. E AGRONOMIA D AMAPA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38530,
+    "nome": "CONSELHO FEDERAL DE MEDICINA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38531,
+    "nome": "CONSELHO FEDERAL DE ENGENHARIA E AGRONOMIA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38532,
+    "nome": "CONSELHO FEDERAL DE QUIMICA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38537,
+    "nome": "CONSELHO DE ARQ. E URB. DO DISTRITO FEDERAL",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38538,
+    "nome": "CONSELHO REGIONAL DE ADMINISTRACAO DE RORAIMA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38539,
+    "nome": "CONSELHO REGIONAL DE EDUC. FÍSICA/14ª REGIÃO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38540,
+    "nome": "CONSELHO DE ARQT E URBANISMO DO BRASIL",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38541,
+    "nome": "FUNDAçãO DE PREV. COMPLEMANTAR",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38542,
+    "nome": "CORREGEDORIA GERAL DA JUSTIçA",
+    "esfera": "Estadual"
+  },
+  {
+    "id": 38543,
+    "nome": "CONSELHO DE ARQ. E URBANISMO DO ACRE",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38544,
+    "nome": "CONSELHO REG. DE FARMACIA DE SANTA CATARINA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38545,
+    "nome": "CONSELHO NACIONAL DE TECNOLOGIA EM RADIOLOGIA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38546,
+    "nome": "CONSELHO REGIONAL DE MEDICINA - MT",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38547,
+    "nome": "CONSELHO REGIONAL DE MEDICINA DA PARAÍBA",
+    "esfera": "Estadual"
+  },
+  {
+    "id": 38548,
+    "nome": "CONSELHO REGIONAL DE FAMÁCIA - MS",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38549,
+    "nome": "CONSELHO REGIONAL DE FARMÁCIA DO ESTADO PARA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38550,
+    "nome": "CONSELHO REGIONAL DE ENFERMAGEM-RN",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38551,
+    "nome": "CONSELHO REGIONAL DE ENFERMAGEM DA PARAIBA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38552,
+    "nome": "CONSELHO FEDERAL DE NUTRICIONISTAS",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38553,
+    "nome": "CONSELHO DE ARQUITETURA E URBANISMO DE SP",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38554,
+    "nome": "CONSELHO ARQUITETURA E URBANISMO DO AMAPÁ",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38555,
+    "nome": "CONSELHO REGIONAL DE ENFERMAGEM",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38556,
+    "nome": "CONSELHO REGIONAL DE SERVIÇO SOCIAL - BA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38557,
+    "nome": "CONS. REG. DE REPRESENTANTES DO ESTADO DO RS",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38558,
+    "nome": "CONSELHO REGIONAL DE ADMINISTRAÇÃO DE GOIAS",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38559,
+    "nome": "CONSELHO DE ARQUITETURA E URBANISMO DO PARA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38560,
+    "nome": "CONSELHO REG. DE CONTABILIDADE DE RONDONIA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38561,
+    "nome": "CONSELHO REGIONAL DE NUTRICIONISTAS/7A REGIÃO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38562,
+    "nome": "CONSELHO REG. DE ECONOMIA DA 25A REGIAO TO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38563,
+    "nome": "CONS. REG. DE ENFERMAGEM  MATO GROSSO DO SUL",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38564,
+    "nome": "CONSELHO REGIONAL DE MEDICINA DE TOCANTINS",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38565,
+    "nome": "CONSELHO REGIONAL DE ENFERMAGEM - ES",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38566,
+    "nome": "CONSELHO REGIONAL DE CONTABILIDADE DO CEARÁ",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38567,
+    "nome": "CONSELHO REGIONAL DE FARMÁCIA DO ESTADO DE RO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38568,
+    "nome": "CONSELHO REGIONAL DE ENFERMANGEM DO CEARA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38569,
+    "nome": "CONSELHO REGIONAL DE MEDICINA VETERINARIA RJ",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38570,
+    "nome": "CONSELHO REGIONAL DE FARMÁCIA DO ESTADO DO MT",
+    "esfera": "Estadual"
+  },
+  {
+    "id": 38573,
+    "nome": "CONSELHO REGIONAL DE ADMINISTRAÇÃO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38574,
+    "nome": "CONSELHO REGIONAL DE MEDICINA VETERINARIA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38575,
+    "nome": "CONS. REG. DE FIS. E TERAPIA OC. DA 6ªREGIÃO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38576,
+    "nome": "CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38577,
+    "nome": "CONSELHO REG. ENGENHARIA E AGRONOMIA DO PR",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38578,
+    "nome": "CONSELHO REG. ENG. E AGRONOMINA DE MG",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38579,
+    "nome": "CONSELHO REG. ENGENHARIA E AGRONOMIA DO RJ",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38580,
+    "nome": "CONSELHO REG. ENGENHARIA E AGRONOMINA DO RJ",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38581,
+    "nome": "CONSELHO REG ENG. E AGRONOMIA DO TOCANTINS",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38582,
+    "nome": "CONSELHO REG. DE ENGENHARIA E AGRONOMIA PE",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38583,
+    "nome": "CONSELHO REG. ENG. E AGRONOMIA RO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38584,
+    "nome": "CONSELHO REG. FISIO. TERAPIA OCUPACIONAL",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38585,
+    "nome": "CONSELHO REGIONAL DE BIOLOGIA 1 REGIÃO",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38586,
+    "nome": "CONSELHO FEDERAL DE ADMINISTRAÇÃO DF",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38587,
+    "nome": "CONSELHO REGIONAL DE ADMINISTRAÇÃO BA",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38588,
+    "nome": "CONSELHO REGIONAL DE ADMINISTRAÇÃO DF",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38589,
+    "nome": "CONSELHO REGIONAL DE ADMINISTRAÇÃO DO ES",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38590,
+    "nome": "CONSELHO REGIONAL DE ADMINISTRAÇÃO DO PR",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38591,
+    "nome": "CONSELHO REGIONAL DE ADMINISTRAÇÃO DO RJ",
+    "esfera": "Federal"
+  },
+  {
+    "id": 38592,
+    "nome": "CONSELHO REGIONAL DE ADMINISTRAÇÃO SC",
+    "esfera": "Federal"
+  }
+]
