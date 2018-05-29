@@ -1,8 +1,8 @@
 {
   "_links": {
     "self": {
-      "href": "http://compras.dados.gov.br/licitacoes/v1/uasgs.json",
-      "title": "Lista de uasgs"
+      "href": "http://compras.dados.gov.br/licitacoes/v1/uasgs.json?offset=0",
+      "title": "Lista de uasgs filtrados por offset=0."
     },
     "first": {
       "href": "/licitacoes/v1/uasgs.json?offset=0",

@@ -1,8 +1,8 @@
 {
   "_links": {
     "self": {
-      "href": "http://compras.dados.gov.br/contratos/v1/contratos.json",
-      "title": "Lista de contratos"
+      "href": "http://compras.dados.gov.br/contratos/v1/contratos.json?offset=0",
+      "title": "Lista de contratos filtrados por offset=0."
     },
     "first": {
       "href": "/contratos/v1/contratos.json?offset=0",

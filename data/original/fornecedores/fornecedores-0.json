@@ -1,8 +1,8 @@
 {
   "_links": {
     "self": {
-      "href": "http://compras.dados.gov.br/fornecedores/v1/fornecedores.json",
-      "title": "Lista de fornecedores"
+      "href": "http://compras.dados.gov.br/fornecedores/v1/fornecedores.json?offset=0",
+      "title": "Lista de fornecedores filtrados por offset=0."
     },
     "first": {
       "href": "/fornecedores/v1/fornecedores.json?offset=0",
