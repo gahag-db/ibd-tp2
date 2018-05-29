@@ -20,3 +20,7 @@ jq '[ ._embedded.uasgs[] | { "id": .id, "nome": .nome, "municipio": .id_municipi
 jq '[ ._embedded.contratos[] | select((.licitacao_associada | try tonumber catch false) and (._links.fornecedor.href != null)) ]' data/original/contratos.json \
     | jq '[ .[] | { "licitacao": .licitacao_associada|tonumber, "fornecedor": ._links.fornecedor.href|split("/")[-1]|tonumber, "data": .data_assinatura } ]' \
     > data/processed/contratos.json
+
+# municipios
+jq '[ ._embedded.municipios[] | { "id": .id, "nome": .nome, "nome_uf": .nome_uf, "sigla_uf": .sigla_uf } ]' \
+   data/original/municipios.json > data/processed/municipios.json
