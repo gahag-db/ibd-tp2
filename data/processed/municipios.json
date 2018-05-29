@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 19,
+    "nome": "Guajará-Mirim",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 27,
+    "nome": "ALTO ALEGRE DOS PARECIS",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 35,
+    "nome": "Porto Velho",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 43,
+    "nome": "BURITIS",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 51,
+    "nome": "Ji-Paraná",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 60,
+    "nome": "CHUPINGUAIA",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 78,
+    "nome": "Ariquemes",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 86,
+    "nome": "CUJUBIM",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 94,
+    "nome": "Cacoal",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 108,
+    "nome": "Nova União",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 116,
+    "nome": "Pimenta Bueno",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 124,
+    "nome": "PARECIS",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 132,
+    "nome": "Vilhena",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 140,
+    "nome": "PIMENTEIRAS DO OESTE",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 159,
+    "nome": "Jaru",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 167,
+    "nome": "PRIMAVERA DE RONDÔNIA",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 175,
+    "nome": "Ouro Preto do Oeste",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 183,
+    "nome": "SAO FELIPE D´OESTE",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 191,
+    "nome": "Presidente Médici",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 205,
+    "nome": "SÃO FRANCISCO DO GUAPORÉ",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 213,
+    "nome": "Costa Marques",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 221,
+    "nome": "TEIXEIROPOLIS",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 230,
+    "nome": "Colorado do Oeste",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 248,
+    "nome": "VALE DO ANARI",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 256,
+    "nome": "ESPIGAO D´Oeste",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 264,
+    "nome": "AMAJARI",
+    "nome_uf": "RORAIMA",
+    "sigla_uf": "RR"
+  },
+  {
+    "id": 272,
+    "nome": "Cerejeiras",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 280,
+    "nome": "CANTÁ",
+    "nome_uf": "RORAIMA",
+    "sigla_uf": "RR"
+  },
+  {
+    "id": 299,
+    "nome": "Rolim de Moura",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 302,
+    "nome": "CAROEBE",
+    "nome_uf": "RORAIMA",
+    "sigla_uf": "RR"
+  },
+  {
+    "id": 310,
+    "nome": "Caldazinha",
+    "nome_uf": "GOIÁS",
+    "sigla_uf": "GO"
+  },
+  {
+    "id": 329,
+    "nome": "IRACEMA",
+    "nome_uf": "RORAIMA",
+    "sigla_uf": "RR"
+  },
+  {
+    "id": 337,
+    "nome": "Alta Florest D´Oeste",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 345,
+    "nome": "PACARAIMA",
+    "nome_uf": "RORAIMA",
+    "sigla_uf": "RR"
+  },
+  {
+    "id": 353,
+    "nome": "Alvorada D´Oeste",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 361,
+    "nome": "Rorainopolis",
+    "nome_uf": "RORAIMA",
+    "sigla_uf": "RR"
+  },
+  {
+    "id": 370,
+    "nome": "Cabixi",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 388,
+    "nome": "UIRAMUTA",
+    "nome_uf": "RORAIMA",
+    "sigla_uf": "RR"
+  },
+  {
+    "id": 396,
+    "nome": "Machadinho D´Oeste",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 400,
+    "nome": "ANAPU",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 418,
+    "nome": "Nova Brasilândia D´Oeste",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 426,
+    "nome": "BANNACH",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 434,
+    "nome": "Santa Luzia D´Oeste",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 442,
+    "nome": "BELTERRA",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 450,
+    "nome": "SAO MIGUEL DO GUAPORE",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 469,
+    "nome": "CACHOEIRA DO PIRIA",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 477,
+    "nome": "NOVA MAMORE",
+    "nome_uf": "RONDÔNIA",
+    "sigla_uf": "RO"
+  },
+  {
+    "id": 485,
+    "nome": "CANAA DOS CARAJAS",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 493,
+    "nome": "Jesúpolis",
+    "nome_uf": "GOIÁS",
+    "sigla_uf": "GO"
+  },
+  {
+    "id": 507,
+    "nome": "CURUA",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 515,
+    "nome": "Professor Jamil",
+    "nome_uf": "GOIÁS",
+    "sigla_uf": "GO"
+  },
+  {
+    "id": 523,
+    "nome": "FLORESTA DO ARAGUAIA",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 531,
+    "nome": "Santo Antônio de Goiás",
+    "nome_uf": "GOIÁS",
+    "sigla_uf": "GO"
+  },
+  {
+    "id": 540,
+    "nome": "Marituba",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 558,
+    "nome": "Cocalzinho de Goiás",
+    "nome_uf": "GOIÁS",
+    "sigla_uf": "GO"
+  },
+  {
+    "id": 566,
+    "nome": "NOVA IPIXUNA",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 574,
+    "nome": "Terezópolis de Goiás",
+    "nome_uf": "GOIÁS",
+    "sigla_uf": "GO"
+  },
+  {
+    "id": 590,
+    "nome": "Uirapuru",
+    "nome_uf": "GOIÁS",
+    "sigla_uf": "GO"
+  },
+  {
+    "id": 612,
+    "nome": "Buritinópolis",
+    "nome_uf": "GOIÁS",
+    "sigla_uf": "GO"
+  },
+  {
+    "id": 620,
+    "nome": "QUATIPURU",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 639,
+    "nome": "Buriti de Goiás",
+    "nome_uf": "GOIÁS",
+    "sigla_uf": "GO"
+  },
+  {
+    "id": 655,
+    "nome": "Guaraita",
+    "nome_uf": "GOIÁS",
+    "sigla_uf": "GO"
+  },
+  {
+    "id": 671,
+    "nome": "Vila Boa",
+    "nome_uf": "GOIÁS",
+    "sigla_uf": "GO"
+  },
+  {
+    "id": 698,
+    "nome": "Inaciolândia",
+    "nome_uf": "GOIÁS",
+    "sigla_uf": "GO"
+  },
+  {
+    "id": 701,
+    "nome": "VITORIA DO JARI",
+    "nome_uf": "AMAPÁ",
+    "sigla_uf": "AP"
+  },
+  {
+    "id": 710,
+    "nome": "Aparecida do Rio Doce",
+    "nome_uf": "GOIÁS",
+    "sigla_uf": "GO"
+  },
+  {
+    "id": 736,
+    "nome": "Chapadão do Céu",
+    "nome_uf": "GOIÁS",
+    "sigla_uf": "GO"
+  },
+  {
+    "id": 744,
+    "nome": "uruana de minas",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 752,
+    "nome": "Perolândia",
+    "nome_uf": "GOIÁS",
+    "sigla_uf": "GO"
+  },
+  {
+    "id": 760,
+    "nome": "MARATAIZES",
+    "nome_uf": "ESPÍRITO SANTO",
+    "sigla_uf": "ES"
+  },
+  {
+    "id": 779,
+    "nome": "Cidade Ocidental",
+    "nome_uf": "GOIÁS",
+    "sigla_uf": "GO"
+  },
+  {
+    "id": 795,
+    "nome": "Montividiu do Norte",
+    "nome_uf": "GOIÁS",
+    "sigla_uf": "GO"
+  },
+  {
+    "id": 817,
+    "nome": "Castelândia",
+    "nome_uf": "GOIÁS",
+    "sigla_uf": "GO"
+  },
+  {
+    "id": 833,
+    "nome": "Santo Antônio da Barra",
+    "nome_uf": "GOIÁS",
+    "sigla_uf": "GO"
+  },
+  {
+    "id": 850,
+    "nome": "Alto Horizonte",
+    "nome_uf": "GOIÁS",
+    "sigla_uf": "GO"
+  },
+  {
+    "id": 868,
+    "nome": "LAVANDEIRA",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 876,
+    "nome": "Nova Iguaçú de Goiás",
+    "nome_uf": "GOIÁS",
+    "sigla_uf": "GO"
+  },
+  {
+    "id": 892,
+    "nome": "Cotriguacu",
+    "nome_uf": "MATO GROSSO",
+    "sigla_uf": "MT"
+  },
+  {
+    "id": 906,
+    "nome": "MONTE SANTO DO TOCANTINS",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 914,
+    "nome": "Planalto da Serra",
+    "nome_uf": "MATO GROSSO",
+    "sigla_uf": "MT"
+  },
+  {
+    "id": 930,
+    "nome": "São Pedro da Cipa",
+    "nome_uf": "MATO GROSSO",
+    "sigla_uf": "MT"
+  },
+  {
+    "id": 957,
+    "nome": "Pontal do Araguaia",
+    "nome_uf": "MATO GROSSO",
+    "sigla_uf": "MT"
+  },
+  {
+    "id": 965,
+    "nome": "SANTA RITA DO TOCANTINS",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 973,
+    "nome": "Querência",
+    "nome_uf": "MATO GROSSO",
+    "sigla_uf": "MT"
+  },
+  {
+    "id": 990,
+    "nome": "Ribeirãozinho",
+    "nome_uf": "MATO GROSSO",
+    "sigla_uf": "MT"
+  },
+  {
+    "id": 1015,
+    "nome": "Porto Estrela",
+    "nome_uf": "MATO GROSSO",
+    "sigla_uf": "MT"
+  },
+  {
+    "id": 1023,
+    "nome": "TUPIRAMA",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 1031,
+    "nome": "Nova Marilândia",
+    "nome_uf": "MATO GROSSO",
+    "sigla_uf": "MT"
+  },
+  {
+    "id": 1040,
+    "nome": "AGUA DOCE DO MARANHAO",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 1058,
+    "nome": "Brasiléia",
+    "nome_uf": "ACRE",
+    "sigla_uf": "AC"
+  },
+  {
+    "id": 1066,
+    "nome": "ALTO ALEGRE DO MARANHAO",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 1074,
+    "nome": "Cruzeiro do Sul",
+    "nome_uf": "ACRE",
+    "sigla_uf": "AC"
+  },
+  {
+    "id": 1082,
+    "nome": "ALTO ALEGRE DO PINDARE",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 1090,
+    "nome": "Mâncio Lima",
+    "nome_uf": "ACRE",
+    "sigla_uf": "AC"
+  },
+  {
+    "id": 1112,
+    "nome": "Nova Maringá",
+    "nome_uf": "MATO GROSSO",
+    "sigla_uf": "MT"
+  },
+  {
+    "id": 1120,
+    "nome": "APICUM-AÇU",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 1139,
+    "nome": "Feijó",
+    "nome_uf": "ACRE",
+    "sigla_uf": "AC"
+  },
+  {
+    "id": 1147,
+    "nome": "Araguanã",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 1155,
+    "nome": "Santo Afonso",
+    "nome_uf": "MATO GROSSO",
+    "sigla_uf": "MT"
+  },
+  {
+    "id": 1163,
+    "nome": "BACABEIRA",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 1171,
+    "nome": "Nova Bandeirantes",
+    "nome_uf": "MATO GROSSO",
+    "sigla_uf": "MT"
+  },
+  {
+    "id": 1180,
+    "nome": "BACURITUBA",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 1198,
+    "nome": "Nova Monte Verde",
+    "nome_uf": "MATO GROSSO",
+    "sigla_uf": "MT"
+  },
+  {
+    "id": 1210,
+    "nome": "Nova Guaritá",
+    "nome_uf": "MATO GROSSO",
+    "sigla_uf": "MT"
+  },
+  {
+    "id": 1236,
+    "nome": "Santa Carmen",
+    "nome_uf": "MATO GROSSO",
+    "sigla_uf": "MT"
+  },
+  {
+    "id": 1252,
+    "nome": "Tabapora",
+    "nome_uf": "MATO GROSSO",
+    "sigla_uf": "MT"
+  },
+  {
+    "id": 1260,
+    "nome": "BOA VISTA DO GURUPI",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 1279,
+    "nome": "Alto Boa Vista",
+    "nome_uf": "MATO GROSSO",
+    "sigla_uf": "MT"
+  },
+  {
+    "id": 1287,
+    "nome": "BOM JESUS DAS SELVAS",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 1295,
+    "nome": "Canabrava do Norte",
+    "nome_uf": "MATO GROSSO",
+    "sigla_uf": "MT"
+  },
+  {
+    "id": 1317,
+    "nome": "Confresa",
+    "nome_uf": "MATO GROSSO",
+    "sigla_uf": "MT"
+  },
+  {
+    "id": 1333,
+    "nome": "São José do Xingu",
+    "nome_uf": "MATO GROSSO",
+    "sigla_uf": "MT"
+  },
+  {
+    "id": 1341,
+    "nome": "BURITICUPU",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 1350,
+    "nome": "Glória D´Oeste",
+    "nome_uf": "MATO GROSSO",
+    "sigla_uf": "MT"
+  },
+  {
+    "id": 1368,
+    "nome": "BURITIRANA",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 1376,
+    "nome": "Lambári D´Oeste",
+    "nome_uf": "MATO GROSSO",
+    "sigla_uf": "MT"
+  },
+  {
+    "id": 1392,
+    "nome": "Rio Branco",
+    "nome_uf": "ACRE",
+    "sigla_uf": "AC"
+  },
+  {
+    "id": 1414,
+    "nome": "Alcinópolis",
+    "nome_uf": "MATO GROSSO DO SUL",
+    "sigla_uf": "MS"
+  },
+  {
+    "id": 1430,
+    "nome": "Nova Alvorada do Sul",
+    "nome_uf": "MATO GROSSO DO SUL",
+    "sigla_uf": "MS"
+  },
+  {
+    "id": 1449,
+    "nome": "CENTRAL DO MARANHÃO",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 1457,
+    "nome": "Sena Madureira",
+    "nome_uf": "ACRE",
+    "sigla_uf": "AC"
+  },
+  {
+    "id": 1473,
+    "nome": "Tarauacá",
+    "nome_uf": "ACRE",
+    "sigla_uf": "AC"
+  },
+  {
+    "id": 1490,
+    "nome": "Xapuri",
+    "nome_uf": "ACRE",
+    "sigla_uf": "AC"
+  },
+  {
+    "id": 1511,
+    "nome": "Plácido de Castro",
+    "nome_uf": "ACRE",
+    "sigla_uf": "AC"
+  },
+  {
+    "id": 1520,
+    "nome": "CONCEICAO DO LAGO-ACU",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 1538,
+    "nome": "Senador Guiomard",
+    "nome_uf": "ACRE",
+    "sigla_uf": "AC"
+  },
+  {
+    "id": 1554,
+    "nome": "Manoel Urbano",
+    "nome_uf": "ACRE",
+    "sigla_uf": "AC"
+  },
+  {
+    "id": 1570,
+    "nome": "Assis Brasil",
+    "nome_uf": "ACRE",
+    "sigla_uf": "AC"
+  },
+  {
+    "id": 1597,
+    "nome": "Novo Horizonte do Sul",
+    "nome_uf": "MATO GROSSO DO SUL",
+    "sigla_uf": "MS"
+  },
+  {
+    "id": 1600,
+    "nome": "Formosa da Serra Negra",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 1619,
+    "nome": "Japorã",
+    "nome_uf": "MATO GROSSO DO SUL",
+    "sigla_uf": "MS"
+  },
+  {
+    "id": 1635,
+    "nome": "Laguna Carapã",
+    "nome_uf": "MATO GROSSO DO SUL",
+    "sigla_uf": "MS"
+  },
+  {
+    "id": 1651,
+    "nome": "Angico",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 1660,
+    "nome": "GOVERNADOR NEWTON BELLO",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 1678,
+    "nome": "Aragominas",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 1686,
+    "nome": "Governador Nunes Freire",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 1694,
+    "nome": "Araguanã",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 1708,
+    "nome": "IGARAPE DO MEIO",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 1716,
+    "nome": "Cachoeirinha",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 1732,
+    "nome": "Campos Lindos",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 1740,
+    "nome": "ITINGA DO MARANHAO",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 1759,
+    "nome": "Carmolândia",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 1775,
+    "nome": "Carrasco Bonito",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 1791,
+    "nome": "Darcinópolis",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 1813,
+    "nome": "Esperantina",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 1821,
+    "nome": "LAGOA DO MATO",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 1830,
+    "nome": "Maurilândia do Tocantins",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 1856,
+    "nome": "Mosquito",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 1872,
+    "nome": "Muricilândia",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 1899,
+    "nome": "Palmeirante",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 1902,
+    "nome": "MARACAÇUMÉ",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 1910,
+    "nome": "Pau D´Arco",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 1937,
+    "nome": "Riachinho",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 1945,
+    "nome": "MARANHAZINHO",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 1953,
+    "nome": "Santa Fé do Araguaia",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 1970,
+    "nome": "São Bento do Tocantins",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 1996,
+    "nome": "São Miguel do Tocantins",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 2011,
+    "nome": "Novo Airão",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2038,
+    "nome": "Anori",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2054,
+    "nome": "Atalaia do Norte",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2062,
+    "nome": "PAULINO NEVES",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 2070,
+    "nome": "Autazes",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2089,
+    "nome": "Pedro do Rosário",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 2097,
+    "nome": "Barcelos",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2100,
+    "nome": "PERITORO",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 2119,
+    "nome": "Barreirinha",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2127,
+    "nome": "PORTO RICO DO MARANHÃO/MARANHÃO E PINHEI",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 2135,
+    "nome": "Benjamin Constant",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2151,
+    "nome": "Boca do Acre",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2178,
+    "nome": "Borba",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2186,
+    "nome": "RAPOSA",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 2194,
+    "nome": "Canutama",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2216,
+    "nome": "Carauari",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2232,
+    "nome": "Careiro",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2240,
+    "nome": "Santana do Maranhão",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 2259,
+    "nome": "Coari",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2267,
+    "nome": "SANTO AMARO DO MARANHÃO",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 2275,
+    "nome": "Codajás",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2283,
+    "nome": "SAO DOMINGOS DO AZEITAO",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 2291,
+    "nome": "Eirunepé",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2305,
+    "nome": "SÃO FRANCISCO DO BREJÃO",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 2313,
+    "nome": "Envira",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2330,
+    "nome": "Fonte Boa",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2348,
+    "nome": "SAO JOAO DO PARAISO",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 2356,
+    "nome": "Humaitá",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2372,
+    "nome": "Santa Isabel do Rio Negro",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2399,
+    "nome": "Ipixuna",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2410,
+    "nome": "Itacoatiara",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2437,
+    "nome": "Itapiranga",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2453,
+    "nome": "Japurá",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2470,
+    "nome": "Juruá",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2488,
+    "nome": "SATUBINHA",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 2496,
+    "nome": "Jutai",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2518,
+    "nome": "Lábrea",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2526,
+    "nome": "SENADOR LA ROCQUE",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 2534,
+    "nome": "Manacapuru",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2542,
+    "nome": "SERRANO DO MARANHÃO",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 2550,
+    "nome": "Manaus",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2577,
+    "nome": "Manicoré",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2585,
+    "nome": "TRIZIDELA DO VALE",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 2593,
+    "nome": "Maraã",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2615,
+    "nome": "Maués",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2631,
+    "nome": "Nhamundá",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2640,
+    "nome": "VILA NOVA DOS MARTÍRIOS",
+    "nome_uf": "MARANHÃO",
+    "sigla_uf": "MA"
+  },
+  {
+    "id": 2658,
+    "nome": "Nova Olinda do Norte",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2666,
+    "nome": "ACAUA",
+    "nome_uf": "PIAUÍ",
+    "sigla_uf": "PI"
+  },
+  {
+    "id": 2674,
+    "nome": "Novo Aripuanã",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2682,
+    "nome": "ALVORADA DO GURGUEIA",
+    "nome_uf": "PIAUÍ",
+    "sigla_uf": "PI"
+  },
+  {
+    "id": 2690,
+    "nome": "Parintins",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2704,
+    "nome": "ASSUNCAO DO PIAUI",
+    "nome_uf": "PIAUÍ",
+    "sigla_uf": "PI"
+  },
+  {
+    "id": 2712,
+    "nome": "Pauini",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2739,
+    "nome": "Santo Antônio do Içá",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2747,
+    "nome": "BELA VISTA DO PIAUI",
+    "nome_uf": "PIAUÍ",
+    "sigla_uf": "PI"
+  },
+  {
+    "id": 2755,
+    "nome": "São Paulo de Olivença",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2771,
+    "nome": "Silves",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2798,
+    "nome": "Tapauá",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2801,
+    "nome": "BOA HORA",
+    "nome_uf": "PIAUÍ",
+    "sigla_uf": "PI"
+  },
+  {
+    "id": 2810,
+    "nome": "Tefé",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2836,
+    "nome": "São Gabriel da Cachoeira",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2852,
+    "nome": "Urucará",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2860,
+    "nome": "CAJAZEIRAS DO PIAUI",
+    "nome_uf": "PIAUÍ",
+    "sigla_uf": "PI"
+  },
+  {
+    "id": 2879,
+    "nome": "Urucurituba",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2895,
+    "nome": "Alvarães",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2909,
+    "nome": "CAMPO ALEGRE DO FIDALGO",
+    "nome_uf": "PIAUÍ",
+    "sigla_uf": "PI"
+  },
+  {
+    "id": 2917,
+    "nome": "Amatura",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2925,
+    "nome": "Campo Grande do Piaui",
+    "nome_uf": "PIAUÍ",
+    "sigla_uf": "PI"
+  },
+  {
+    "id": 2933,
+    "nome": "Anama",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2950,
+    "nome": "Beruri",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2976,
+    "nome": "Boa Vista do Ramos",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 2992,
+    "nome": "Caapiranga",
+    "nome_uf": "AMAZONAS",
+    "sigla_uf": "AM"
+  },
+  {
+    "id": 3018,
+    "nome": "Boa Vista",
+    "nome_uf": "RORAIMA",
+    "sigla_uf": "RR"
+  },
+  {
+    "id": 3034,
+    "nome": "Caracaraí",
+    "nome_uf": "RORAIMA",
+    "sigla_uf": "RR"
+  },
+  {
+    "id": 3050,
+    "nome": "Alto Alegre",
+    "nome_uf": "RORAIMA",
+    "sigla_uf": "RR"
+  },
+  {
+    "id": 3077,
+    "nome": "Bonfim",
+    "nome_uf": "RORAIMA",
+    "sigla_uf": "RR"
+  },
+  {
+    "id": 3093,
+    "nome": "Mucajaí",
+    "nome_uf": "RORAIMA",
+    "sigla_uf": "RR"
+  },
+  {
+    "id": 3107,
+    "nome": "CURRALINHO",
+    "nome_uf": "PIAUÍ",
+    "sigla_uf": "PI"
+  },
+  {
+    "id": 3115,
+    "nome": "Normandia",
+    "nome_uf": "RORAIMA",
+    "sigla_uf": "RR"
+  },
+  {
+    "id": 3131,
+    "nome": "São João da Baliza",
+    "nome_uf": "RORAIMA",
+    "sigla_uf": "RR"
+  },
+  {
+    "id": 3158,
+    "nome": "São Luiz",
+    "nome_uf": "RORAIMA",
+    "sigla_uf": "RR"
+  },
+  {
+    "id": 3174,
+    "nome": "Mateiros",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 3182,
+    "nome": "GEMINIANO",
+    "nome_uf": "PIAUÍ",
+    "sigla_uf": "PI"
+  },
+  {
+    "id": 3212,
+    "nome": "Novo Jardim",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 3220,
+    "nome": "ILHA GRANDE DO PIAUI",
+    "nome_uf": "PIAUÍ",
+    "sigla_uf": "PI"
+  },
+  {
+    "id": 3239,
+    "nome": "Rio da Conceição",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 3255,
+    "nome": "Taipas do Tocantins",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 3263,
+    "nome": "JOAO COSTA",
+    "nome_uf": "PIAUÍ",
+    "sigla_uf": "PI"
+  },
+  {
+    "id": 3271,
+    "nome": "Cariri do Tocantins",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 3298,
+    "nome": "Jaú do Tocantins",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 3310,
+    "nome": "Sandolândia",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 3336,
+    "nome": "São Salvador do Tocantins",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 3344,
+    "nome": "JUREMA",
+    "nome_uf": "PIAUÍ",
+    "sigla_uf": "PI"
+  },
+  {
+    "id": 3352,
+    "nome": "Sucupira",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 3379,
+    "nome": "Abreulândia",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 3395,
+    "nome": "Brasilândia do Tocantins",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 3409,
+    "nome": "Lagoa do Piauí",
+    "nome_uf": "PIAUÍ",
+    "sigla_uf": "PI"
+  },
+  {
+    "id": 3417,
+    "nome": "Bom Jesus do Tocantins",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 3425,
+    "nome": "LAGOA DO SÍTIO",
+    "nome_uf": "PIAUÍ",
+    "sigla_uf": "PI"
+  },
+  {
+    "id": 3433,
+    "nome": "Centenário",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 3441,
+    "nome": "MADEIRO",
+    "nome_uf": "PIAUÍ",
+    "sigla_uf": "PI"
+  },
+  {
+    "id": 3450,
+    "nome": "Fortaleza do Tabocão",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 3476,
+    "nome": "Itapiratins",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 3484,
+    "nome": "MILTON BRANDAO",
+    "nome_uf": "PIAUÍ",
+    "sigla_uf": "PI"
+  },
+  {
+    "id": 3492,
+    "nome": "Juarina",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 3514,
+    "nome": "Lajeado",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 3530,
+    "nome": "Lagoa do Tocantins",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 3549,
+    "nome": "MURICI DOS PORTELAS",
+    "nome_uf": "PIAUÍ",
+    "sigla_uf": "PI"
+  },
+  {
+    "id": 3557,
+    "nome": "Piraquê",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 3573,
+    "nome": "Recursolândia",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 3590,
+    "nome": "Rio dos Bois",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 3611,
+    "nome": "Santa Maria do Tocantins",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 3620,
+    "nome": "PAJEU DO PIAUI",
+    "nome_uf": "PIAUÍ",
+    "sigla_uf": "PI"
+  },
+  {
+    "id": 3638,
+    "nome": "São Félix do Tocantins",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 3654,
+    "nome": "Tupiratins",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 3670,
+    "nome": "Lagoa da Confusão",
+    "nome_uf": "TOCANTIS",
+    "sigla_uf": "TO"
+  },
+  {
+    "id": 3689,
+    "nome": "PEDRO LAURENTINO",
+    "nome_uf": "PIAUÍ",
+    "sigla_uf": "PI"
+  },
+  {
+    "id": 3697,
+    "nome": "Santa Bárbara do Pará",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 3719,
+    "nome": "Santa Luzia do Pará",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 3727,
+    "nome": "PORTO ALEGRE DO PIAUI",
+    "nome_uf": "PIAUÍ",
+    "sigla_uf": "PI"
+  },
+  {
+    "id": 3735,
+    "nome": "Terra Alta",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 3751,
+    "nome": "Abel Figueiredo",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 3778,
+    "nome": "Eldorado dos Carajás",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 3794,
+    "nome": "Palestina do Pará",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 3816,
+    "nome": "São Domingos do Araguaia",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 3824,
+    "nome": "SAO GONCALO DO GURGUEIA",
+    "nome_uf": "PIAUÍ",
+    "sigla_uf": "PI"
+  },
+  {
+    "id": 3832,
+    "nome": "Água Azul do Norte",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 3859,
+    "nome": "Cumaru do Norte",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 3875,
+    "nome": "Pau D´Arco",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 3891,
+    "nome": "Aurora do Pará",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 3913,
+    "nome": "Nova Esperança do Piriá",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 3921,
+    "nome": "SÃO MIGUEL DA BAIXA GRANDE",
+    "nome_uf": "PIAUÍ",
+    "sigla_uf": "PI"
+  },
+  {
+    "id": 3930,
+    "nome": "São João de Piribas",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 3956,
+    "nome": "Tailândia",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 3972,
+    "nome": "Tucumã",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 3999,
+    "nome": "Uruará",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4014,
+    "nome": "Abaetetuba",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4030,
+    "nome": "Acará",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4057,
+    "nome": "Afuá",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4073,
+    "nome": "Alenquer",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4081,
+    "nome": "VILA NOVA DO PIAUI",
+    "nome_uf": "PIAUÍ",
+    "sigla_uf": "PI"
+  },
+  {
+    "id": 4090,
+    "nome": "Almeirim",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4103,
+    "nome": "WALL FERRAZ",
+    "nome_uf": "PIAUÍ",
+    "sigla_uf": "PI"
+  },
+  {
+    "id": 4111,
+    "nome": "Altamira",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4138,
+    "nome": "Anajás",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4154,
+    "nome": "Ananindeua",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4162,
+    "nome": "FERNANDO PEDROZA",
+    "nome_uf": "RIO GRANDE DO NORTE",
+    "sigla_uf": "RN"
+  },
+  {
+    "id": 4170,
+    "nome": "Augusto Corrêa",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4189,
+    "nome": "Itaja",
+    "nome_uf": "RIO GRANDE DO NORTE",
+    "sigla_uf": "RN"
+  },
+  {
+    "id": 4197,
+    "nome": "Aveiro",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4200,
+    "nome": "MAJOR SALES",
+    "nome_uf": "RIO GRANDE DO NORTE",
+    "sigla_uf": "RN"
+  },
+  {
+    "id": 4219,
+    "nome": "Bagre",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4235,
+    "nome": "Baião",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4243,
+    "nome": "SANTA MARIA",
+    "nome_uf": "RIO GRANDE DO NORTE",
+    "sigla_uf": "RN"
+  },
+  {
+    "id": 4251,
+    "nome": "Barcarena",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4278,
+    "nome": "Belém",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4294,
+    "nome": "Benevides",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4316,
+    "nome": "Bonito",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4332,
+    "nome": "Bragança",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4359,
+    "nome": "BREVES",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4375,
+    "nome": "Bujaru",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4391,
+    "nome": "CACHOEIRA DO ARARI",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4405,
+    "nome": "ALCANTIL",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 4413,
+    "nome": "Cametá",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4421,
+    "nome": "ALGODÃO DE JANDAIRA",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 4430,
+    "nome": "Capanema",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4456,
+    "nome": "Capitão Poco",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4464,
+    "nome": "Aparecida",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 4472,
+    "nome": "Castanhal",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4480,
+    "nome": "Areia de Baraunas",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 4499,
+    "nome": "CHAVES",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4510,
+    "nome": "Colares",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4529,
+    "nome": "BARAÚNA",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 4537,
+    "nome": "Conceição do Araguaia",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4553,
+    "nome": "CURRALINHO",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4561,
+    "nome": "BERNARDINO BATISTA",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 4570,
+    "nome": "Curuçá",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4596,
+    "nome": "FARO",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4600,
+    "nome": "CACIMBAS",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 4618,
+    "nome": "GURUPÁ",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4626,
+    "nome": "CAJAZEIRINHAS",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 4634,
+    "nome": "Igarapé-Açu",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4642,
+    "nome": "CAPIM",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 4650,
+    "nome": "Igarapé-Miri",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4677,
+    "nome": "Inhangapi",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4685,
+    "nome": "CASSERENGUE",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 4693,
+    "nome": "Iritúia",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4715,
+    "nome": "Itaituba",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4723,
+    "nome": "COXIXOLA",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 4731,
+    "nome": "Itupiranga",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4758,
+    "nome": "Jacunda",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4766,
+    "nome": "CURRAL DE CIMA",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 4774,
+    "nome": "JURUTI",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4782,
+    "nome": "DAMIÃO",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 4790,
+    "nome": "Limoeiro do Ajuru",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4804,
+    "nome": "GADO BRAVO",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 4812,
+    "nome": "Magalhães Barata",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4839,
+    "nome": "Marabá",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4847,
+    "nome": "MARCAÇÃO",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 4855,
+    "nome": "Maracanã",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4863,
+    "nome": "Marizópolis",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 4871,
+    "nome": "Marapanim",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4898,
+    "nome": "MELGACO",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4910,
+    "nome": "Mocajuba",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4928,
+    "nome": "MATUREIA",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 4936,
+    "nome": "Moju",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4952,
+    "nome": "MONTE ALEGRE",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4960,
+    "nome": "POÇO DANTAS",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 4979,
+    "nome": "MUANA",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 4995,
+    "nome": "Nova Timboteua",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5002,
+    "nome": "PEDRO RÉGIS",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 5010,
+    "nome": "OBIDOS",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5029,
+    "nome": "RIACHÃO",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 5037,
+    "nome": "Oeiras do Pará",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5045,
+    "nome": "RIAÇHÃO DO BACAMARTE",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 5053,
+    "nome": "ORIXIMINA",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5061,
+    "nome": "RIAÇHÃO DO POÇO",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 5070,
+    "nome": "Ourém",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5088,
+    "nome": "RIACHO DE SANTO ANTONIO",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 5096,
+    "nome": "Paragominas",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5100,
+    "nome": "SANTA CECILIA",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 5118,
+    "nome": "Peixe-Boi",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5134,
+    "nome": "PONTE DE PEDRAS",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5142,
+    "nome": "SANTAREM",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 5150,
+    "nome": "PORTEL",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5177,
+    "nome": "Porto de Moz",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5185,
+    "nome": "SAO BENTINHO",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 5193,
+    "nome": "PRAINHA",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5207,
+    "nome": "SAO DOMINGOS DO CARIRI",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 5215,
+    "nome": "Primavera",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5231,
+    "nome": "Salinópolis",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5240,
+    "nome": "SAO FRANCISCO",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 5258,
+    "nome": "SALVATERRA",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5274,
+    "nome": "SANTA CRUZ DO ARARI",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5282,
+    "nome": "SÃO JOSÉ DE PRINCESA",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 5290,
+    "nome": "Santa Isabel do Pará",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5304,
+    "nome": "SÃO JOSÉ DO BREJO DA CRUZ",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 5312,
+    "nome": "Santa Maria do Pará",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5339,
+    "nome": "Santana do Araguaia",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5355,
+    "nome": "SANTAREM",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5371,
+    "nome": "Santarém Novo",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5380,
+    "nome": "TENÓRIO",
+    "nome_uf": "PARAÍBA",
+    "sigla_uf": "PB"
+  },
+  {
+    "id": 5398,
+    "nome": "Santo Antônio do Tauá",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5410,
+    "nome": "São Caetano de Odivelas",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5436,
+    "nome": "São Domingos do Capim",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5444,
+    "nome": "ARACOIABA",
+    "nome_uf": "PERNAMBUCO",
+    "sigla_uf": "PE"
+  },
+  {
+    "id": 5452,
+    "nome": "São Félix do Xingu",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5460,
+    "nome": "CASINHAS",
+    "nome_uf": "PERNAMBUCO",
+    "sigla_uf": "PE"
+  },
+  {
+    "id": 5479,
+    "nome": "São Francisco do Pará",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5495,
+    "nome": "São João do Araguaia",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5509,
+    "nome": "Jatobá",
+    "nome_uf": "PERNAMBUCO",
+    "sigla_uf": "PE"
+  },
+  {
+    "id": 5517,
+    "nome": "São Miguel do Guamá",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5525,
+    "nome": "Lagoa Grande",
+    "nome_uf": "PERNAMBUCO",
+    "sigla_uf": "PE"
+  },
+  {
+    "id": 5533,
+    "nome": "SAO SEBASTIAO DA BOA VISTA",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5550,
+    "nome": "Senador José Porfírio",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5568,
+    "nome": "SANTA FILOMENA",
+    "nome_uf": "PERNAMBUCO",
+    "sigla_uf": "PE"
+  },
+  {
+    "id": 5576,
+    "nome": "SOURE",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5584,
+    "nome": "Tamandare",
+    "nome_uf": "PERNAMBUCO",
+    "sigla_uf": "PE"
+  },
+  {
+    "id": 5592,
+    "nome": "Tomé-Açú",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5606,
+    "nome": "CAMPESTRE",
+    "nome_uf": "ALAGOAS",
+    "sigla_uf": "AL"
+  },
+  {
+    "id": 5614,
+    "nome": "Tucurui",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5630,
+    "nome": "Vigia",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5649,
+    "nome": "ALTO CAPARAO",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 5657,
+    "nome": "Viseu",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5673,
+    "nome": "Redenção",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5681,
+    "nome": "ARICANDUVA",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 5690,
+    "nome": "Rio Maria",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5703,
+    "nome": "BERIZAL",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 5711,
+    "nome": "Xinguara",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5720,
+    "nome": "BONITO DE MINAS",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 5738,
+    "nome": "Rondon do Pará",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5754,
+    "nome": "Bom Jesus do Tocantins",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5762,
+    "nome": "Bugre",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 5770,
+    "nome": "Brejo Grande do Araguaia",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5789,
+    "nome": "CABECEIRA GRANDE",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 5797,
+    "nome": "Concórdia do Pará",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5800,
+    "nome": "CAMPO AZUL",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 5819,
+    "nome": "Curionópolis",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5827,
+    "nome": "CANTAGALO",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 5835,
+    "nome": "Dom Eliseu",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5851,
+    "nome": "Garrafão do Norte",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5860,
+    "nome": "CATUTI",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 5878,
+    "nome": "Mãe do Rio",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5886,
+    "nome": "Chapada Gaúcha",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 5894,
+    "nome": "Medicilândia",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5908,
+    "nome": "CONEGO MARINHO DE MINAS",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 5916,
+    "nome": "Ourilândia do Norte",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5924,
+    "nome": "Confins",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 5932,
+    "nome": "Pacajá",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5940,
+    "nome": "Corrego Fundo",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 5959,
+    "nome": "Parauapebas",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5967,
+    "nome": "CRISOLITA",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 5975,
+    "nome": "Rurópolis",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 5991,
+    "nome": "Santa Maria das Barreiras",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 6009,
+    "nome": "CURRAL DE DENTRO",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 6017,
+    "nome": "Amapá",
+    "nome_uf": "AMAPÁ",
+    "sigla_uf": "AP"
+  },
+  {
+    "id": 6033,
+    "nome": "Calcoene",
+    "nome_uf": "AMAPÁ",
+    "sigla_uf": "AP"
+  },
+  {
+    "id": 6041,
+    "nome": "Divisa Alegre",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 6050,
+    "nome": "Macapá",
+    "nome_uf": "AMAPÁ",
+    "sigla_uf": "AP"
+  },
+  {
+    "id": 6076,
+    "nome": "Mazagão",
+    "nome_uf": "AMAPÁ",
+    "sigla_uf": "AP"
+  },
+  {
+    "id": 6084,
+    "nome": "FRANCISCOPOLIS",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 6092,
+    "nome": "Oiapoque",
+    "nome_uf": "AMAPÁ",
+    "sigla_uf": "AP"
+  },
+  {
+    "id": 6114,
+    "nome": "Ferreira Gomes",
+    "nome_uf": "AMAPÁ",
+    "sigla_uf": "AP"
+  },
+  {
+    "id": 6122,
+    "nome": "Fruta de Leite",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 6130,
+    "nome": "Laranjal do Jari",
+    "nome_uf": "AMAPÁ",
+    "sigla_uf": "AP"
+  },
+  {
+    "id": 6149,
+    "nome": "GAMELEIRAS",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 6157,
+    "nome": "Santana",
+    "nome_uf": "AMAPÁ",
+    "sigla_uf": "AP"
+  },
+  {
+    "id": 6165,
+    "nome": "Glaucilândia",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 6173,
+    "nome": "Tartarugalzinho",
+    "nome_uf": "AMAPÁ",
+    "sigla_uf": "AP"
+  },
+  {
+    "id": 6190,
+    "nome": "São Geraldo do Araguaia",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 6203,
+    "nome": "GOIANA",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 6211,
+    "nome": "Ipixuna do Pará",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 6238,
+    "nome": "Ulianopolis",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 6254,
+    "nome": "Breu Branco",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 6270,
+    "nome": "Goianésia do Pará",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 6297,
+    "nome": "Novo Repartimento",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 6300,
+    "nome": "JAPONVAR",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 6319,
+    "nome": "Jacareaçanga",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 6327,
+    "nome": "JENIPAPO DE MINAS",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 6335,
+    "nome": "Novo Progresso",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 6343,
+    "nome": "JOSÉ GONÇALVES DE MINAS",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 6351,
+    "nome": "Trairão",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 6378,
+    "nome": "TERRA SANTA",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 6394,
+    "nome": "Brasil Novo",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 6408,
+    "nome": "JUVENILIA",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 6416,
+    "nome": "Vitória do Xingu",
+    "nome_uf": "PARÁ",
+    "sigla_uf": "PA"
+  },
+  {
+    "id": 6424,
+    "nome": "LEME DO PRADO",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 6432,
+    "nome": "Acrelândia",
+    "nome_uf": "ACRE",
+    "sigla_uf": "AC"
+  },
+  {
+    "id": 6459,
+    "nome": "Bujari",
+    "nome_uf": "ACRE",
+    "sigla_uf": "AC"
+  },
+  {
+    "id": 6467,
+    "nome": "LUISLANDIA",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 6475,
+    "nome": "Capixaba",
+    "nome_uf": "ACRE",
+    "sigla_uf": "AC"
+  },
+  {
+    "id": 6483,
+    "nome": "Mário Campos",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 6491,
+    "nome": "Porto Acre",
+    "nome_uf": "ACRE",
+    "sigla_uf": "AC"
+  },
+  {
+    "id": 6505,
+    "nome": "MARTINS SOARES",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 6513,
+    "nome": "Epitaciolândia",
+    "nome_uf": "ACRE",
+    "sigla_uf": "AC"
+  },
+  {
+    "id": 6530,
+    "nome": "Jordão",
+    "nome_uf": "ACRE",
+    "sigla_uf": "AC"
+  },
+  {
+    "id": 6556,
+    "nome": "Marechal Thaumaturgo",
+    "nome_uf": "ACRE",
+    "sigla_uf": "AC"
+  },
+  {
+    "id": 6564,
+    "nome": "NAQUE",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 6572,
+    "nome": "Porto Walter",
+    "nome_uf": "ACRE",
+    "sigla_uf": "AC"
+  },
+  {
+    "id": 6599,
+    "nome": "Rodrigues Alves",
+    "nome_uf": "ACRE",
+    "sigla_uf": "AC"
+  },
+  {
+    "id": 6602,
+    "nome": "NINHEIRA",
+    "nome_uf": "MINAS GERAIS",
+    "sigla_uf": "MG"
+  },
+  {
+    "id": 6610,
+    "nome": "Santa Rosa",
+    "nome_uf": "ACRE",
+    "sigla_uf": "AC"
+  }
+]
