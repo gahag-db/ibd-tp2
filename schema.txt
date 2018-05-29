@@ -12,3 +12,6 @@ UASGs
 
 Contratos
   pk:(fk:Licitação, fk:Fornecedor), data de assinatura
+
+Municipios
+  pk: ID, nome, sigla_uf, nome_uf
