@@ -1,17 +1,17 @@
 Fornecedores
-  ​pk:ID, CNPJ​, Nome, UF
+  ​pk:id, cnpj​, nome, uf
 
 Órgãos
-  ​pk: ID​, Nome, Esfera
+  ​pk:id​, nome, esfera
 
 Municipios
-  pk: ID, nome, sigla_uf, nome_uf
+  pk:id, nome, nome_uf, sigla_uf
 
 UASGs
-  ​pk: ID​, Nome, CEP, fk:Município, fk:Órgão
+  ​pk:id​, nome, cep, fk:municipio, fk:orgao
 
 Licitações
-  ​pk: ID​, Modalidade, fk:UASG
+  ​pk:id​, modalidade, fk:uasg
 
 Contratos
-  pk:(fk:Licitação, fk:Fornecedor), data de assinatura
+  pk:(fk:licitação, fk:fornecedor), data
