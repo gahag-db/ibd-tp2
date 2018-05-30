@@ -48,3 +48,5 @@ for api in ${apis[@]}; do
     echo "]"
   } > data/processed/$api.json
 done
+
+scripts/postprocess.py
