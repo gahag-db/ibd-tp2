@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 cat data/sql/fornecedores.sql \
+    data/sql/modalidades.sql \
     data/sql/orgaos.sql \
     data/sql/municipios.sql \
     data/sql/uasgs.sql \

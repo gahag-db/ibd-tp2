@@ -18,6 +18,7 @@ class DataFile:
 
 
 fornecedores = DataFile("data/processed/fornecedores.json")
+modalidades  = DataFile("data/processed/modalidades.json")
 licitacoes   = DataFile("data/processed/licitacoes.json")
 contratos    = DataFile("data/processed/contratos.json")
 
@@ -28,6 +29,13 @@ def process_fornecedores():
     forc for forc in fornecedores.data
           if forc["cnpj"] in required
   ])
+
+
+def process_modalidades():
+  for m in modalidades.data:
+    m["descricao"] = m["descricao"].strip()
+  
+  modalidades.save()
 
     
 def process_licitacoes():
@@ -79,5 +87,6 @@ def process_contratos():
 
 if __name__ == "__main__":
   process_fornecedores()
+  process_modalidades()
   process_licitacoes()
   process_contratos()

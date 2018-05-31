@@ -7,6 +7,7 @@ apis=(
   "uasgs"
   "contratos"
   "municipios"
+  "modalidades"
 )
 
 
@@ -75,6 +76,15 @@ function query-municipios {
       , "nome"     : .nome
       , "nome_uf"  : .nome_uf
       , "sigla_uf" : .sigla_uf 
+      }
+  ]' $@
+}
+
+function query-modalidades {
+  jq '[
+    ._embedded.ModalidadesLicitacao[] 
+    | { "id"        : .codigo
+      , "descricao" : .descricao
       }
   ]' $@
 }

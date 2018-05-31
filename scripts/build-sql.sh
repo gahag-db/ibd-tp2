@@ -7,6 +7,7 @@ tables=(
   "uasgs"
   "contratos"
   "municipios"
+  "modalidades"
 )
 
 for table in "${tables[@]}"; do

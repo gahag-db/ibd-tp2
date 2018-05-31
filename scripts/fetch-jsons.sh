@@ -7,6 +7,7 @@ declare -A apis=(
   ["orgaos"]="http://compras.dados.gov.br/licitacoes/v1/orgaos.json"
   ["contratos"]="http://compras.dados.gov.br/contratos/v1/contratos.json"
   ["municipios"]="http://compras.dados.gov.br/fornecedores/v1/municipios.json"
+  ["modalidades"]="http://compras.dados.gov.br/licitacoes/v1/modalidades_licitacao.json"
 )
 
 declare -A limits=(
@@ -16,6 +17,7 @@ declare -A limits=(
   ["uasgs"]="$(seq 0 500 28054)"
   ["contratos"]="$(seq 0 500 10000)"
   ["municipios"]="$(seq 0 500 5000)"
+  ["modalidades"]="0"
 )
 
 

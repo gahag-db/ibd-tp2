@@ -7,11 +7,14 @@ Fornecedores
 Municipios
   pk:id, nome, nome_uf, sigla_uf
 
+Modalidades
+  pk:id, descricao
+
 UASGs
   ​pk:id​, nome, cep, fk:municipio, fk:orgao
 
 Licitações
-  ​pk:id​, modalidade, fk:uasg
+  ​pk:id​, fk:modalidade, fk:uasg
 
 Contratos
   pk: id, fk:licitação, fk:fornecedor, data

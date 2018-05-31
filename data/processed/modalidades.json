@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "descricao": "CONVITE"
+  },
+  {
+    "id": 2,
+    "descricao": "TOMADA DE PRE\u00c7OS"
+  },
+  {
+    "id": 3,
+    "descricao": "CONCORR\u00caNCIA"
+  },
+  {
+    "id": 4,
+    "descricao": "CONCORR\u00caNCIA INTERNACIONAL"
+  },
+  {
+    "id": 5,
+    "descricao": "PREG\u00c3O"
+  },
+  {
+    "id": 6,
+    "descricao": "DISPENSA DE LICITA\u00c7\u00c3O"
+  },
+  {
+    "id": 7,
+    "descricao": "INEXIGIBILIDADE DE LICITA\u00c7\u00c3O"
+  },
+  {
+    "id": 20,
+    "descricao": "CONCURSO"
+  },
+  {
+    "id": 22,
+    "descricao": "TOMADA DE PRE\u00c7OS POR T\u00c9CNICA E PRE\u00c7O"
+  },
+  {
+    "id": 33,
+    "descricao": "CONCORR\u00caNCIA POR T\u00c9CNICA E PRE\u00c7O"
+  },
+  {
+    "id": 44,
+    "descricao": "CONCORR\u00caNCIA INTERNACIONAL POR T\u00c9CNICA E PRE\u00c7O"
+  },
+  {
+    "id": 99,
+    "descricao": "RDC"
+  }
+]
