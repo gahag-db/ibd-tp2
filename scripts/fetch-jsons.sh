@@ -10,7 +10,7 @@ declare -A apis=(
 )
 
 declare -A limits=(
-  ["fornecedores"]="$(seq 0 500 10000)"
+  ["fornecedores"]="$(seq 0 500 391825)"
   ["licitacoes"]="$(seq 0 500 1023999)"
   ["orgaos"]="0 500"
   ["uasgs"]="$(seq 0 500 28054)"

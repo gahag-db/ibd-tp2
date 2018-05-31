@@ -1,4 +1,3 @@
-DROP TABLE IF EXISTS Fornecedores;
 CREATE TABLE Fornecedores(
    id   INTEGER  NOT NULL PRIMARY KEY 
   ,cnpj VARCHAR(14)

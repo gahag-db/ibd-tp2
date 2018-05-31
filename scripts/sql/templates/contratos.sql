@@ -1,10 +1,9 @@
-DROP TABLE IF EXISTS Contratos;
 CREATE TABLE Contratos(
-   licitacao  BIGINT  NOT NULL
+  id          VARCHAR(17) NOT NULL PRIMARY KEY
+  ,licitacao  VARCHAR(17)  NOT NULL
   ,fornecedor INTEGER  NOT NULL
   ,data       DATE  NOT NULL
-  ,PRIMARY KEY(licitacao,fornecedor)
   ,FOREIGN KEY (licitacao) REFERENCES Licitacoes(id)
   ,FOREIGN KEY (fornecedor) REFERENCES Fornecedores(id)
 );
-INSERT INTO Contratos(licitacao,fornecedor,data) VALUES
+INSERT INTO Contratos(id,licitacao,fornecedor,data) VALUES

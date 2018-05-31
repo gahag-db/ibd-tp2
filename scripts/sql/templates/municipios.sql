@@ -1,4 +1,3 @@
-DROP TABLE IF EXISTS Municipios;
 CREATE TABLE Municipios(
    id       INTEGER  NOT NULL PRIMARY KEY 
   ,nome     VARCHAR(40) NOT NULL

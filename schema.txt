@@ -14,4 +14,4 @@ Licitações
   ​pk:id​, modalidade, fk:uasg
 
 Contratos
-  pk:(fk:licitação, fk:fornecedor), data
+  pk: id, fk:licitação, fk:fornecedor, data
