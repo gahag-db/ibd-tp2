@@ -7,4 +7,5 @@ mysql -p tp2 <<EOF
   DROP TABLE IF EXISTS Municipios;
   DROP TABLE IF EXISTS Orgaos;
   DROP TABLE IF EXISTS Fornecedores;
+  DROP TABLE IF EXISTS Modalidades;
 EOF
