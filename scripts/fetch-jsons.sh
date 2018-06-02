@@ -15,7 +15,7 @@ declare -A limits=(
   ["licitacoes"]="$(seq 0 500 1023999)"
   ["orgaos"]="0 500"
   ["uasgs"]="$(seq 0 500 28054)"
-  ["contratos"]="$(seq 0 500 10000)"
+  ["contratos"]="$(seq 0 500 30000)"
   ["municipios"]="$(seq 0 500 5000)"
   ["modalidades"]="0"
 )
