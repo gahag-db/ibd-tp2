@@ -19,6 +19,7 @@ class DataFile:
 
 fornecedores = DataFile("data/processed/fornecedores.json")
 modalidades  = DataFile("data/processed/modalidades.json")
+uasgs        = DataFile("data/processed/uasgs.json")
 licitacoes   = DataFile("data/processed/licitacoes.json")
 contratos    = DataFile("data/processed/contratos.json")
 
@@ -40,9 +41,10 @@ def process_modalidades():
     
 def process_licitacoes():
   required = set(c["licitacao"] for c in contratos.data)
+  avail_uasgs = set(u["id"] for u in uasgs.data)
   licitacoes.save([
     lic for lic in licitacoes.data
-          if lic["id"] in required
+          if lic["id"] in required and lic["uasg"] in avail_uasgs
   ])
 
 
