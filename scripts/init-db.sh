@@ -7,4 +7,4 @@ cat data/sql/fornecedores.sql \
     data/sql/uasgs.sql \
     data/sql/licitacoes.sql \
     data/sql/contratos.sql \
-  | mysql -p tp2
+  | mysql -p$1 tp2

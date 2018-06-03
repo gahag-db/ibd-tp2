@@ -5,21 +5,21 @@
 # echo
 
 echo Processing.
-scripts/process-jsons.sh
+time scripts/process-jsons.sh
 echo
 
 echo Normalizing.
-scripts/normalize-jsons.py
+time scripts/normalize-jsons.py
 echo
 
 echo Building sql.
-scripts/build-sql.sh
+time scripts/build-sql.sh
 echo
 
 echo Dropping db.
-scripts/drop-db.sh
+time scripts/drop-db.sh $1
 echo
 
 echo Init db.
-scripts/init-db.sh
+time scripts/init-db.sh $1
 echo
