@@ -1,11 +1,11 @@
 #1 ID das licitações que envolvem o órgão Senado Federal 
 --Versão 1
 SELECT Licitacoes.id FROM Licitacoes JOIN UASGs ON (Licitacoes.uasg = UASGs.id) JOIN Orgaos ON (UASGs.orgao = Orgaos.id)
-WHERE Orgao.name ~* 'SENADO FEDERAL'
+WHERE Orgao.nome ~* 'SENADO FEDERAL'
 --Versão 2
 SELECT Licitacoes.id FROM Licitacoes, UASGs, Orgaos 
 WHERE Licitacoes.uasg = UASGs.id AND UASGs.orgao = Orgaos.id
-AND Orgao.name ~* 'SENADO FEDERAL'
+AND Orgao.nome ~* 'SENADO FEDERAL'
 --Versão 3
 SELECT Licitacoes.id FROM Licitacoes JOIN UASGs ON (Licitacoes.uasg = UASGs.id) 
 WHERE UASGs.orgao = 2000 OR UASGs.orgao = 2001 OR UASGs.orgao = 2002
