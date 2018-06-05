@@ -1,0 +1,10 @@
+ 1 - O ID das licitações que envolvem o órgão "Senado Federal".
+ 2 - O ID e o nome dos fornecedores do DF com contratações de 2012.
+ 3 - O ID e o nome das licitações envolvidas com órgãos que contém no nome "Turismo".
+ 4 - O ID das licitações cuja modalidade é "PREGÃO" ou "TOMADA DE PREÇOS".
+ 5 - O ID das licitações que envolvem o ministério do turismo e cujo município é "Brasília".
+ 6 - O ID e o número de contratos das licitações que envolvem dois ou mais contratos.
+ 7 - O ID das contratações que nao possuem licitações cuja modalidade possui a descrição pregão [erro].
+ 8 - O ID e o nome dos fornecedores que não possuem contratos iniciados em 2012? [erro].
+ 9 - O ID e o nome dos fornecedores que não possuem contratos iniciados antes de "2007-12-28".
+10 - O ID e o nome dos forncedores não vem de MG.
