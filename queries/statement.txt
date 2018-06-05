@@ -1,4 +1,4 @@
- 1 - O ID das licitações que envolvem o órgão "Senado Federal".
+ 1 - O número de licitações que envolvem o órgão "Senado Federal".
  2 - O ID e o nome dos fornecedores do DF com contratações de 2012.
  3 - O ID das licitações envolvidas com órgãos que contém no nome "Turismo".
  4 - O ID das licitações cuja modalidade é "PREGÃO" ou "TOMADA DE PREÇOS".
