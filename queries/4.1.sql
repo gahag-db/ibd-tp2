@@ -1,4 +1,4 @@
 SELECT Licitacoes.id
-FROM Licitações, Modalidade
-WHERE Licitacoes.modalidade = Modalidade.id 
-  AND (Modalidade.nome ~* 'PREGÃO' OR Modalidade.nome ~* 'TOMADA DE PREÇOS')
+FROM Licitacoes, Modalidades
+WHERE Licitacoes.modalidade = Modalidades.id 
+  AND (Modalidades.descricao = 'PREGÃO' OR Modalidades.descricao = 'TOMADA DE PREÇOS')

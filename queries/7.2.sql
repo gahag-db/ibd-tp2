@@ -1,5 +1,5 @@
 SELECT Contratos.id
-FROM Contratos,Licitacoes, Modalidade 
+FROM Contratos,Licitacoes, Modalidades 
 WHERE Contratos.licitacao = Licitacoes.id
-  AND Licitacoes.modalidade = Modalidade.id
-  AND Modalidade.descricao != 'PREGÃO'
+  AND Licitacoes.modalidade = Modalidades.id
+  AND Modalidades.descricao != 'PREGÃO'

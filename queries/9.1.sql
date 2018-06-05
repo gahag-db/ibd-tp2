@@ -1,5 +1,5 @@
-SELECT Fornecedores.nome, Fornecedores.id
+SELECT Fornecedores.id, Fornecedores.nome
 FROM Fornecedores
   LEFT JOIN Contratos ON (Fornecedores.id = Contratos.fornecedor) 
 WHERE Contratos.data < '2007-12-28'
-  AND datab407.id IS NULL;
+  AND Contratos.id IS NULL;

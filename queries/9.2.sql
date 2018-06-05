@@ -1,4 +1,4 @@
-SELECT Fornecedores.nome, Fornecedores.id
+SELECT Fornecedores.id, Fornecedores.nome
 FROM Fornecedores
   LEFT JOIN (
     SELECT fornecedor, id
