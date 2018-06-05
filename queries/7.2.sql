@@ -1,5 +1,9 @@
-SELECT Contratos.id
-FROM Contratos,Licitacoes, Modalidades 
-WHERE Contratos.licitacao = Licitacoes.id
-  AND Licitacoes.modalidade = Modalidades.id
-  AND Modalidades.descricao != 'PREGÃO'
+SELECT Count(*)
+FROM Contratos
+WHERE NOT EXISTS (
+  SELECT L.id
+  FROM Licitacoes L, 
+    Modalidades M WHERE L.modalidade = M.id
+  AND Contratos.licitacao = L.id
+    AND M.descricao = 'PREGÃO'
+)

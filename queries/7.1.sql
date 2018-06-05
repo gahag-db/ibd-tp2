@@ -1,5 +1,9 @@
-SELECT Contratos.id
+SELECT Count(*)
 FROM Contratos
-  INNER JOIN Licitacoes ON (Contratos.licitacao = Licitacoes.id)
-  INNER JOIN Modalidades ON (Licitacoes.modalidade = Modalidades.id)
-WHERE Modalidades.descricao != 'PREGÃO'
+WHERE NOT EXISTS (
+  SELECT L.id
+  FROM Licitacoes L
+    INNER JOIN Modalidades M ON L.modalidade = M.id
+  WHERE Contratos.licitacao = L.id
+    AND M.descricao = 'PREGÃO'
+)
