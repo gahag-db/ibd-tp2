@@ -1,23 +1,29 @@
 \documentclass{article}
 
+\usepackage[T1]{fontenc}
+\usepackage[hidelinks]{hyperref}
 \usepackage[margin=1in]{geometry}
+\usepackage[noend]{algpseudocode}
 \usepackage[portuges]{babel}
 \usepackage[utf8]{inputenc}
-\usepackage[hidelinks]{hyperref}
-\usepackage{amsmath}
-\usepackage{indentfirst}
-\usepackage{minted}
-\usemintedstyle{manni}
-\usepackage{graphicx}
-\usepackage{multicol,lipsum}
-\usepackage{svg}
-\usepackage[T1]{fontenc}
-\usepackage{microtype}
 \usepackage{algorithm}
-\usepackage[noend]{algpseudocode}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{graphicx}
+\usepackage{indentfirst}
 \usepackage{mathtools}
+\usepackage{microtype}
+\usepackage{minted}
+\usepackage{multicol,lipsum}
+\usepackage{multirow,multicol}
+\usepackage{svg}
+
 \DeclarePairedDelimiter{\ceil}{\lceil}{\rceil}
 \DisableLigatures[>,<]{encoding = T1,family=tt*} %
+
+\usemintedstyle{manni}
+
 \makeatletter
 \def\BState{\State\hskip-\ALG@thistlm}
 \makeatother
@@ -314,6 +320,141 @@ UASGs.orgao $\rightarrow$ Orgao.id
 \end{itemize}
 \pagebreak
 \section{Resultados}
+\begin{table}[H]
+  \begin{minipage}{.5\linewidth}
+    \centering
+    \begin{tabular}{c}
+      {Count} \\
+      \midrule
+      6 \\
+      \bottomrule
+    \end{tabular}
+    \caption*{Query 1}
+  \end{minipage}
+  \begin{minipage}{.5\linewidth}
+    \centering
+    \begin{tabular}{c}
+      Id \\
+      \midrule
+      54000403000012012 \\
+      54000405000022007 \\
+      54000405000082006 \\
+      54000405000092017 \\
+      54000405000102010 \\
+      \bottomrule
+    \end{tabular}
+    \caption*{Query 5}
+  \end{minipage}
+\end{table}
+
+\begin{table}[H]
+  \centering
+  \begin{tabular}{cl}
+    Id & Nome \\
+    \midrule
+    39073  &	CALEVI MINERADORA E COMERCIO LTDA - EPP \\
+    179674 &	JUDITH FERREIRA DOS SANTOS - ME \\
+    11266  &	J. M. TORRES JORNAIS E REVISTAS LTDA - EPP \\
+    15629  &	DIAMOND - PROMOCOES E EVENTOS LTDA - EPP \\
+    122140 &	M L CONSULTORIA E SERVICOS LTDA - ME \\
+    \multicolumn{2}{c}{\vdots} \\
+    6673   &	REIMAQ ASSISTENCIA TECNICA DE DUPLICADORES EIRELI - EPP \\
+    52078  &	NARA COMERCIAL DE ALIMENTOS LTDA - EPP \\
+    238754 &	CTO SERVICOS EMPRESARIAIS LTDA - ME \\
+    84692  &	PEDRO PORFIRIO DA FONSECA - ME \\
+    19713  &	IT SERVICOS CORPORATIVOS, COMERCIO E EMPREENDIMENTOS EIRELI - EPP \\
+    \bottomrule
+  \end{tabular}
+  \caption*{Query 2}
+\end{table}
+
+\begin{table}[H]
+  \begin{minipage}{.3\linewidth}
+    \centering
+    \begin{tabular}{c}
+      Id \\
+      \midrule
+      18500101000332000 \\
+      18500103000032005 \\
+      18500105000022007 \\
+      18500105000092009 \\
+      18500105000102011 \\
+      \vdots \\
+      54000403000012012 \\
+      54000405000022007 \\
+      54000405000082006 \\
+      54000405000092017 \\
+      54000405000102010 \\
+      \bottomrule
+    \end{tabular}
+    \caption*{Query 3}
+  \end{minipage}
+  \begin{minipage}{.3\linewidth}
+    \centering
+    \begin{tabular}{cc}
+      Id & Count \\
+      \midrule
+      20105705000012017 & 54 \\
+      20105705000022015 & 35 \\
+      11000805000292010 & 17 \\
+      15814605000092015 & 16 \\
+      17013305000122009 & 15 \\
+      \vdots \\
+      51018105000062011	& 3 \\
+      16026505000012010	& 3 \\
+      16029505000062012	& 3 \\
+      16011105000122007	& 3 \\
+      39301405007452009	& 3 \\
+      \bottomrule
+    \end{tabular}
+    \caption*{Query 6}
+  \end{minipage}
+  \begin{minipage}{.3\linewidth}
+    \centering
+    \begin{tabular}{c}
+      Id \\
+      \midrule
+      06000150000022000 \\
+      06000150000012000 \\
+      06000150000011999 \\
+      07000550000011999 \\
+      07001950000012001 \\
+      \vdots \\
+      76500050000012014 \\
+      76570650000022000 \\
+      78280250000022002 \\
+      78360250000011999 \\
+      79158050000022000 \\
+      \bottomrule
+    \end{tabular}
+    \caption*{Query 7}
+  \end{minipage}
+\end{table}
+
+\begin{table}[H]
+  \centering
+  \begin{tabular}{l}
+    \multicolumn{1}{c}{Nome} \\
+    \midrule
+    SAE-CNEN/CENTRO DESENV.TECNOLOGIA NUCLEAR/MG \\
+    UNIDADE ESTADUAL DO IBGE EM MINAS GERAIS \\
+    SUPERINT.FEDERAL DE AGRIC.PECUARIA E ABASTEC. \\
+    DISTRITO DE METEOROLOGIA/MG \\
+    COMPANHIA NACIONAL DE ABASTECIMENTO - CONAB \\
+    \multicolumn{1}{c}{\vdots} \\
+    DELEG.REG.DO TRAB/MINAS GERAIS \\
+    SUP. REG. DO DNIT NO ESTADO DE MINAS GERAIS \\
+    ESCRITÓRIO DE REPRESENTAÇÃO DO IBRAM/MG-ES \\
+    GERÊNCIA REGIONAL EM BELO HORIZONTE \\
+    GERÊNCIA EXECUTIVA BELO HORIZONTE/MG \\
+    \bottomrule
+  \end{tabular}
+  \caption*{Query 4}
+\end{table}
+
+\pagebreak
+
+\subsection{Tempo de Execução}
 O gráfico mostra a comparação dos tempos de execução das duas versões das queries.
 O tempo foi o \textit{user time} do Linux.
 \begin{figure}[H]
