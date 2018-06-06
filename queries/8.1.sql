@@ -1,4 +1,4 @@
-SELECT Contratos.data, Count(*)
+SELECT Fornecedores.nome, Fornecedores.id
 FROM Fornecedores
   INNER JOIN Contratos ON (Fornecedores.id = Contratos.fornecedor)
 WHERE YEAR(Contratos.data) >= 2012 
