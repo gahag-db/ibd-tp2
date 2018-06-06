@@ -49,12 +49,14 @@ def _run_query(ix):
 def plot(indexes, times1, times2):
   ticks = np.arange(len(indexes))
   width = 0.35
-  plt.bar(ticks,         times1, width, color='xkcd:azure')
-  plt.bar(ticks + width, times2, width, color='xkcd:maroon')
+  b1 = plt.bar(ticks,         times1, width, color='xkcd:azure')
+  b2 = plt.bar(ticks + width, times2, width, color='xkcd:maroon')
   
   plt.title("Tempo de execução")
   plt.ylabel("Tempo (s)")
+  plt.xlabel("Query")
   plt.xticks(ticks + width/2, indexes)
+  plt.legend((b1[0], b2[0]), ("Versão 1", "Versão 2"))
   
   plt.savefig(unique_filename(lambda i: "report/graphs/graph" + str(i) + ".svg"))
 
