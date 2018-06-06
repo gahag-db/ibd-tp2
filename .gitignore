@@ -1,4 +1,6 @@
 data/original
 report/_minted-report
 report/svg-inkscape
-report/*.{aux,log,out}
+report/*.aux
+report/*.log
+report/*.out
