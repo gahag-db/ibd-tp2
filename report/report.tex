@@ -73,8 +73,12 @@ O objetivo deste trabalho foi implementar um banco de dados a partir da seguinte
 governamental: compras públicas do governo federal. O projeto será apresentado em aula. Serão apresentados o diagrama
 ER, o esquema relacional e as consultas (comparando as duas versões). O banco de dados foi instanciado
 com dados reais.
-
-
+\section{Descrição dos Dados}
+Os dados possuem números exatos (inteiros), \textit{varchar} e datas.
+\par Em realação à organização, pode-se dizer que, antes dos filtros, os dados estavam bem
+desorganizados,com referência a dados inexistentes, ou seja, uma quebra na restrição de integridade referencial.
+Além disso, havia muita informação desnecessária para o estudo do banco. Dessa forma, com os filtros,
+pegamos apenas as informações relevantes para a análise proposta do banco de dados. 
 \section{Características do Banco de Dados}
 \subsection { Diagrama entidade-relacionamento}
 \subsection {Esquema Relacional}
@@ -108,15 +112,18 @@ UASGs.orgao $\rightarrow$ Orgao.id
       JOIN Orgaos
       ON (UASGs.orgao = Orgaos.id)
       WHERE Orgaos.nome = 'SENADO FEDERAL'
-
+  \end{minted}
+  \pagebreak
+    \begin{minted}[mathescape, gobble=2]{sql}
       SELECT Count(*)
       FROM Licitacoes, UASGs, Orgaos
       WHERE Licitacoes.uasg = UASGs.id
         AND UASGs.orgao = Orgaos.id
         AND Orgaos.nome = 'SENADO FEDERAL'
 
+
   \end{minted}
-  \pagebreak
+
 \item O ID e o número de contratos das licitações que envolvem dois ou mais contratos.
   \begin{minted}[mathescape, gobble=2]{sql}
     SELECT Licitacoes.id,COUNT(*)
@@ -167,7 +174,9 @@ UASGs.orgao $\rightarrow$ Orgao.id
     WHERE Contratos.licitacao = L.id
       AND M.descricao = 'PREGÃO'
     )
-      
+  \end{minted}
+  \pagebreak
+  \begin{minted}[mathescape, gobble=2]{sql}      
     SELECT Contratos.id
     FROM Contratos
     WHERE NOT EXISTS (
@@ -179,7 +188,6 @@ UASGs.orgao $\rightarrow$ Orgao.id
 )
 
   \end{minted}
-  \pagebreak
 \item O ID e o nome dos fornecedores que não possuem contratos iniciados em 2012?.
   \begin{minted}[mathescape, gobble=2]{sql}
     SELECT Fornecedores.nome, Fornecedores.id
@@ -223,7 +231,9 @@ UASGs.orgao $\rightarrow$ Orgao.id
       AND Modalidades.id = Licitacoes.modalidade 
       AND Municipios.nome = 'Belo Horizonte'
       AND Modalidades.descricao = 'PREGÃO'
-
+  \end{minted}
+  \pagebreak
+\begin{minted}[mathescape, gobble=2]{sql}
     SELECT UASGs.nome
     FROM Licitacoes INNER JOIN UASGs
       ON Licitacoes.uasg = UASGs.id
@@ -235,7 +245,7 @@ UASGs.orgao $\rightarrow$ Orgao.id
       AND Modalidades.descricao = 'PREGÃO'
       
   \end{minted}
-\pagebreak
+
 \item O ID das licitações que envolvem o ministério do turismo e cujo município é "Brasília".
   \begin{minted}[mathescape, gobble=2]{sql}
     SELECT Licitacoes.id
@@ -296,7 +306,14 @@ UASGs.orgao $\rightarrow$ Orgao.id
 
     \end{minted}
 \end{itemize}
-\pagebreak
+
+\section{Autoavaliação dos Membros}
+Os membros se autoavaliaram com nota máxima para cada um.
+\begin{itemize}
+\item \textbf{Fernanda:} Ajudou na filtragem do Banco de Dados, fez o relatório em LaTex e corrigiu as queries.
+\item \textbf{Gabriel:} Fez todos os scripts e filtros do Banco de Dados, fez o gráfico, corrigiu as queries, organizou o trabalho no geral.
+\item \textbf{Yasmim: }Fez as queries (as duas versões) e o diagrama ER.
+\end{itemize}
 \section{Conclusão}
 
 \bibliographystyle{plain}
