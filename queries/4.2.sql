@@ -1,4 +1,4 @@
-  SELECT UASGs.nome
+  SELECT DISTINCT UASGs.nome
   FROM Licitacoes INNER JOIN UASGs
     ON Licitacoes.uasg = UASGs.id
     INNER JOIN Municipios

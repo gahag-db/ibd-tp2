@@ -1,4 +1,4 @@
-  SELECT UASGs.nome
+  SELECT DISTINCT UASGs.nome
   FROM Licitacoes, UASGs, Municipios, Modalidades
   WHERE Licitacoes.uasg = UASGs.id
     AND UASGs.municipio = Municipios.id    
