@@ -81,6 +81,13 @@ Além disso, havia muita informação desnecessária para o estudo do banco. Des
 pegamos apenas as informações relevantes para a análise proposta do banco de dados. 
 \section{Características do Banco de Dados}
 \subsection { Diagrama entidade-relacionamento}
+\begin{figure}[H]
+  \begin{center}  
+    \includegraphics[scale = 0.65]{graphs/er.png}    
+  \end{center}  
+  \label{fig:graph}
+\end{figure}
+\pagebreak
 \subsection {Esquema Relacional}
 \noindent
 O esquema relacional, na sua forma textual, é o seguinte: \\[10pt]
@@ -113,7 +120,6 @@ UASGs.orgao $\rightarrow$ Orgao.id
       ON (UASGs.orgao = Orgaos.id)
       WHERE Orgaos.nome = 'SENADO FEDERAL'
   \end{minted}
-  \pagebreak
     \begin{minted}[mathescape, gobble=2]{sql}
       SELECT Count(*)
       FROM Licitacoes, UASGs, Orgaos
@@ -175,7 +181,7 @@ UASGs.orgao $\rightarrow$ Orgao.id
       AND M.descricao = 'PREGÃO'
     )
   \end{minted}
-  \pagebreak
+
   \begin{minted}[mathescape, gobble=2]{sql}      
     SELECT Contratos.id
     FROM Contratos
@@ -204,7 +210,7 @@ UASGs.orgao $\rightarrow$ Orgao.id
 \end{minted}  
     
 \end{itemize}
-
+\pagebreak
 \subsection{Queries que envolvem junção de três ou mais relações}
 \begin{itemize}
 \item[3.]O ID das licitações envolvidas com órgãos que contém no nome "Turismo".
@@ -232,7 +238,7 @@ UASGs.orgao $\rightarrow$ Orgao.id
       AND Municipios.nome = 'Belo Horizonte'
       AND Modalidades.descricao = 'PREGÃO'
   \end{minted}
-  \pagebreak
+
 \begin{minted}[mathescape, gobble=2]{sql}
     SELECT DISTINCT UASGs.nome
     FROM Licitacoes INNER JOIN UASGs
@@ -266,7 +272,7 @@ UASGs.orgao $\rightarrow$ Orgao.id
   \end{minted}
     
 \end{itemize}
-
+\pagebreak
 \subsection{Queries envolvendo projeção e seleção}
 \begin{itemize}
 \item[9.] O ID e o nome dos fornecedores que não possuem contratos iniciados antes de "2007-12-28".
@@ -306,8 +312,8 @@ UASGs.orgao $\rightarrow$ Orgao.id
 
     \end{minted}
 \end{itemize}
-
-\section{Tempo de Execução}
+\pagebreak
+\section{Resultados}
 O gráfico mostra a comparação dos tempos de execução das duas versões das queries.
 O tempo foi o \textit{user time} do Linux.
 \begin{figure}[H]
@@ -324,7 +330,7 @@ Os membros se autoavaliaram com nota máxima para cada um.
 \item \textbf{Gabriel:} Participou na aquisição e normalização do Banco de Dados, na produção do gráfico com o tempo de execução, e na elaboração das queries.
 \item \textbf{Yasmim:} Participou na elaboração das queries e do diagrama ER, além da produção do relatório em LaTex.
 \end{itemize}
-\section{Conclusão}
+
 
 \bibliographystyle{plain}
 \bibliography{refs}
