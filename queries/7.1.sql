@@ -1,4 +1,4 @@
-SELECT Count(*)
+SELECT Contratos.id
 FROM Contratos
 WHERE NOT EXISTS (
   SELECT L.id
