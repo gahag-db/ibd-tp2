@@ -1,0 +1,309 @@
+\documentclass{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage[portuges]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[hidelinks]{hyperref}
+\usepackage{amsmath}
+\usepackage{indentfirst}
+\usepackage{minted}
+\usemintedstyle{manni}
+\usepackage{graphicx}
+\usepackage{multicol,lipsum}
+\usepackage{svg}
+\usepackage[T1]{fontenc}
+\usepackage{microtype}
+\usepackage{algorithm}
+\usepackage[noend]{algpseudocode}
+\usepackage{mathtools}
+\DeclarePairedDelimiter{\ceil}{\lceil}{\rceil}
+\DisableLigatures[>,<]{encoding = T1,family=tt*} %
+\makeatletter
+\def\BState{\State\hskip-\ALG@thistlm}
+\makeatother
+
+\begin{document}
+%\maketitle
+
+\begin{titlepage}
+	\begin{center}
+	  
+		\Huge{Universidade Federal de Minas Gerais}\\			
+		\vspace{15pt}
+    \vspace{95pt}
+    \textbf{\LARGE{Trabalho Prático 2}}\\
+		%\title{{\large{Título}}}
+		\vspace{3,5cm}
+    \begin{figure}[h]
+      \begin{center}
+        \includegraphics[scale = 0.50]{ufmg.png}
+      \end{center}
+     \label{fig:graph}
+    \end{figure}
+    	  
+	\end{center}
+  
+  \begin{flushleft}
+		\begin{tabbing}
+      \textbf {Introdução a Banco de Dados}\\
+      \\
+			  Fernanda Guimarães de Araújo\\
+	      Gabriel Silva Bastos\\
+        Yasmim Cavalcanti de Rezende
+	    \end{tabbing}
+  \end{flushleft}
+  
+	  \vspace{1cm} 
+	\begin{center}
+		\vspace{\fill}
+		Junho\\
+		2018
+	\end{center}
+\end{titlepage}
+
+
+\newpage
+% % % % % % % % % % % % % % % % % % % % % % % % % %
+
+\newpage
+\pagenumbering{arabic}
+% % % % % % % % % % % % % % % % % % % % % % % % % % %
+\section{Introdução}
+O objetivo deste trabalho foi implementar um banco de dados a partir da seguinte base de dados
+governamental: compras públicas do governo federal. O projeto será apresentado em aula. Serão apresentados o diagrama
+ER, o esquema relacional e as consultas (comparando as duas versões). O banco de dados foi instanciado
+com dados reais.
+
+
+\section{Características do Banco de Dados}
+\subsection { Diagrama entidade-relacionamento}
+\subsection {Esquema Relacional}
+\noindent
+O esquema relacional, na sua forma textual, é o seguinte: \\[10pt]
+Fornecedores : (\underline{id}, cnpj, nome, uf) \\
+Orgaos: (\underline{id}, nome, esfera) \\
+Municipios: (\underline{id}, nome, nome, sigla,nome\_uf, sigla\_uf) \\
+Modalidades: (\underline{id}, descricao) \\
+UASGs: (\underline{id}, nome, CEP, municipio, orgao) \\
+Licitacoes: (\underline{id}, modalidade, uasg) \\
+Contratos: (\underline{id}, licitacao, fornecedor, data) \\[5pt]
+Contratos.licitacao $\rightarrow$ Licitacao.id \\
+Contratos.fornecedor $\rightarrow$ Fornecedor.id \\
+Licitacoes.modalidade $\rightarrow$ Modalidade.id \\
+UASGs.municipio $\rightarrow$ Municipio.id \\
+UASGs.orgao $\rightarrow$ Orgao.id
+
+
+\section{Comandos SQL}
+
+\noindent
+\subsection{Queries que envolvem agregações de duas ou mais juncoes}
+\begin{itemize}
+\item O número de licitações que envolvem o órgão "Senado Federal".
+  \begin{minted}[mathescape, gobble=2]{sql}
+    SELECT Count(*)
+    FROM Licitacoes
+      JOIN UASGs
+      ON (Licitacoes.uasg = UASGs.id)
+      JOIN Orgaos
+      ON (UASGs.orgao = Orgaos.id)
+      WHERE Orgaos.nome = 'SENADO FEDERAL'
+
+      SELECT Count(*)
+      FROM Licitacoes, UASGs, Orgaos
+      WHERE Licitacoes.uasg = UASGs.id
+        AND UASGs.orgao = Orgaos.id
+        AND Orgaos.nome = 'SENADO FEDERAL'
+
+  \end{minted}
+  \pagebreak
+\item O ID e o número de contratos das licitações que envolvem dois ou mais contratos.
+  \begin{minted}[mathescape, gobble=2]{sql}
+    SELECT Licitacoes.id,COUNT(*)
+    FROM Licitacoes, Contratos 
+    WHERE Licitacoes.id = Contratos.licitacao
+      GROUP BY Licitacoes.id
+      HAVING COUNT(*) > 2
+      ORDER BY COUNT(*) DESC
+  \end{minted}
+    
+  \begin{minted}[mathescape, gobble=2]{sql}
+    SELECT Licitacoes.id, COUNT(*)
+    FROM Licitacoes
+      INNER JOIN Contratos ON (Licitacoes.id = Contratos.licitacao)
+    GROUP BY Licitacoes.id
+      HAVING COUNT(*) > 2
+    ORDER BY COUNT(*) DESC
+  \end{minted}
+  
+\end{itemize}
+ 
+\subsection{Queries com junção de duas relações}
+\begin{itemize}
+\item O ID e o nome dos fornecedores do DF com contratações de 2012.
+  \begin{minted}[mathescape, gobble=2]{sql}
+    SELECT Fornecedores.id, Fornecedores.nome
+    FROM Fornecedores, Contratos 
+    WHERE Fornecedores.id = Contratos.fornecedor
+      AND YEAR(Contratos.data) = 2012
+      AND Fornecedores.uf = 'DF'
+
+    SELECT Fornecedores.id, Fornecedores.nome
+    FROM Fornecedores
+      INNER JOIN Contratos ON (Fornecedores.id = Contratos.fornecedor)
+    WHERE YEAR(Contratos.data) = 2012
+      AND Fornecedores.uf = 'DF'
+  
+\end{minted}  
+\item O ID das contratações que nao possuem licitações cuja modalidade é "PREGÃO".
+  \begin{minted}[mathescape, gobble=2]{sql}
+    SELECT Contratos.id
+    FROM Contratos
+    WHERE NOT EXISTS (
+    SELECT L.id
+    FROM Licitacoes L
+      INNER JOIN Modalidades M
+      ON L.modalidade = M.id
+    WHERE Contratos.licitacao = L.id
+      AND M.descricao = 'PREGÃO'
+    )
+      
+    SELECT Contratos.id
+    FROM Contratos
+    WHERE NOT EXISTS (
+      SELECT L.id
+      FROM Licitacoes L, 
+        Modalidades M WHERE L.modalidade = M.id
+      AND Contratos.licitacao = L.id
+      AND M.descricao = 'PREGÃO'
+)
+
+  \end{minted}
+  \pagebreak
+\item O ID e o nome dos fornecedores que não possuem contratos iniciados em 2012?.
+  \begin{minted}[mathescape, gobble=2]{sql}
+    SELECT Fornecedores.nome, Fornecedores.id
+    FROM Fornecedores
+      INNER JOIN Contratos
+      ON (Fornecedores.id = Contratos.fornecedor)
+      WHERE YEAR(Contratos.data) >= 2012
+
+    SELECT Fornecedores.nome, Fornecedores.id
+    FROM Fornecedores,
+      Contratos WHERE (Fornecedores.id = Contratos.fornecedor)
+    AND YEAR(Contratos.data) >= 2012 
+      
+\end{minted}  
+    
+\end{itemize}
+
+\subsection{Queries que envolvem junção de três ou mais relações}
+\begin{itemize}
+\item O ID das licitações envolvidas com órgãos que contém no nome "Turismo".
+  \begin{minted}[mathescape, gobble=2]{sql}
+    SELECT Licitacoes.id
+    FROM Licitacoes, UASGs, Orgaos
+    WHERE Licitacoes.uasg = UASGs.id
+      AND UASGs.orgao = Orgaos.id
+      AND Orgaos.nome LIKE '%Turismo%'
+
+    SELECT Licitacoes.id
+    FROM Licitacoes
+      INNER JOIN UASGs ON (Licitacoes.uasg = UASGs.id)
+      INNER JOIN Orgaos ON (UASGs.orgao = Orgaos.id) 
+    WHERE Orgaos.nome LIKE '%Turismo%'
+  
+\end{minted}  
+\item O nome das UASGs que possuem licitações no município "Belo Horizonte" cuja modalidade é "PREGÃO".
+  \begin{minted}[mathescape, gobble=2]{sql}
+    SELECT UASGs.nome
+    FROM Licitacoes, UASGs, Municipios, Modalidades
+    WHERE Licitacoes.uasg = UASGs.id
+      AND UASGs.municipio = Municipios.id    
+      AND Modalidades.id = Licitacoes.modalidade 
+      AND Municipios.nome = 'Belo Horizonte'
+      AND Modalidades.descricao = 'PREGÃO'
+
+    SELECT UASGs.nome
+    FROM Licitacoes INNER JOIN UASGs
+      ON Licitacoes.uasg = UASGs.id
+      INNER JOIN Municipios
+        ON UASGs.municipio = Municipios.id
+      INNER JOIN Modalidades
+        ON Modalidades.id = Licitacoes.modalidade
+      AND Municipios.nome = 'Belo Horizonte'
+      AND Modalidades.descricao = 'PREGÃO'
+      
+  \end{minted}
+\pagebreak
+\item O ID das licitações que envolvem o ministério do turismo e cujo município é "Brasília".
+  \begin{minted}[mathescape, gobble=2]{sql}
+    SELECT Licitacoes.id
+    FROM Licitacoes, UASGs, Orgaos, Municipios
+    WHERE Licitacoes.uasg = UASGs.id
+      AND UASGs.orgao = Orgaos.id
+      AND UASGs.municipio = Municipios.id 
+      AND Orgaos.nome = 'MINISTERIO DO TURISMO'
+      AND Municipios.nome = 'BRASÍLIA'
+
+    SELECT Licitacoes.id
+    FROM Licitacoes
+      INNER JOIN UASGs ON (Licitacoes.uasg = UASGs.id)
+      INNER JOIN Orgaos ON (UASGs.orgao = Orgaos.id)
+      INNER JOIN Municipios ON (UASGs.municipio = Municipios.id)
+    WHERE Orgaos.nome = 'MINISTERIO DO TURISMO'
+      AND Municipios.nome = 'BRASÍLIA'
+  \end{minted}
+    
+\end{itemize}
+
+\subsection{Queries envolvendo projeção e seleção}
+\begin{itemize}
+\item O ID e o nome dos fornecedores que não possuem contratos iniciados antes de "2007-12-28".
+  \begin{minted}[mathescape, gobble=2]{sql}
+    SELECT Fornecedores.id, Fornecedores.nome
+    FROM Fornecedores
+    WHERE Fornecedores.id NOT IN (
+      SELECT Fornecedores.id
+      FROM Fornecedores
+        INNER JOIN Contratos
+          ON Fornecedores.id = Contratos.fornecedor
+      WHERE Contratos.data < '2007-12-28')
+      
+    SELECT Fornecedores.id, Fornecedores.nome
+    FROM Fornecedores
+      LEFT JOIN (
+        SELECT fornecedor, id
+        FROM Contratos
+        WHERE data < '2007-12-28'
+      ) AS datab407
+        ON Fornecedores.id = datab407.fornecedor 
+    WHERE datab407.id IS NULL;
+    \end{minted}
+\item O ID e o nome dos forncedores não vem de MG.
+  \begin{minted}[mathescape, gobble=2]{sql}
+    SELECT Fornecedores.id, Fornecedores.nome
+    FROM Fornecedores
+    WHERE Fornecedores.uf <> 'MG'
+
+    SELECT Fornecedores.id, Fornecedores.nome
+    FROM Fornecedores
+    WHERE Fornecedores.id NOT IN (
+      SELECT Fornecedores.id
+      FROM Fornecedores
+	    WHERE Fornecedores.uf = 'MG'
+    )
+
+    \end{minted}
+\end{itemize}
+\pagebreak
+\section{Conclusão}
+
+\bibliographystyle{plain}
+\bibliography{refs}
+
+
+\end{document}
+
+
+
