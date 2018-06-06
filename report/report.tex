@@ -149,13 +149,13 @@ UASGs.orgao $\rightarrow$ Orgao.id
 \begin{itemize}
 \item O ID e o nome dos fornecedores do DF com contratações de 2012.
   \begin{minted}[mathescape, gobble=2]{sql}
-    SELECT Fornecedores.id, Fornecedores.nome
+    SELECT Fornecedores.nome, Fornecedores.id
     FROM Fornecedores, Contratos 
     WHERE Fornecedores.id = Contratos.fornecedor
       AND YEAR(Contratos.data) = 2012
       AND Fornecedores.uf = 'DF'
 
-    SELECT Fornecedores.id, Fornecedores.nome
+    SELECT Fornecedores.nome, Fornecedores.id
     FROM Fornecedores
       INNER JOIN Contratos ON (Fornecedores.id = Contratos.fornecedor)
     WHERE YEAR(Contratos.data) = 2012
@@ -224,7 +224,7 @@ UASGs.orgao $\rightarrow$ Orgao.id
 \end{minted}  
 \item O nome das UASGs que possuem licitações no município "Belo Horizonte" cuja modalidade é "PREGÃO".
   \begin{minted}[mathescape, gobble=2]{sql}
-    SELECT UASGs.nome
+    SELECT DISTINCT UASGs.nome
     FROM Licitacoes, UASGs, Municipios, Modalidades
     WHERE Licitacoes.uasg = UASGs.id
       AND UASGs.municipio = Municipios.id    
@@ -234,7 +234,7 @@ UASGs.orgao $\rightarrow$ Orgao.id
   \end{minted}
   \pagebreak
 \begin{minted}[mathescape, gobble=2]{sql}
-    SELECT UASGs.nome
+    SELECT DISTINCT UASGs.nome
     FROM Licitacoes INNER JOIN UASGs
       ON Licitacoes.uasg = UASGs.id
       INNER JOIN Municipios
@@ -307,12 +307,22 @@ UASGs.orgao $\rightarrow$ Orgao.id
     \end{minted}
 \end{itemize}
 
+\section{Tempo de Execução}
+O gráfico mostra a comparação dos tempos de execução das duas versões das queries.
+O tempo foi o \textit{user time} do Linux.
+\begin{figure}[H]
+  \begin{center}  
+    \includesvg[width=.60\linewidth]{graphs/graph0}    
+  \end{center}  
+  \label{fig:graph}
+\end{figure}
+
 \section{Autoavaliação dos Membros}
 Os membros se autoavaliaram com nota máxima para cada um.
 \begin{itemize}
 \item \textbf{Fernanda:} Ajudou na filtragem do Banco de Dados, fez o relatório em LaTex e corrigiu as queries.
 \item \textbf{Gabriel:} Fez todos os scripts e filtros do Banco de Dados, fez o gráfico, corrigiu as queries, organizou o trabalho no geral.
-\item \textbf{Yasmim: }Fez as queries (as duas versões) e o diagrama ER.
+\item \textbf{Yasmim:}Fez as queries (as duas versões) e o diagrama ER.  
 \end{itemize}
 \section{Conclusão}
 
