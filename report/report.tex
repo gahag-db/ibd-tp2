@@ -32,39 +32,39 @@
 %\maketitle
 
 \begin{titlepage}
-	\begin{center}
-	  
-		\Huge{Universidade Federal de Minas Gerais}\\			
-		\vspace{15pt}
+  \begin{center}
+    
+    \Huge{Universidade Federal de Minas Gerais}\\     
+    \vspace{15pt}
     \vspace{95pt}
     \textbf{\LARGE{Trabalho Prático 2}}\\
-		%\title{{\large{Título}}}
-		\vspace{3,5cm}
+    %\title{{\large{Título}}}
+    \vspace{3,5cm}
     \begin{figure}[h]
       \begin{center}
         \includegraphics[scale = 0.50]{ufmg.png}
       \end{center}
      \label{fig:graph}
     \end{figure}
-    	  
-	\end{center}
+        
+  \end{center}
   
   \begin{flushleft}
-		\begin{tabbing}
+    \begin{tabbing}
       \textbf {Introdução a Banco de Dados}\\
       \\
-			  Fernanda Guimarães de Araújo\\
-	      Gabriel Silva Bastos\\
+        Fernanda Guimarães de Araújo\\
+        Gabriel Silva Bastos\\
         Yasmim Cavalcanti de Rezende
-	    \end{tabbing}
+      \end{tabbing}
   \end{flushleft}
   
-	  \vspace{1cm} 
-	\begin{center}
-		\vspace{\fill}
-		Junho\\
-		2018
-	\end{center}
+    \vspace{1cm} 
+  \begin{center}
+    \vspace{\fill}
+    Junho\\
+    2018
+  \end{center}
 \end{titlepage}
 
 
@@ -81,17 +81,15 @@ ER, o esquema relacional e as consultas (comparando as duas versões). O banco d
 com dados reais.
 \section{Descrição dos Dados}
 Os dados possuem números exatos (inteiros), \textit{varchar} e datas.
-\par Em realação à organização, pode-se dizer que, antes dos filtros, os dados estavam bem
+Em realação à organização, pode-se dizer que, antes dos filtros, os dados estavam bem
 desorganizados,com referência a dados inexistentes, ou seja, uma quebra na restrição de integridade referencial.
 Além disso, havia muita informação desnecessária para o estudo do banco. Dessa forma, com os filtros,
 pegamos apenas as informações relevantes para a análise proposta do banco de dados. 
 \section{Características do Banco de Dados}
-\subsection { Diagrama entidade-relacionamento}
+\subsection{Diagrama entidade-relacionamento}
 \begin{figure}[H]
-  \begin{center}  
-    \includegraphics[scale = 0.65]{graphs/er.png}    
-  \end{center}  
-  \label{fig:graph}
+  \centering
+  \includesvg{graphs/er}
 \end{figure}
 \pagebreak
 \subsection {Esquema Relacional}
@@ -313,15 +311,17 @@ UASGs.orgao $\rightarrow$ Orgao.id
     WHERE Fornecedores.id NOT IN (
       SELECT Fornecedores.id
       FROM Fornecedores
-	    WHERE Fornecedores.uf = 'MG'
+      WHERE Fornecedores.uf = 'MG'
     )
 
     \end{minted}
 \end{itemize}
+
 \pagebreak
+
 \section{Resultados}
 \begin{table}[H]
-  \begin{minipage}{.5\linewidth}
+  \begin{minipage}{.1\linewidth}
     \centering
     \begin{tabular}{c}
       {Count} \\
@@ -331,45 +331,7 @@ UASGs.orgao $\rightarrow$ Orgao.id
     \end{tabular}
     \caption*{Query 1}
   \end{minipage}
-  \begin{minipage}{.5\linewidth}
-    \centering
-    \begin{tabular}{c}
-      Id \\
-      \midrule
-      54000403000012012 \\
-      54000405000022007 \\
-      54000405000082006 \\
-      54000405000092017 \\
-      54000405000102010 \\
-      \bottomrule
-    \end{tabular}
-    \caption*{Query 5}
-  \end{minipage}
-\end{table}
-
-\begin{table}[H]
-  \centering
-  \begin{tabular}{cl}
-    Id & Nome \\
-    \midrule
-    39073  &	CALEVI MINERADORA E COMERCIO LTDA - EPP \\
-    179674 &	JUDITH FERREIRA DOS SANTOS - ME \\
-    11266  &	J. M. TORRES JORNAIS E REVISTAS LTDA - EPP \\
-    15629  &	DIAMOND - PROMOCOES E EVENTOS LTDA - EPP \\
-    122140 &	M L CONSULTORIA E SERVICOS LTDA - ME \\
-    \multicolumn{2}{c}{\vdots} \\
-    6673   &	REIMAQ ASSISTENCIA TECNICA DE DUPLICADORES EIRELI - EPP \\
-    52078  &	NARA COMERCIAL DE ALIMENTOS LTDA - EPP \\
-    238754 &	CTO SERVICOS EMPRESARIAIS LTDA - ME \\
-    84692  &	PEDRO PORFIRIO DA FONSECA - ME \\
-    19713  &	IT SERVICOS CORPORATIVOS, COMERCIO E EMPREENDIMENTOS EIRELI - EPP \\
-    \bottomrule
-  \end{tabular}
-  \caption*{Query 2}
-\end{table}
-
-\begin{table}[H]
-  \begin{minipage}{.3\linewidth}
+  \begin{minipage}{.29\linewidth}
     \centering
     \begin{tabular}{c}
       Id \\
@@ -389,7 +351,7 @@ UASGs.orgao $\rightarrow$ Orgao.id
     \end{tabular}
     \caption*{Query 3}
   \end{minipage}
-  \begin{minipage}{.3\linewidth}
+  \begin{minipage}{.29\linewidth}
     \centering
     \begin{tabular}{cc}
       Id & Count \\
@@ -400,16 +362,16 @@ UASGs.orgao $\rightarrow$ Orgao.id
       15814605000092015 & 16 \\
       17013305000122009 & 15 \\
       \vdots \\
-      51018105000062011	& 3 \\
-      16026505000012010	& 3 \\
-      16029505000062012	& 3 \\
-      16011105000122007	& 3 \\
-      39301405007452009	& 3 \\
+      51018105000062011 & 3 \\
+      16026505000012010 & 3 \\
+      16029505000062012 & 3 \\
+      16011105000122007 & 3 \\
+      39301405007452009 & 3 \\
       \bottomrule
     \end{tabular}
     \caption*{Query 6}
   \end{minipage}
-  \begin{minipage}{.3\linewidth}
+  \begin{minipage}{.29\linewidth}
     \centering
     \begin{tabular}{c}
       Id \\
@@ -432,31 +394,131 @@ UASGs.orgao $\rightarrow$ Orgao.id
 \end{table}
 
 \begin{table}[H]
+  \begin{minipage}{.2\linewidth}
+    \centering
+    \begin{tabular}{c}
+      Id \\
+      \midrule
+      54000403000012012 \\
+      54000405000022007 \\
+      54000405000082006 \\
+      54000405000092017 \\
+      54000405000102010 \\
+      \bottomrule
+    \end{tabular}
+    \caption*{Query 5}
+  \end{minipage}
+  \begin{minipage}{.8\linewidth}
+    \centering
+    \begin{tabular}{l}
+      \multicolumn{1}{c}{Nome} \\
+      \midrule
+      SAE-CNEN/CENTRO DESENV.TECNOLOGIA NUCLEAR/MG \\
+      UNIDADE ESTADUAL DO IBGE EM MINAS GERAIS \\
+      SUPERINT.FEDERAL DE AGRIC.PECUARIA E ABASTEC. \\
+      DISTRITO DE METEOROLOGIA/MG \\
+      COMPANHIA NACIONAL DE ABASTECIMENTO - CONAB \\
+      \multicolumn{1}{c}{\vdots} \\
+      DELEG.REG.DO TRAB/MINAS GERAIS \\
+      SUP. REG. DO DNIT NO ESTADO DE MINAS GERAIS \\
+      ESCRITÓRIO DE REPRESENTAÇÃO DO IBRAM/MG-ES \\
+      GERÊNCIA REGIONAL EM BELO HORIZONTE \\
+      GERÊNCIA EXECUTIVA BELO HORIZONTE/MG \\
+      \bottomrule
+    \end{tabular}
+    \caption*{Query 4}
+  \end{minipage}
+\end{table}
+
+\begin{table}[H]
   \centering
-  \begin{tabular}{l}
-    \multicolumn{1}{c}{Nome} \\
+  \begin{tabular}{ll}
+    Id & Nome \\
     \midrule
-    SAE-CNEN/CENTRO DESENV.TECNOLOGIA NUCLEAR/MG \\
-    UNIDADE ESTADUAL DO IBGE EM MINAS GERAIS \\
-    SUPERINT.FEDERAL DE AGRIC.PECUARIA E ABASTEC. \\
-    DISTRITO DE METEOROLOGIA/MG \\
-    COMPANHIA NACIONAL DE ABASTECIMENTO - CONAB \\
-    \multicolumn{1}{c}{\vdots} \\
-    DELEG.REG.DO TRAB/MINAS GERAIS \\
-    SUP. REG. DO DNIT NO ESTADO DE MINAS GERAIS \\
-    ESCRITÓRIO DE REPRESENTAÇÃO DO IBRAM/MG-ES \\
-    GERÊNCIA REGIONAL EM BELO HORIZONTE \\
-    GERÊNCIA EXECUTIVA BELO HORIZONTE/MG \\
+    39073  &  CALEVI MINERADORA E COMERCIO LTDA - EPP \\
+    179674 &  JUDITH FERREIRA DOS SANTOS - ME \\
+    11266  &  J. M. TORRES JORNAIS E REVISTAS LTDA - EPP \\
+    15629  &  DIAMOND - PROMOCOES E EVENTOS LTDA - EPP \\
+    122140 &  M L CONSULTORIA E SERVICOS LTDA - ME \\
+    \multicolumn{2}{c}{\vdots} \\
+    6673   &  REIMAQ ASSISTENCIA TECNICA DE DUPLICADORES EIRELI - EPP \\
+    52078  &  NARA COMERCIAL DE ALIMENTOS LTDA - EPP \\
+    238754 &  CTO SERVICOS EMPRESARIAIS LTDA - ME \\
+    84692  &  PEDRO PORFIRIO DA FONSECA - ME \\
+    19713  &  IT SERVICOS CORPORATIVOS, COMERCIO E EMPREENDIMENTOS EIRELI - EPP \\
     \bottomrule
   \end{tabular}
-  \caption*{Query 4}
+  \caption*{Query 2}
+\end{table}
+
+\begin{table}[H]
+  \centering
+  \begin{tabular}{ll}
+    Id & Nome \\
+    \midrule
+    169575 &  DWA CONSTRUCOES ELETROMECANICAS LTDA - ME \\
+    7736   &  ALLEN RIO SERV. E COM. DE PROD. DE INFORMATICA LTDA \\
+    141979 &  MOTOROLA SOLUTIONS LTDA \\
+    216020 &  CLEMAR ENGENHARIA LTDA \\
+    293788 &  OPT - ELETRONICOS E BATERIAS LIMITADA \\
+    \multicolumn{2}{c}{\vdots} \\
+    57778  & MA RESENDE DA COSTA EIRELI - EPP \\
+    74020  & STOQUE SOLUCOES TECNOLOGICAS LTDA \\
+    8753   & MASAN SERVICOS ESPECIALIZADOS LTDA \\
+    449454 & FGP ANDRADE TRANSPORTES E LOCACAO LTDA - EPP \\
+    201725 & PEUGEOT-CITROEN DO BRASIL AUTOMOVEIS LTDA \\
+    \bottomrule
+  \end{tabular}
+  \caption*{Query 8}
+\end{table}
+
+\begin{table}[H]
+  \centering
+  \begin{tabular}{ll}
+    Id & Nome \\
+    \midrule
+    1  & BANCO DO BRASIL SA \\
+    29 & DISTRIBUIDORA BRASILIA DE VEICULOS S/A \\
+    33 & CINE FOTO GB LTDA \\
+    90 & LOPES GAMA COMERCIO LOCACAO E SERVICOS LTDA - EPP \\
+    96 & M F - CONSTRUCOES, INCORPORADORA, COMERCIO E REPRESENTACOES LTD - ME \\
+    \multicolumn{2}{c}{\vdots} \\
+    508646  & EDIFICARE SERVICOS DE ENGENHARIA LTDA - ME \\
+    511385  & ELEKTRA CONSTRUCAO E MANUTENCAO ELETRICA LTDA  - ME \\
+    9515495 & SERVINORTE ADMINIST DE SERVICOS DE VIGILANCIA LTDA \\
+    9515511 & PLANETARIUM FEST TURISMO E EVENTOS LTDA - ME \\
+    9517310 & CHX COMERCIO DE ALIMENTACAO EIRELI - ME \\
+    \bottomrule
+  \end{tabular}
+  \caption*{Query 9}
+\end{table}
+
+\begin{table}[H]
+  \centering
+  \begin{tabular}{ll}
+    Id & Nome \\
+    \midrule
+    1  & BANCO DO BRASIL SA \\
+    29 & DISTRIBUIDORA BRASILIA DE VEICULOS S/A \\
+    30 & DISTRIBUIDORA BRASILIA DE VEICULOS S/A \\
+    33 & CINE FOTO GB LTDA \\
+    71 & COMPACTA COMERCIO E SERVICOS LTDA \\
+    \multicolumn{2}{c}{\vdots} \\
+    508646  & EDIFICARE SERVICOS DE ENGENHARIA LTDA - ME \\
+    511385  & ELEKTRA CONSTRUCAO E MANUTENCAO ELETRICA LTDA  - ME \\
+    9515495 & SERVINORTE ADMINIST DE SERVICOS DE VIGILANCIA LTDA \\
+    9515511 & PLANETARIUM FEST TURISMO E EVENTOS LTDA - ME \\
+    9517310 & CHX COMERCIO DE ALIMENTACAO EIRELI - ME \\
+    \bottomrule
+  \end{tabular}
+  \caption*{Query 10}
 \end{table}
 
 \pagebreak
 
 \subsection{Tempo de Execução}
-O gráfico mostra a comparação dos tempos de execução das duas versões das queries.
-O tempo foi o \textit{user time} do Linux.
+O gráfico mostra a comparação dos tempos de execução das duas versões das queries. \\
+O tempo contabilizado foi o \textit{user time}.
 \begin{figure}[H]
   \begin{center}  
     \includesvg[width=.90\linewidth]{graphs/graph0}    
