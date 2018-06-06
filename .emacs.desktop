@@ -1,0 +1,31 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Wed May 30 16:04:16 2018
+;; Desktop file format version 208
+;; Emacs version 26.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23310 62896 168368 645000) (desktop . "208") "haneybarg@haneybarg-uk" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font-backend xft x) (font . "-PfEd-DejaVu Sans Mono-normal-normal-normal-*-15-*-*-*-m-0-iso10646-1") (font-parameter . "Monospace 11") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#e1e1e0") (background-color . "#2d3743") (mouse-color . "#232627") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground . "#232627") (scroll-bar-background . "#232627") (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "WhiteSmoke") (sticky) (environment) (powerline-cache) (frameset--id . "6CCF-9D15-046C-E3E6") (frameset--mini t . t) (height . 36) (width . 80) (modeline . t) (unsplittable) (left . 387) (top . 205) (icon-name) (display . ":0") (explicit-name)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 72) (min-pixel-width . 90) (min-pixel-height-ignore . 36) (min-pixel-width-ignore . 36) (min-pixel-height-safe . 18) (min-pixel-width-safe . 18)) leaf (pixel-width . 736) (pixel-height . 612) (total-width . 81) (total-height . 34) (normal-height . 1.0) (normal-width . 1.0) (buffer "magit: ibd-tp2" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 331) (start . 1))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist '((69 file . "/home/haneybarg/Emacs/dotemacs/gahag.el") (101 file . "~/.emacs")))
+(setq file-name-history '("~/Downloads/UFMG/study-ibd/tp2/ibd-tp2/proposal.pdf" "~/Downloads/UFMG/study-ibd/tp2/ibd-tp2/relational.txt" "~/.emacs.d/session.10148f0144142000152761990200000005930019" "~/Downloads/UFMG/study-ibd/tp2/ibd-tp2/schema.txt" "~/Downloads/UFMG/study-ibd/tp2/ibd-tp2/normalize-jsons.sh" "~/Downloads/UFMG/study-ibd/tp2/ibd-tp2/data/processed/municipios.json" "~/Downloads/UFMG/study-ibd/tp2/test.txt" "~/Downloads/UFMG/study-ibd/tp2/ibd-tp2/data/original/municipios.json" "~/Downloads/UFMG/study-ibd/tp2/ibd-tp2/tp2.pdf" "~/Downloads/UFMG/study-ibd/tp2/ibd-tp2/data/uasgs.sql" "~/Downloads/UFMG/study-ibd/tp2/ibd-tp2/data/licitacoes.sql" "~/Downloads/UFMG/study-ibd/tp2/ibd-tp2/data/processed/uasgs.json" "~/Downloads/UFMG/study-ibd/tp2/ibd-tp2/data/original/uasgs.json" "~/Downloads/UFMG/study-ibd/tp2/ibd-tp2/data/processed/orgaos.json" "~/Downloads/UFMG/study-ibd/tp2/ibd-tp2/data/original/orgaos.json" "~/Downloads/UFMG/study-ibd/tp2/tp2.sql" "~/Downloads/Jupyter/champ.py" "~/Downloads/Jupyter/people_data.py" "~/Downloads/Jupyter/eliminate.py" "~/Downloads/Jupyter/champions.py" "~/Downloads/Jupyter/APIGrabber.py" "~/Downloads/Jupyter/go.sh" "~/Downloads/Jupyter/ban.py" "~/Downloads/Jupyter/find.py" "~/Downloads/Jupyter/cdf.py" "~/Dropbox/Orgzly/To do.org" "~/Downloads/Jupyter/graph.py" "~/Downloads/Aeds_III/MÅÛdulo 3/tp2.c" "~/Downloads/Aeds_III/MÅÛdulo 3/test.c" "/sudo:root@haneybarg-uk:/etc/pacman.conf" "~/Downloads/Jupyter/Go.bat" "~/Downloads/UFMG/study-ibd/Tasks/relalgSql.hs" "/usr/share/applications/org.kde.konsole.desktop" "~/Downloads/Aeds_III/MÅÛdulo 2/TP1/template/run_tests.sh" "~/Downloads/UFMG/study-ibd/Tasks/task.pdf" "~/Downloads/UFMG/study-ibd/Tasks/task.tex" "~/Downloads/Aeds_III/MÅÛdulo 1/tp0/doc.tex" "~/Downloads/Aeds_III/MÅÛdulo 2/TP1/template/Makefile" "~/Downloads/Aeds_III/MÅÛdulo 2/TP1/template/doc.tex" "~/Downloads/Aeds_III/MÅÛdulo 2/TP1/template/doc.pdf" "~/Downloads/Aeds_III/MÅÛdulo 2/TP1/template/sort.c" "~/Downloads/UFMG/study-ibd/tp/2016058166.csv" "~/.emacs.d/elpa/pdf-tools-20180428.827/pdf-tools-autoloads.el" "~/.emacs.d/elpa/tablist-20170219.1935/tablist-autoloads.el" "~/Emacs/dotemacs/instances/any.linux.el" "~/.emacs" "~/Emacs/dotemacs/instances/home.arch.el" "~/.emacs.d/elpa/magit-20180501.1542/magit-autoloads.el" "~/.emacs.d/elpa/ghub-20180417.1527/ghub-autoloads.el" "~/.emacs.d/elpa/git-commit-20180411.1649/git-commit-autoloads.el"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/haneybarg/Downloads/UFMG/study-ibd/tp2/ibd-tp2/proposal.pdf"
+  "proposal.pdf"
+  'doc-view-mode
+  '(company-mode yas-minor-mode helm-mode auto-revert-mode global-auto-revert-mode)
+  1
+  '(nil nil)
+  t
+  '((page . 1) (slice))
+  '((buffer-display-time 23310 54414 925590 770000) (buffer-file-coding-system . no-conversion))
+  '((mark-ring nil)))
+
