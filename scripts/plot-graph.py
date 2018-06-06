@@ -56,7 +56,7 @@ def plot(indexes, times1, times2):
   plt.ylabel("Tempo (s)")
   plt.xticks(ticks + width/2, indexes)
   
-  plt.savefig(unique_filename(lambda i: "graph" + str(i) + ".svg"))
+  plt.savefig(unique_filename(lambda i: "report/graphs/graph" + str(i) + ".svg"))
 
 
 if __name__ == '__main__':
